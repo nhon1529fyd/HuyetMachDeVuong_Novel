@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/NhungNguoiKhongTonTai.md",
+                "file": "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/00_INDEX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "NhungNguoiKhongTonTai"
+              "title": "00_INDEX"
             }
           },
           {
@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/ViHuyenLenhTot.md",
+                "file": "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/CongVanVietRangLacThuyDaYen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ViHuyenLenhTot"
+              "title": "CongVanVietRangLacThuyDaYen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,24 +131,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "d90ed845d39c1241",
+  "active": "99d5e9cb398c23ef",
   "lastOpenFiles": [
-    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/00_INDEX.md",
-    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/KeDungSauTamMan.md",
     "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/NhungNguoiKhongTonTai.md",
+    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/CongVanVietRangLacThuyDaYen.md",
+    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/00_INDEX.md",
+    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/NguoiDungTruocDan.md",
+    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/KhoLaTaMo.md",
+    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/NamDuongSongTruocTuCuc.md",
+    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/ViHuyenLenhTot.md",
+    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/KeDungSauTamMan.md",
     "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/HocTroDuyNhat.md",
     "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/DuaTreKhongTonTai.md",
     "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/SoSachVietThaiBinhDanNgheTiengDoi.md",
     "04_TUYEN_TRUYEN/Minh_Chau_Truyen/README.md",
-    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/CongVanVietRangLacThuyDaYen.md",
     "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/BaiHocDauTien.md",
-    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/KhoLaTaMo.md",
-    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/ViHuyenLenhTot.md",
     "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/NguoiDangHanNhat.md",
     "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/ViecDungVaThoiDiemDung.md",
     "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/README.md",
-    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/NguoiDungTruocDan.md",
-    "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/NamDuongSongTruocTuCuc.md",
     "04_TUYEN_TRUYEN/Minh_Chau_Truyen/01_Phan_1_Lac_Thuy/nhung_nguoi_khong_ton_tai.md",
     "03_THE_LUC_HE_THONG/Cat_Gia_Tuong_Ky.md",
     "03_THE_LUC_HE_THONG/Hac_Nham.md",
