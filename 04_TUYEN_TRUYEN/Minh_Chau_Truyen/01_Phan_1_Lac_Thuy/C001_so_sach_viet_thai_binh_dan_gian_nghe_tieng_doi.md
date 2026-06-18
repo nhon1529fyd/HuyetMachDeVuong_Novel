@@ -190,7 +190,13 @@ Trên giấy không có nhiều chữ, chỉ là mấy lời bình luận ngắn
 
 Người đời gọi vị lão nhân ấy là Vân Lão.
 
-Công thần khai quốc cũ. Đệ nhất mưu sĩ từng đứng sau những chiến dịch khiến Thái Tổ thống nhất Đại Ninh. Nhưng sau ngày lập quốc, ông rời triều, không nhận phong thưởng, không lập phủ đệ, cũng không nhận môn sinh chính thức. Người trong thiên hạ nói ông đã chán quyền thế, lui về làm khách mây trời.
+Công thần khai quốc cũ. Đệ nhất mưu sĩ từng đứng sau những chiến dịch khiến Thái Tổ thống nhất Đại Ninh. 
+
+Nhưng sau khi đại Ninh đã ổn định nền tảng quốc gia.  
+
+Ông rời triều, không nhận phong thưởng, không lập phủ đệ, cũng không nhận môn sinh chính thức. 
+
+Người trong thiên hạ nói ông đã chán quyền thế, lui về làm khách mây trời. 
 
 Chỉ rất ít người biết, Vân Lão vẫn đi qua các châu quận, vẫn đọc sổ dân, vẫn hỏi giá gạo, vẫn nhìn những vết nứt dưới lớp son thái bình.
 
