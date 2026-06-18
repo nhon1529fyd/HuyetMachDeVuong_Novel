@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C012
+chapter_id: LT-012
+sort_key: 120
 tieu_de: Việc đúng và thời điểm đúng
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C012 — Việc đúng và thời điểm đúng
+# Việc đúng và thời điểm đúng
 
 ## Metadata
 

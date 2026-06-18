@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C006
+chapter_id: LT-006
+sort_key: 060
 tieu_de: Bài học đầu tiên
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C006 — Bài học đầu tiên
+# Bài học đầu tiên
 
 ## Metadata
 

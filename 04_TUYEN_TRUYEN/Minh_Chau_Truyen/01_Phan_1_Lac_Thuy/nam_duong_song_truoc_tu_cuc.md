@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C002
+chapter_id: LT-002
+sort_key: 020
 tieu_de: Năm đường sống trước tử cục
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C002 — Năm đường sống trước tử cục
+# Năm đường sống trước tử cục
 
 ## Metadata
 

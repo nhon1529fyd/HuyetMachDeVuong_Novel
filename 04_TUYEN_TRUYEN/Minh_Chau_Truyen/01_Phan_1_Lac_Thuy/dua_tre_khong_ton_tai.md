@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C007
+chapter_id: LT-007
+sort_key: 070
 tieu_de: Đứa trẻ không tồn tại
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C007 — Đứa trẻ không tồn tại
+# Đứa trẻ không tồn tại
 
 ## Metadata
 

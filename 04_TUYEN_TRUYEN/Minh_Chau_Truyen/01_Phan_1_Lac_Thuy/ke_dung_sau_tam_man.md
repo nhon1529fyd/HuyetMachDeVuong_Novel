@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C010
+chapter_id: LT-010
+sort_key: 100
 tieu_de: Kẻ đứng sau tấm màn
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C010 — Kẻ đứng sau tấm màn
+# Kẻ đứng sau tấm màn
 
 ## Metadata
 

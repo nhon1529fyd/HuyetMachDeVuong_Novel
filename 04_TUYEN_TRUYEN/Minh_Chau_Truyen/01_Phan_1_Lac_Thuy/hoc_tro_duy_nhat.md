@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C013
+chapter_id: LT-013
+sort_key: 130
 tieu_de: Học trò duy nhất
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C013 — Học trò duy nhất
+# Học trò duy nhất
 
 ## Metadata
 

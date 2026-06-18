@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C001
+chapter_id: LT-001
+sort_key: 010
 tieu_de: Sổ sách viết thái bình, dân gian nghe tiếng đói
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C001 — Sổ sách viết thái bình, dân gian nghe tiếng đói
+# Sổ sách viết thái bình, dân gian nghe tiếng đói
 
 ## Metadata
 

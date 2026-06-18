@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C003
+chapter_id: LT-003
+sort_key: 030
 tieu_de: Kho là ta mở
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C003 — Kho là ta mở
+# Kho là ta mở
 
 ## Metadata
 

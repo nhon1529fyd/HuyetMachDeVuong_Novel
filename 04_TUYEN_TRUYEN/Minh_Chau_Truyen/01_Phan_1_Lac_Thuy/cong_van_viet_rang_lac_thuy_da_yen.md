@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C005
+chapter_id: LT-005
+sort_key: 050
 tieu_de: Công văn viết rằng Lạc Thủy đã yên
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C005 — Công văn viết rằng Lạc Thủy đã yên
+# Công văn viết rằng Lạc Thủy đã yên
 
 ## Metadata
 

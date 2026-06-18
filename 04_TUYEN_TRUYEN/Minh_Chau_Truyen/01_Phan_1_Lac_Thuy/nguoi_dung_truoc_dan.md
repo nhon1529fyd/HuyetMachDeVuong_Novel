@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C004
+chapter_id: LT-004
+sort_key: 040
 tieu_de: Người đứng trước dân
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C004 — Người đứng trước dân
+# Người đứng trước dân
 
 ## Metadata
 

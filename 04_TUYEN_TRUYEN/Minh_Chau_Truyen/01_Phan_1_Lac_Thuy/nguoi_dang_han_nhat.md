@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C009
+chapter_id: LT-009
+sort_key: 090
 tieu_de: Người đáng hận nhất
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C009 — Người đáng hận nhất
+# Người đáng hận nhất
 
 ## Metadata
 

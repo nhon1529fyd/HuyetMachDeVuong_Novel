@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C011
+chapter_id: LT-011
+sort_key: 110
 tieu_de: Vị huyện lệnh tốt
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C011 — Vị huyện lệnh tốt
+# Vị huyện lệnh tốt
 
 ## Metadata
 

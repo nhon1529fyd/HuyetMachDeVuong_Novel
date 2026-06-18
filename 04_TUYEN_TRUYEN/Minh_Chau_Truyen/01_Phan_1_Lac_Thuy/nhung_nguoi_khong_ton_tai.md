@@ -1,13 +1,14 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chuong: C008
+chapter_id: LT-008
+sort_key: 080
 tieu_de: Những người không tồn tại
 trang_thai: ban_nhap
 nguon: Tuyến Truyện Minh Châu.docx
 ---
 
-# C008 — Những người không tồn tại
+# Những người không tồn tại
 
 ## Metadata
 
