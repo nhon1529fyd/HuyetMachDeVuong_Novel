@@ -414,11 +414,135 @@ Lục Thanh Trì siết tay đến mức khớp xương trắng ra.
 
 “Con bé mới tám tuổi.”
 
-“Vì mới tám tuổi nên càng phải làm.”
+Lục phu nhân vội nói:
 
-Vân Lão nhìn ông.
+“Uyển Ninh còn quá nhỏ. Nó không biết sổ lương, không biết kho lương, càng không biết người nào trong châu phủ nhúng tay. Nó chỉ là một đứa trẻ. Bọn chúng quan tâm đến nó làm gì?”
 
-“Nếu con gái ngươi còn sống trong mắt kẻ thù, nàng sẽ là con tin. Nếu con bé còn trong Lục phủ, nó sẽ là dao đặt lên cổ ngươi. Muốn con bé sống, trước hết phải để thế gian tin rằng nó đã chết.”
+Vân Lão im lặng một lát.
+
+Ông nhìn quân trắng nhỏ trên bản đồ, ánh mắt trầm xuống.
+
+“Phải. Nó chỉ là một đứa trẻ.”
+
+Ông nói.
+
+“Nó không biết đối sổ. Không biết dâng sớ. Không biết cầm chứng cứ vào kinh. Cũng không đủ tư cách đứng trước công đường nói một câu khiến án này lật lại.”
+
+Lục Thanh Trì nhíu mày.
+
+“Vậy vì sao còn phải làm đến mức này?”
+
+Vân Lão ngẩng đầu nhìn ông.
+
+“Vì trong mắt bọn chúng, Uyển Ninh không nguy hiểm vì những gì nó biết.”
+
+Ông dừng một nhịp.
+
+“Nó nguy hiểm vì hai người thương nó.”
+
+Căn phòng lặng đi.
+
+Lục phu nhân khẽ run.
+
+Vân Lão đặt quân trắng nhỏ vào giữa Lục phủ và thiện đường.
+
+“Bọn chúng chưa chắc muốn giết một đứa trẻ. Giết nó thì được gì? Thêm một mạng người, thêm một cái xác phải giải thích, thêm một vết máu có thể khiến người khác nghi ngờ.”
+
+Ông nhìn Lục Thanh Trì.
+
+“Nhưng không giết, không có nghĩa là bỏ qua.”
+
+Lục Thanh Trì thấp giọng:
+
+“Ý tiên sinh là…”
+
+“Là dùng.”
+
+Vân Lão đáp.
+
+“Dùng nó để ép ngươi nhận tội. Dùng nó để ép phu nhân ký lời khai. Dùng nó để khiến hai người đang đứng thẳng phải cúi đầu.”
+
+Ngoài cửa, tiếng ho của dân bệnh vọng vào từng cơn.
+
+Vân Lão chỉ vào kho lương trên bản đồ.
+
+“Khi ngươi bị bắt, chúng không cần lập tức tra tấn ngươi. Chỉ cần nói: Lục đại nhân, con gái ngươi đang được châu phủ an trí. Ngươi nhận tội tự tiện khai kho, con bé sẽ bình an.”
+
+Sắc mặt Lục Thanh Trì đổi nhẹ.
+
+Vân Lão lại chỉ sang thiện đường.
+
+“Khi phu nhân bị giữ ở thiện đường, chúng cũng không cần rút đao. Chỉ cần đặt một tờ lời khai trước mặt phu nhân rồi nói: ký đi, tiểu thư còn nhỏ, không nên chịu khổ cùng tội quan.”
+
+Lục phu nhân môi run lên.
+
+“Ta sẽ không…”
+
+Bà nói được nửa câu thì nghẹn lại.
+
+Vân Lão nhìn bà.
+
+“Phu nhân có thể chịu đòn. Có thể chịu nhục. Có thể chịu bị giữ lại thiện đường, chịu thiếu thuốc, chịu bị hỏi cung cả đêm. Nhưng nếu chúng nói con bé đang nằm trong tay chúng, phu nhân còn chắc mình không ký không?”
+
+Lục phu nhân im lặng.
+
+Không phải vì nàng yếu.
+
+Mà vì nàng là mẹ.
+
+Lục Thanh Trì cúi mắt.
+
+“Nhưng nếu ta đưa con bé đi xa trước…”
+
+“Trốn đi chỉ là tránh khỏi mắt người.”
+
+Vân Lão ngắt lời.
+
+“Chết trên giấy tờ mới là tránh khỏi tay sổ sách.”
+
+Ông chỉ vào cuốn hộ tịch đặt cạnh bản đồ.
+
+“Nếu Uyển Ninh chỉ biến mất, cái tên ấy vẫn còn sống trong hộ tịch. Ngày sau bọn chúng có thể hỏi: con gái Lục Thanh Trì ở đâu? Có phải Lục gia đã sớm chuẩn bị đường lui? Có phải ngươi giấu con để chuyển chứng cứ? Có phải phu nhân đưa gia quyến bỏ trốn trước khi kích động dân chúng?”
+
+Ông dừng lại.
+
+“Lúc đó, dù con bé không ở trong tay chúng, cái tên Lục Uyển Ninh vẫn là một sợi dây thòng lọng. Chúng chỉ cần nắm cái tên ấy là có thể kéo hai người về bàn hỏi cung.”
+
+Lục Thanh Trì khàn giọng:
+
+“Nhưng nếu nó đã chết trong hộ tịch…”
+
+“Thì chúng mất cái cớ ấy.”
+
+Vân Lão nói.
+
+“Nếu bọn chúng còn muốn tìm, chúng sẽ phải tự hỏi: vì sao một vụ kho lương lại phải lật lại tử tịch của một đứa trẻ đã chết? Vì sao châu phủ phải truy một đứa bé không còn trong sổ?”
+
+Lục phu nhân cúi đầu rất thấp.
+
+Rất lâu sau, nàng hỏi:
+
+“Vậy tiên sinh không phải sợ bọn chúng giết Uyển Ninh?”
+
+“Ta sợ bọn chúng không giết.”
+
+Vân Lão đáp.
+
+“Sợ chúng giữ nó trong tay như một điều kiện trao đổi. Sợ chúng để nó sống đủ lâu để hai người phải lựa chọn. Sợ một đứa trẻ tám tuổi bị đặt lên bàn cân giữa sự thật và tình thân.”
+
+Ông cầm quân trắng nhỏ lên.
+
+“Cho nên trước khi chúng kịp biến nó thành con tin, ta phải để cái tên Lục Uyển Ninh chết trước.”
+
+Lục Thanh Trì nhắm mắt.
+
+“Tiên sinh muốn giết cái tên ấy.”
+
+“Phải.”
+
+Vân Lão đặt quân trắng nhỏ ra khỏi Lục phủ, về phía đường núi phía bắc.
+
+“Không phải giết đứa trẻ. Là giết cái tên mà bọn chúng có thể dùng để kéo nó về.” 
 
 Lục phu nhân cúi đầu, môi run lên.
 
