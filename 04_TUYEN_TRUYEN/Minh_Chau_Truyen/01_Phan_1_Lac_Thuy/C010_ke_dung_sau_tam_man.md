@@ -23,47 +23,73 @@ nguon: Tuyến Truyện Minh Châu.docx
 **Phần X: Kẻ đứng sau tấm màn**
 
 Đêm ở Nam Sơn rất yên tĩnh.
+
 Tiếng nước sông chảy qua bến đá nghe rõ đến từng nhịp.
+
 Minh Châu ngồi trên một phiến đá lớn bên bờ sông.
+
 Hai chân ôm sát vào người.
+
 Nàng nhìn mặt nước rất lâu.
+
 Không biết đang nghĩ gì.
 
 Vân Lão đứng phía xa.
+
 Không quấy rầy.
+
 Ông biết có những câu hỏi không thể dạy.
+
 Phải tự đi qua.
 
 Rất lâu sau.
+
 Minh Châu lên tiếng.
+
 "Tiên sinh."
+
 "Ừ."
+
 "Con đã nghĩ sai."
+
 Vân Lão không đáp.
+
 Chỉ chờ nàng nói tiếp.
 
 "Lúc ở Lạc Thủy."
+
 "Con luôn nghĩ chỉ cần tìm được kẻ xấu."
+
 "Thì mọi chuyện sẽ rõ."
+
 Nàng cúi đầu.
+
 "Nhưng hôm nay..."
+
 "Con không biết nên hận ai nữa."
 
 Gió đêm thổi qua mặt sông.
+
 Mang theo hơi lạnh.
 
 "Nếu Lý Văn Phúc là người xấu."
+
 "Con có thể hận ông ta."
+
 "Nhưng ông ta không giống."
 
 Nàng nhớ căn nhà dột.
+
 Nhớ đứa bé giấu nửa chiếc bánh khô.
+
 Nhớ ánh mắt hối hận của người đàn ông ấy.
 
 "Ông ta sai."
+
 "Nhưng ông ta cũng đang sống như một kẻ bị trừng phạt."
 
 Vân Lão hỏi:
+
 "Vậy con thấy thế nào?"
 
 Minh Châu im lặng rất lâu.
@@ -73,6 +99,7 @@ Minh Châu im lặng rất lâu.
 "Điều gì đáng sợ?"
 
 "Có những người không muốn làm điều ác."
+
 "Nhưng cuối cùng vẫn giúp cái ác thắng."
 
 Vân Lão khẽ gật đầu.
@@ -82,7 +109,9 @@ Vân Lão khẽ gật đầu.
 Minh Châu không trả lời ngay.
 
 Một lúc sau.
+
 Nàng nói:
+
 "Vì họ sợ."
 
 "Chỉ vậy?"
@@ -96,17 +125,21 @@ Minh Châu suy nghĩ.
 Rất lâu.
 
 Rồi nàng nói:
+
 "Vì họ nghĩ sẽ có người khác làm."
 
 Lần này.
+
 Vân Lão mới mỉm cười.
 
 "Đúng."
 
 Ông ngồi xuống cạnh nàng.
+
 Nhìn dòng sông đen phía trước.
 
 "Phần lớn tai họa trong thiên hạ."
+
 "Không bắt đầu bằng ác ý."
 
 "Vậy bắt đầu bằng gì?"
@@ -120,17 +153,21 @@ Minh Châu khẽ giật mình.
 Vân Lão tiếp tục.
 
 "Một người nghĩ như vậy."
+
 "Không sao."
 
 "Mười người nghĩ như vậy."
+
 "Vẫn chưa sao."
 
 "Một trăm người nghĩ như vậy."
+
 "Tai họa bắt đầu."
 
 Ông nhìn về phía xa.
 
 "Đến khi dân đói."
+
 "Người bán lương nghĩ quan phủ sẽ cứu."
 
 "Quan phủ nghĩ châu phủ sẽ cứu."
@@ -146,6 +183,7 @@ Vân Lão tiếp tục.
 "Không ai đứng ra."
 
 Tiếng nước sông chảy qua khe đá.
+
 Nghe như một tiếng thở dài rất dài.
 
 Minh Châu ngồi lặng.
@@ -161,6 +199,7 @@ Nhưng nếu tất cả mọi người đều chờ người khác.
 Thì dân Lạc Thủy cũng chết.
 
 Một lúc rất lâu sau.
+
 Nàng hỏi:
 
 "Tiên sinh."
@@ -210,6 +249,7 @@ Minh Châu lắc đầu.
 Vân Lão nhìn nàng.
 
 "Loại người mà nếu con sau này chỉ dùng luật để trị."
+
 "Thì sẽ không cứu được."
 
 Minh Châu khựng lại.
@@ -247,45 +287,83 @@ Thì thiên hạ sẽ mãi mãi lặp lại Lạc Thủy.
 Vân Lão đứng dậy.
 
 Ông lấy trong tay áo ra một quân cờ đen.
+
 Đặt lên phiến đá giữa hai người.
 
 Đây là lần đầu tiên từ khi gặp Minh Châu.
+
 Ông lấy bàn cờ ra.
 
 Không phải để dạy cờ.
+
 Mà để hỏi một câu.
+
 "Con nghĩ."
+
 "Trên bàn cờ."
+
 "Quân nào quan trọng nhất?"
+
 Minh Châu nhìn quân cờ.
+
 Rất lâu.
+
 Rồi đáp:
+
 "Quân tướng."
+
 Vân Lão lắc đầu.
+
 "Không."
+
 "Quân nào?"
+
 Ông đặt thêm một quân tốt nhỏ bên cạnh.
+
 "Quân mà mọi người nghĩ không quan trọng."
+
 Minh Châu nhìn quân cờ ấy.
+
 Một quân rất nhỏ.
+
 Dễ bị bỏ qua.
+
 Giống quả phụ ở Hạ Khê.
+
 Giống đứa trẻ giấu nửa chiếc bánh.
+
 Giống dân đói ở thiện đường.
+
 Giống những người không ai nhớ tên trong công văn.
+
 Vân Lão khẽ nói:
+
 "Muốn thiên hạ thái bình."
+
 "Trước hết phải nhìn thấy những quân cờ mà người khác không nhìn thấy."
+
 Ánh trăng đêm ấy rơi xuống mặt sông.
+
 Minh Châu nhìn quân cờ nhỏ trên phiến đá rất lâu.
+
 Nàng không biết.
+
 Nhiều năm sau.
+
 Chính câu nói này sẽ trở thành hạt nhân trong mọi sách lược của nàng.
+
 Không phải:
+
 Làm sao thắng.
+
 Mà là:
+
 Làm sao để những người nhỏ bé nhất vẫn còn đường sống sau khi mình thắng.
+
 Và đó là lần đầu tiên.
+
 Vân Lão nhận ra.
+
 Đứa trẻ ngồi trước mặt mình có lẽ không chỉ là người kế thừa trí tuệ của ông.
+
 Mà có thể là người sẽ đi xa hơn cả ông.

@@ -23,28 +23,43 @@ nguon: Tuyến Truyện Minh Châu.docx
 **Phần XI: Vị huyện lệnh tốt**
 
 Cuối mùa hạ.
+
 Vân Lão dẫn Minh Châu đến huyện Bình An.
+
 Đó là một huyện nhỏ nằm giữa hai con sông.
+
 Dân không giàu.
+
 Nhưng cũng không quá nghèo.
+
 Nhìn qua, đây là một nơi rất yên ổn.
 
 Trên đường vào huyện.
+
 Minh Châu phát hiện điều kỳ lạ.
+
 Ruộng được khai khẩn khá đều.
+
 Đê điều được sửa chữa.
+
 Chợ không quá hỗn loạn.
+
 Người ăn xin ít hơn nhiều nơi khác.
 
 Nàng hỏi:
+
 "Quan huyện ở đây giỏi sao?"
+
 Vân Lão đáp:
+
 "Khá giỏi."
 
 "Liêm khiết?"
+
 "Khá liêm khiết."
 
 "Yêu dân?"
+
 "Khá yêu dân."
 
 Minh Châu ngạc nhiên.
@@ -52,23 +67,31 @@ Minh Châu ngạc nhiên.
 Đây gần như là vị quan lý tưởng.
 
 Nhưng không hiểu vì sao.
+
 Vân Lão lại đưa nàng tới đây.
 
 Buổi chiều.
+
 Hai người ở lại một quán trà.
+
 Từ đây có thể nhìn thấy nha môn huyện.
 
 Minh Châu quan sát suốt một ngày.
 
 Huyện lệnh Bình An rất chăm chỉ.
+
 Ngày nào cũng tiếp dân.
+
 Đích thân kiểm tra đê điều.
+
 Đích thân kiểm tra kho lương.
+
 Đích thân xử án.
 
 Dân trong huyện cũng khá kính trọng ông.
 
 Ba ngày trôi qua.
+
 Minh Châu càng xem càng khó hiểu.
 
 "Tiên sinh."
@@ -316,7 +339,11 @@ Bây giờ.
 Lần đầu tiên.
 
 Nàng bắt đầu muốn hiểu:
+
 Làm sao để người tốt không phải một mình chống cả thiên hạ.
+
 Và chính từ đây, sứ mệnh nguyên sơ của Minh Châu bắt đầu vượt khỏi bi kịch của riêng Lạc Thủy.
+
 Nó dần trở thành một câu hỏi lớn hơn:
+
 Làm sao xây nên một thiên hạ mà ngay cả khi người tốt rời đi, điều tốt vẫn còn ở lại?
