@@ -397,7 +397,7 @@ Không phải vì chữ khó.
 
 Mà vì chữ quá lạnh.
 
-Huyện lệnh Lục Thanh Trì trong lúc xử trí phát chẩn tại Lạc Thủy, vì nóng lòng cứu dân, chưa kịp chờ lệnh châu phủ đã tự tiện khai kho phụ, tự lập sổ phát lương tại chỗ, khiến dân lưu tán nghe tin tụ tập trước kho, nhất thời có nguy cơ sinh rối.
+Huyện lệnh Lục Thanh Trì trong lúc xử trí phát chẩn tại Lạc Thủy, chưa kịp chờ lệnh châu phủ đã tự tiện khai kho phụ, tự lập sổ phát lương tại chỗ, khiến dân lưu tán nghe tin tụ tập trước kho, nhất thời có nguy cơ sinh rối.
 
 Châu phủ sau khi nhận báo đã sai người đến tiếp quản kho lương, ổn định dân chúng, kiểm lại số lương xuất nhập cùng danh sách nhận phát. Lục Thanh Trì trong thời gian tạm lưu đối chất, bạo bệnh phát nặng, không qua khỏi.
 
@@ -639,51 +639,345 @@ Vân Lão nói.
 
 Minh Châu nhìn ông.
 
-“Vậy công văn có thể nói dối?”
+“Vậy công văn này nói dối sao?”
+
+Vân Lão không đáp ngay.
+
+Nguyễn lão đang thêm củi cũng khựng lại.
+
+Một lúc sau, Vân Lão nói:
+
+“Không hẳn.”
+
+Minh Châu ngẩng đầu.
+
+Trong mắt nàng vẫn còn nước.
+
+“Không hẳn?”
+
+“Ừ.”
+
+Vân Lão nhìn mảnh công văn trên bàn.
+
+“Phụ thân con có khai kho không?”
+
+Minh Châu mím môi.
 
 “Có.”
 
-“Sổ lương có thể nói dối?”
+“Có chờ được lệnh châu phủ không?”
+
+“Không.”
+
+“Dân đói có tụ tập trước kho không?”
 
 “Có.”
 
-“Tấu chương có thể nói dối?”
+“Thiện đường có cháy không?”
+
+Nàng cúi đầu.
 
 “Có.”
 
-“Vậy cái gì không nói dối?”
+“Có người chết, có người bị thương không?”
 
-Vân Lão im lặng.
+Minh Châu ôm chiếc hộp gỗ chặt hơn.
 
-Ông muốn nói: người sống.
+“Có.”
 
-Nhưng Lạc Thủy vừa dạy họ rằng người sống cũng có thể bị bịt miệng.
+Vân Lão nói:
 
-Ông muốn nói: sự thật.
+“Vậy những chữ ấy chưa chắc là giả.”
 
-Nhưng sự thật nếu không có người giữ, cũng có thể bị chôn dưới tro.
+Minh Châu nhìn ông, giọng run lên:
 
-Cuối cùng, ông chỉ vào chiếc hộp gỗ trong tay nàng.
+“Nhưng cha con không phải tội quan.”
 
-“Thứ con còn nhớ.”
+“Đúng.”
 
-Minh Châu cúi xuống nhìn hộp.
+“Mẹ con không phải chỉ là một người trong ‘dân lưu tán tử thương’.”
 
-Trên nắp hộp còn vết ngón tay nàng bấu chặt mấy ngày qua.
+“Đúng.”
 
-“Nhưng nếu con nhớ khác công văn, người ta sẽ tin ai?”
+“Lạc Thủy cũng không yên.”
+
+“Đúng.”
+
+“Vậy vì sao tiên sinh nói nó không hẳn nói dối?”
+
+Vân Lão im lặng một lúc.
+
+Ngọn lửa nhỏ cháy trong gian phòng nửa sập, chiếu lên gương mặt già nua của ông.
+
+“Vì có những thứ không cần nói dối vẫn có thể che mất sự thật.”
+
+Minh Châu sững lại.
+
+Vân Lão cầm một que củi, gạt nhẹ tro trong bếp.
+
+“Tự tiện khai kho là thật. Nhưng công văn không viết vì sao phụ thân con phải khai kho.”
+
+“Dân tụ tập là thật. Nhưng nó không viết vì sao dân đói đến mức phải tụ tập, trước đó kho lương đã bị giữ lại bao lâu, ai là người chậm phát lương.”
+
+“Thiện đường phát hỏa là thật. Nhưng nó không viết lửa từ đâu mà lớn, ai đến muộn, ai không cứu, ai được lợi sau khi nơi ấy cháy.”
+
+“Một số dân lưu tán tử thương cũng có thể là thật. Nhưng nó không viết tên ai chết, ai bị thương, ai mất tích, ai bị đưa đi.”
+
+“Dân tình tạm ổn cũng có thể là thật. Vì người chết không còn kêu đói, người sống không dám kêu oan, đường phố không còn hỗn loạn. Nhìn từ công văn, đó cũng gọi là ổn.”
+
+Minh Châu nghe từng chữ.
+
+Mặt nàng trắng đi.
+
+Vân Lão nhìn nàng.
+
+“Con thấy chưa? Đáng sợ nhất không phải là một tờ giấy viết toàn lời giả.”
+
+Ông chỉ vào mảnh công văn.
+
+“Đáng sợ nhất là nó viết toàn những mảnh thật, rồi xếp chúng thành một câu chuyện khiến người đọc hiểu sai.”
+
+Minh Châu cúi đầu nhìn chiếc hộp gỗ.
+
+Trong hộp, mảnh sổ lương của phụ thân nằm cạnh chỗ sẽ đặt mảnh công văn châu phủ.
+
+Một cái giữ lại những người sắp bị quên.
+
+Một cái không cần xóa hết họ, chỉ cần gọi họ bằng một cái tên khác.
+
+Dân lưu tán.
+
+Tử thương.
+
+Tạm ổn.
+
+Án tạm khép.
+
+Minh Châu hỏi rất khẽ:
+
+“Vậy người đọc công văn sẽ tin?”
+
+“Phần lớn sẽ tin.”
+
+“Vì nó không nói dối?”
+
+“Vì nó không giống nói dối.”
+
+Câu ấy làm Minh Châu im lặng rất lâu.
+
+Nàng từng nghĩ lời nói dối là thứ rất dễ nhận ra.
+
+Như một đứa trẻ ăn vụng bánh rồi bảo mình không ăn.
+
+Như một người làm vỡ chén rồi giấu mảnh sứ sau lưng.
+
+Nhưng tờ công văn kia không giống vậy.
+
+Nó có chữ ngay ngắn.
+
+Có lối văn đúng phép.
+
+Có giọng điệu bình ổn.
+
+Có ấn của châu phủ.
+
+Nó không gào lên rằng cha nàng đáng chết.
+
+Nó chỉ viết rằng ông chưa kịp chờ lệnh đã tự tiện khai kho.
+
+Nó không nói mẫu thân nàng không quan trọng.
+
+Nó chỉ đặt bà vào giữa “một số dân lưu tán tử thương”.
+
+Nó không nói Lạc Thủy không còn máu.
+
+Nó chỉ viết “dân tình đã tạm ổn”.
+
+Minh Châu bỗng thấy lạnh.
+
+Lạnh hơn cả lúc nghe tin phụ thân không qua khỏi.
+
+Bởi vì nếu công văn nói dối trắng trợn, nàng còn có thể chỉ vào nó mà nói: sai.
+
+Nhưng nếu từng chữ đều có thể đúng, nàng phải chỉ vào đâu?
+
+Một lúc sau, nàng hỏi:
+
+“Vậy muốn phản bác nó, phải làm sao?”
+
+Vân Lão đáp:
+
+“Không thể chỉ nói nó sai.”
+
+“Vì sao?”
+
+“Vì người viết nó sẽ hỏi con: Lục Thanh Trì có khai kho không? Dân có tụ tập không? Thiện đường có cháy không? Có người chết không? Châu phủ có tiếp quản không?”
+
+Minh Châu không trả lời được.
+
+Vân Lão nói:
+
+“Muốn phản bác loại công văn này, con phải hỏi những thứ nó cố tình không hỏi.”
+
+“Ví dụ?”
+
+“Vì sao dân đói đến mức phải tụ tập?”
+
+“Ai giữ kho?”
+
+“Ai chậm phát lương?”
+
+“Ai sửa sổ?”
+
+“Ai ra lệnh tiếp quản?”
+
+“Ai có mặt ở thiện đường trước khi cháy?”
+
+“Ai mất tích sau vụ cháy?”
+
+“Ai được ghi tên, ai bị bỏ tên?”
+
+“Ai đóng ấn lên câu ‘án tạm khép’?”
+
+Minh Châu nghe rất chậm.
+
+Những câu hỏi ấy như từng hòn đá nhỏ rơi vào lòng nàng.
+
+Không lớn.
+
+Nhưng mỗi hòn đều nặng.
+
+Nàng hỏi:
+
+“Vậy công văn không chỉ viết chuyện đã xảy ra.”
+
+“Ừ.”
+
+“Nó còn dạy người đọc phải nghĩ theo hướng nào.”
+
+Vân Lão nhìn nàng.
+
+Trong mắt ông thoáng qua một vẻ rất sâu.
+
+“Đúng.”
+
+Minh Châu cúi đầu.
+
+“Vậy sử sách thì sao?”
+
+Nguyễn lão ngẩng đầu.
+
+Vân Lão cũng im lặng.
+
+Minh Châu nói rất nhỏ:
+
+“Cha con từng cho con đọc sử. Trong sử cũng có công văn, tấu chương, bản án, lời chép của sử quan.”
+
+Nàng ôm chiếc hộp chặt hơn.
+
+“Nếu những thứ ấy cũng giống tờ này…”
+
+Nàng dừng lại.
+
+Câu hỏi phía sau quá lớn.
+
+Lớn đến mức một đứa trẻ tám tuổi gần như không dám hỏi.
+
+Nhưng cuối cùng, nàng vẫn hỏi:
+
+“Vậy lịch sử có bao nhiêu chỗ là đúng?”
+
+Gian phòng bỗng yên tĩnh.
+
+Gió ngoài trạm nghỉ thổi qua mái ngói sập, làm bụi rơi xuống từng hạt rất nhỏ.
 
 Vân Lão nhìn nàng rất lâu.
 
-Câu hỏi ấy không giống câu hỏi của một đứa trẻ.
+Ông từng đứng trong những năm khai quốc.
 
-Nó giống câu hỏi của một triều đại.
+Từng thấy kẻ bại trận bị viết thành nghịch tặc.
 
-Nếu một đứa trẻ nhớ cha mình mở kho cứu dân, nhưng công văn viết cha nàng kích động dân biến, người đời sẽ tin ai?
+Từng thấy một lần thỏa hiệp được viết thành quy thuận.
 
-Nếu dân từng ăn cháo ở thiện đường nhớ phu nhân Lục gia cứu họ, nhưng hồ sơ viết thiện đường cháy vì dân tranh lương, hậu thế sẽ tin ai?
+Từng thấy một cuộc rút quân được viết thành giữ thế.
 
-Nếu một kho lương đầy từng bị khóa trước dân đói, nhưng sổ sách viết đã phát đủ, vậy người chết đói có còn tồn tại trong lịch sử không?
+Từng thấy những người chết không tên bị gom vào một chữ “dân”.
+
+Ông cũng từng thấy những kẻ thật sự phản loạn, thật sự tham tàn, thật sự đáng chết.
+
+Sử sách không phải toàn giả.
+
+Nhưng cũng chưa bao giờ là toàn bộ sự thật.
+
+Vân Lão chậm rãi nói:
+
+“Có nhiều chỗ đúng.”
+
+Minh Châu nhìn ông.
+
+“Nhưng không đủ?”
+
+“Ừ.”
+
+“Vậy chỗ thiếu thì sao?”
+
+“Chỗ thiếu thường là nơi người chết nằm lại.”
+
+Minh Châu cúi đầu.
+
+Vân Lão nói tiếp:
+
+“Nhớ lấy. Sử sách đáng sợ không phải chỉ vì nó có thể viết sai.”
+
+Ông nhìn chiếc hộp gỗ trong tay nàng.
+
+“Mà vì có khi nó viết đúng từng chuyện nhỏ, rồi khiến người đời hiểu sai cả một chuyện lớn.”
+
+Minh Châu ngồi yên rất lâu.
+
+“Vậy con phải học đọc chỗ thiếu.”
+
+Vân Lão không đáp ngay.
+
+Một lúc sau, ông nói:
+
+“Đúng.”
+
+Nàng đặt tay lên nắp hộp.
+
+“Không phải chỉ xem nó viết gì.”
+
+“Ừ.”
+
+“Mà còn xem nó không viết gì.”
+
+“Ừ.”
+
+“Không chỉ xem ai có tên.”
+
+“Ừ.”
+
+“Mà còn xem ai bị gọi thành ‘một số dân lưu tán’.”
+
+Vân Lão nhìn nàng.
+
+Lần này, ông không nói “ừ” nữa.
+
+Vì câu ấy đã đủ.
+
+Minh Châu khép mắt lại một chút.
+
+Trong đêm ấy, nàng chưa hiểu hết thế nào là quyền lực, thế nào là sử bút, thế nào là triều đình dùng chữ để khép một vụ án.
+
+Nhưng nàng hiểu một điều.
+
+Từ nay về sau, khi đọc bất kỳ dòng chữ nào viết rằng “dân tình đã yên”, nàng sẽ luôn tự hỏi:
+
+Ai là người nói yên?
+
+Yên cho ai?
+
+Và những người không còn được hỏi nữa, họ đang nằm ở đâu?
 
 Vân Lão không thể trả lời bằng một câu đẹp.
 
@@ -885,7 +1179,7 @@ Minh Châu nhìn ông.
 
 “Vì sao để vào đây?”
 
-“Để con nhớ không chỉ chuyện đã xảy ra, mà cả cách người ta sửa nó thành chuyện khác.”
+“Để con nhớ không chỉ chuyện đã xảy ra, mà cả cách người ta chọn chữ để khiến chuyện ấy thành một chuyện khác.”
 
 Nàng nhìn công văn nằm cạnh mảnh sổ lương.
 
@@ -897,7 +1191,7 @@ Cả hai đều có chữ.
 
 Nhưng một cái cố giữ lại những người sắp bị quên.
 
-Một cái cố khiến người còn sống không thể hỏi thêm.
+Một cái dùng những mảnh thật để khiến người còn sống không biết phải hỏi từ đâu.
 
 Minh Châu đậy hộp lại.
 
@@ -1135,4 +1429,4 @@ Mà là một người từng hận đến run lên, từng khóc đòi người
 
 Một viên ngọc được giấu ra khỏi tro tàn.
 
-Một vầng trăng nhỏ vừa học cách đọc những lời nói dối của thái bình.
+Một vầng trăng nhỏ vừa học cách đọc những khoảng trống dưới hai chữ thái bình.
