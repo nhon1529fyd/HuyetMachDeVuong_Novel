@@ -493,7 +493,7 @@ Minh Châu nắm lấy tay áo ông.
 
 Bàn tay nhỏ run đến mức không giữ nổi nếp vải.
 
-“Con không muốn tên mới. Con không muốn chiếc hộp này. Con không muốn học gì hết.”
+“Con không muốn tên mới.”
 
 Nàng khóc nấc lên.
 
@@ -605,7 +605,7 @@ Không phải vì nàng đã hết đau.
 
 Mà vì nỗi đau ấy bắt đầu tìm thấy một thứ để bám vào.
 
-Nàng hỏi:
+Nàng hỏi lại:
 
 “Vì sao công văn viết như vậy?”
 
@@ -629,9 +629,7 @@ Giấy trắng không có máu.
 
 Nhưng đôi khi nó che máu giỏi hơn bất kỳ tấm vải nào.
 
-“Vì người viết công văn muốn chuyện này kết thúc.”
-
-Vân Lão nói.
+“Vì người viết công văn muốn chuyện này kết thúc.” Vân Lão nói.
 
 “Nhưng chuyện chưa kết thúc.”
 
@@ -709,7 +707,7 @@ Vân Lão im lặng một lúc.
 
 Ngọn lửa nhỏ cháy trong gian phòng nửa sập, chiếu lên gương mặt già nua của ông.
 
-“Vì có những thứ không cần nói dối vẫn có thể che mất sự thật.”
+“Vì có những thứ không cần nói dối vẫn có thể bóp méo sự thật.”
 
 Minh Châu sững lại.
 
@@ -755,7 +753,7 @@ Tạm ổn.
 
 Minh Châu hỏi rất khẽ:
 
-“Vậy người đọc công văn sẽ tin?”
+“Vậy người đọc công văn sẽ tin sao?”
 
 “Phần lớn sẽ tin.”
 
@@ -801,23 +799,82 @@ Bởi vì nếu công văn nói dối trắng trợn, nàng còn có thể chỉ
 
 Nhưng nếu từng chữ đều có thể đúng, nàng phải chỉ vào đâu?
 
-Một lúc sau, nàng hỏi:
+Minh Châu cúi đầu nhìn mảnh công văn trên bàn.
 
-“Vậy muốn phản bác nó, phải làm sao?”
+Nước mắt trên mặt nàng vẫn chưa khô. Cổ họng vẫn còn đau vì vừa khóc quá lâu. Trong lồng ngực, nỗi đau vẫn cuộn lại từng cơn, chỉ cần ai nhắc đến cha mẹ nàng thêm một câu, nó có thể lập tức vỡ ra lần nữa.
+
+Nhưng lúc này, nàng không khóc tiếp.
+
+Không phải vì đã hết đau.
+
+Mà vì nàng bỗng nhận ra, nếu chỉ khóc, tờ công văn kia vẫn sẽ nằm đó.
+
+Nó vẫn sạch sẽ.
+
+Vẫn ngay ngắn.
+
+Vẫn có ấn đỏ.
+
+Vẫn có thể được người ta cầm lên, đọc qua một lần, rồi gật đầu nói: chuyện Lạc Thủy đã được xử trí ổn thỏa.
+
+Minh Châu muốn xé nó.
+
+Muốn ném nó vào lửa.
+
+Muốn hét lên với tất cả mọi người rằng không phải như vậy.
+
+Cha nàng không phải tội quan.
+
+Mẹ nàng không phải một người chết lẫn trong mấy chữ “dân lưu tán tử thương”.
+
+Lạc Thủy chưa từng yên.
+
+Nhưng nếu nàng hét lên, người ta sẽ hỏi nàng chứng cứ ở đâu.
+
+Nếu nàng nói công văn sai, người ta sẽ chỉ vào từng dòng trong đó mà hỏi: Lục Thanh Trì có khai kho không? Dân có tụ tập không? Thiện đường có cháy không? Châu phủ có tiếp quản không?
+
+Mỗi câu hỏi ấy đều giống một cánh cửa đóng lại trước mặt nàng.
+
+Nàng không biết phải đẩy cánh cửa nào.
+
+Cũng không biết phải chỉ vào chữ nào để nói: chính chỗ này đã giấu cha mẹ ta.
+
+Một lúc rất lâu sau, Minh Châu mới hỏi, giọng còn khàn vì khóc:
+
+“Vậy muốn vạch trần nó, phải làm sao?”
+
+Vân Lão nhìn nàng.
+
+“Vạch trần?”
+
+Minh Châu gật đầu rất nhẹ.
+
+“Con không muốn chỉ nói nó sai.”
+
+Nàng nhìn mảnh công văn.
+
+“Nó không giống đang nói dối.”
+
+Nàng dừng một chút, bàn tay nhỏ siết chặt mép hộp gỗ.
+
+“Nhưng nó đang che thứ gì đó.”
+
+Căn phòng lặng đi.
+
+Ngọn lửa nhỏ trong bếp khẽ lay động.
+
+Vân Lão nhìn đứa trẻ trước mặt. Mắt nàng đỏ hoe, mặt còn vương nước mắt, vai vẫn run vì cơn khóc vừa rồi. Nhưng trong câu hỏi ấy, nỗi đau đã bắt đầu biến thành một thứ khác.
+
+Không phải bình tĩnh.
+
+Mà là muốn biết.
+
+Muốn biết phải làm thế nào để một tờ giấy không có vẻ nói dối phải lộ ra phần nó đã giấu.
 
 Vân Lão đáp:
 
-“Không thể chỉ nói nó sai.”
 
-“Vì sao?”
-
-“Vì người viết nó sẽ hỏi con: Lục Thanh Trì có khai kho không? Dân có tụ tập không? Thiện đường có cháy không? Có người chết không? Châu phủ có tiếp quản không?”
-
-Minh Châu không trả lời được.
-
-Vân Lão nói:
-
-“Muốn phản bác loại công văn này, con phải hỏi những thứ nó cố tình không hỏi.”
+“Muốn vạch trần loại công văn này, con phải hỏi những thứ nó cố tình không hỏi.”
 
 “Ví dụ?”
 
@@ -935,7 +992,7 @@ Vân Lão nói tiếp:
 
 Minh Châu ngồi yên rất lâu.
 
-“Vậy con phải học đọc chỗ thiếu.”
+“Vậy con phải học đọc chỗ thiếu?”
 
 Vân Lão không đáp ngay.
 
@@ -1083,7 +1140,7 @@ Minh Châu cúi đầu.
 
 Nàng ôm chiếc hộp gỗ vào lòng, như ôm lấy chút “có” rất nhỏ ấy.
 
-“Vậy con học.”
+“Vậy con sẽ học.”
 
 Nguyễn lão ngẩng phắt đầu.
 
@@ -1137,11 +1194,35 @@ Minh Châu im lặng rất lâu.
 
 Minh Châu lập tức ngẩng đầu.
 
-Vân Lão nói tiếp:
+Trong khoảnh khắc ấy, đáy mắt nàng như có một tia sáng rất nhỏ vừa được thắp lên.
 
-“Để trả lại tên đúng cho cha con. Để biết ai đã sửa sổ, ai đã viết công văn, ai đã đóng ấn. Để một ngày nào đó, khi con nói sự thật, nó không còn là tiếng khóc của một đứa trẻ, mà là thứ người khác không thể dễ dàng xóa đi.”
+Rất nhỏ.
+
+Nhỏ đến mức chỉ cần Vân Lão nói thêm một câu lạnh lẽo, nó sẽ tắt ngay.
+
+Vân Lão nhìn thấy tia sáng ấy, nhưng ông không nỡ dùng lời hứa để nuôi nó lớn hơn sự thật.
+
+Ông nói tiếp:
+
+“Để trả lại công đạo cho cha con. Để biết ai đã sửa sổ, ai đã viết công văn, ai đã đóng ấn. Để một ngày nào đó, khi con nói sự thật, nó không còn là tiếng khóc của một đứa trẻ, mà là thứ người khác không thể dễ dàng xóa đi.”
 
 Minh Châu nhìn mảnh công văn.
+
+Nàng hiểu rất ít.
+
+Công đạo là gì, nàng chưa thật sự hiểu.
+
+Đóng ấn là gì, sửa sổ là gì, người đứng sau một tờ công văn có thể sâu đến đâu, nàng càng chưa hiểu.
+
+Nhưng nàng hiểu một điều.
+
+Nếu nàng không học, phụ thân nàng sẽ mãi là người “chưa kịp chờ lệnh đã tự tiện khai kho”.
+
+Nếu nàng không học, mẫu thân nàng sẽ mãi nằm trong mấy chữ “một số dân lưu tán tử thương”.
+
+Nếu nàng không học, cho dù một ngày nào đó có manh mối về mẹ, nàng cũng sẽ không biết phải lần theo tờ công văn nào, danh sách nào, hay cái tên nào đã bị đổi đi để tìm ra bà.
+
+Nàng cúi đầu.
 
 “Nhưng con vẫn hận.”
 
@@ -1151,21 +1232,77 @@ Minh Châu nhìn mảnh công văn.
 
 “Ta cũng biết.”
 
+“Con muốn họ đau như con đau.”
+
+Nguyễn lão khựng lại.
+
+Vân Lão nhìn nàng, không trách.
+
+Minh Châu nói rất khẽ:
+
+“Như vậy có sai không?”
+
+“Không sai.”
+
+Nàng ngẩng đầu.
+
+Vân Lão chậm rãi nói:
+
+“Nhưng nếu con chỉ muốn họ đau như con đau, con sẽ rất dễ giết nhầm người đầu tiên đứng trước mặt mình.”
+
+Minh Châu siết chặt tay.
+
+“Vậy con phải nhịn sao?”
+
+“Không phải nhịn.”
+
+“Vậy là gì?”
+
+“Là đợi đến khi con biết rõ ai đáng trả giá, ai chỉ bị đẩy ra chịu tội thay, ai cầm bút, ai đóng ấn, ai đứng sau khiến bút và ấn kia phải viết như vậy.”
+
+Minh Châu im lặng.
+
+Nước mắt trên mặt nàng đã khô một nửa, để lại vệt lạnh trên má.
+
+Nàng nhìn mảnh công văn rất lâu.
+
+Một tờ giấy mỏng như vậy, vậy mà nàng không biết nên hận cái chữ nào trước.
+
+Hận người viết.
+
+Hận người đóng ấn.
+
+Hận người sửa sổ.
+
+Hận người giữ kho.
+
+Hận kẻ phóng hỏa.
+
+Hay hận cả cái thứ khiến tất cả bọn họ có thể đứng sau một câu “án tạm khép”.
+
+Rất lâu sau, nàng lau nước mắt bằng mu bàn tay.
+
 “Vậy con học.”
 
-Nàng nói.
+Giọng nàng rất nhỏ.
+
+Không giống một lời thề.
+
+Cũng không giống một câu đã nghĩ thông.
+
+Nó giống một đứa trẻ vừa nhặt được mảnh đường duy nhất còn có thể đi trong đống tro tàn.
 
 “Không phải vì con hết hận.”
 
 Vân Lão nhìn nàng.
 
-Minh Châu lau nước mắt bằng mu bàn tay.
+Minh Châu ôm chiếc hộp gỗ vào lòng.
 
 “Là vì con không muốn hận sai người.”
 
 Câu ấy khiến Vân Lão im lặng rất lâu.
 
-Một đứa trẻ tám tuổi không nên nói ra câu như vậy.
+Một đứa trẻ tám tuổi vốn không nên phải học cách hận cho đúng.
 
 Nhưng Lạc Thủy đã không còn cho nàng làm một đứa trẻ bình thường nữa.
 
@@ -1173,15 +1310,27 @@ Vân Lão chậm rãi gấp công văn lại.
 
 Ông không đốt.
 
+Cũng không giấu đi.
+
 Ông đặt nó vào hộp gỗ của nàng.
 
 Minh Châu nhìn ông.
 
 “Vì sao để vào đây?”
 
-“Để con nhớ không chỉ chuyện đã xảy ra, mà cả cách người ta chọn chữ để khiến chuyện ấy thành một chuyện khác.”
+“Để con nhớ.”
 
-Nàng nhìn công văn nằm cạnh mảnh sổ lương.
+“Nhớ công văn này?”
+
+“Không chỉ nhớ công văn.”
+
+Vân Lão nhìn chiếc hộp gỗ trong tay nàng.
+
+“Nhớ chuyện đã xảy ra. Nhớ cách người ta chọn chữ để khiến chuyện ấy thành một chuyện khác. Nhớ rằng có những thứ muốn phản bác, không thể chỉ dựa vào đau lòng.”
+
+Minh Châu cúi đầu.
+
+Trong hộp, mảnh công văn nằm cạnh mảnh sổ lương phụ thân để lại.
 
 Một bên là giấy cha nàng giữ lại.
 
@@ -1193,240 +1342,72 @@ Nhưng một cái cố giữ lại những người sắp bị quên.
 
 Một cái dùng những mảnh thật để khiến người còn sống không biết phải hỏi từ đâu.
 
-Minh Châu đậy hộp lại.
+Minh Châu nhìn rất lâu.
 
-“Vân tiên sinh.”
+Sau đó nàng khép hộp lại.
 
-“Ừ.”
+Bên ngoài, trời đã sẩm tối.
 
-“Nếu sau này con học, con có thể sửa lại công văn này không?”
+Một vầng trăng mỏng hiện lên sau mái trạm nghỉ đổ nát. Ánh trăng nhạt rơi xuống nền đất, đủ để thấy bụi trên mặt bàn, vết nứt trên tường, và chiếc hộp gỗ vừa được đặt thêm một tờ công văn lạnh lẽo.
 
-“Có thể.”
+Nguyễn lão trải áo choàng cũ xuống góc phòng.
 
-“Có thể khiến cha con sống lại không?”
+“Ngủ một chút đi.”
 
-“Không.”
+Minh Châu ôm hộp gỗ, khẽ gật đầu.
 
-“Có thể tìm được mẹ con không?”
+Nàng nằm xuống.
 
-Vân Lão im lặng.
+Rất ngoan.
 
-Minh Châu nhìn ông không chớp mắt.
+Không hỏi nữa.
 
-Nàng không còn khóc thành tiếng, nhưng nước mắt vẫn còn dính trên mi. Cái nhìn ấy khiến Nguyễn lão cúi đầu xuống, không dám thở mạnh.
+Không khóc nữa.
 
-Rất lâu sau, Vân Lão nói:
+Cũng không nói rằng mình không ngủ được.
 
-“Ta không biết.”
+Nhưng Vân Lão biết nàng không ngủ.
 
-Minh Châu siết chặt hộp gỗ.
+Nguyễn lão cũng biết.
 
-Câu ấy không phải lời hứa.
+Một đứa trẻ vừa đọc công văn báo cha mình không qua khỏi, vừa biết mẹ mình bị nuốt mất trong mấy chữ “một số dân lưu tán tử thương”, sao có thể thật sự ngủ được.
 
-Nhưng cũng không phải lời tuyệt vọng.
+Đêm càng lúc càng lạnh.
 
-Đối với một đứa trẻ tám tuổi vừa mất cha, vừa không biết mẹ sống chết ở đâu, hai chữ “không biết” bỗng trở thành một khe cửa rất nhỏ. Nhỏ đến mức có thể kẹp đau tay. Nhưng vẫn là cửa.
+Nguyễn lão ngồi cạnh cửa, tay đặt gần con dao giấu dưới đống rơm. Mỗi lần ngoài đường có tiếng gió thổi qua cỏ dại, ông lại ngẩng đầu nhìn ra.
 
-“Nếu mẹ con còn sống,” nàng hỏi khẽ, “người có tìm bà không?”
+Vân Lão ngồi bên chiếc bàn gỗ gãy một chân.
 
-“Có.”
+Địa đồ vẫn mở trước mặt.
 
-“Nếu mẹ con bị đưa đi nơi khác?”
+Nhưng ông không nhìn địa đồ.
 
-“Ta sẽ cho người tìm.”
-
-“Nếu bọn họ cũng viết mẹ con thành người đã chết thì sao?”
-
-Vân Lão nhìn nàng.
-
-“Vậy phải tìm trong sổ. Tìm trong công văn. Tìm trong danh sách an trí. Tìm xem ai chuyển nàng đi, ai ký tên, ai đóng ấn, ai nhận người.”
-
-Minh Châu nghe rất chậm.
-
-Những chữ ấy quá lớn với nàng.
-
-Công văn.
-
-Danh sách.
-
-An trí.
-
-Ký tên.
-
-Đóng ấn.
-
-Nàng chưa hiểu hết.
-
-Nhưng nàng nghe ra một điều: nếu muốn biết mẹ còn sống hay không, chỉ khóc không đủ. Chỉ nhớ không đủ. Chỉ hận cũng không đủ.
-
-Nàng phải học cách đọc những thứ đã nuốt mất mẹ mình.
-
-“Vậy con học.”
-
-Nguyễn lão ngẩng phắt đầu.
-
-Vân Lão không tỏ vẻ vui.
-
-Ông chỉ nhìn nàng rất lâu.
-
-“Con còn nhỏ.”
-
-“Con có thể học từ từ.”
-
-“Học những thứ này rất đau.”
-
-“Không học thì cha con sẽ mãi là tội quan trong công văn. Mẹ con sẽ mãi là một dòng không có tên.”
-
-Vân Lão không đáp.
-
-Minh Châu hiểu.
-
-Nàng ôm chiếc hộp vào lòng.
-
-“Vậy con học.”
-
-Nàng dừng một chút, rồi nói thêm rất nhỏ:
-
-“Nhưng con vẫn hận.”
-
-Vân Lão nhìn nàng.
-
-Trong mắt đứa trẻ ấy có nước mắt.
-
-Cũng có lửa.
-
-Rất non.
-
-Rất nóng.
-
-Rất dễ đốt cháy chính nàng.
-
-“Con có quyền hận.”
-
-Minh Châu ngẩng đầu.
-
-Vân Lão nói:
-
-“Cha con bị vu thành tội quan. Mẫu thân con bị công văn nuốt mất tung tích. Lạc Thủy bị viết thành đã yên. Nếu con nói mình không hận, đó mới là nói dối.”
-
-“Vậy con có thể báo thù không?”
-
-“Có thể muốn.”
-
-“Nhưng không thể làm?”
-
-“Không phải không thể làm.”
-
-Vân Lão đặt tay lên nắp hộp gỗ.
-
-“Là không được để hận dắt con đi quá nhanh. Nếu con chỉ muốn giết một người, con sẽ bỏ sót những người đứng sau người đó. Nếu con chỉ muốn đốt một tờ công văn, con sẽ không thấy bàn tay đã viết ra nó, cái ấn đã đóng lên nó, cái sổ đã chuẩn bị cho nó, và cái hệ thống đã cần nó tồn tại.”
-
-Minh Châu cắn môi.
-
-“Con không hiểu hết.”
-
-“Bây giờ không cần hiểu hết.”
-
-“Vậy con cần làm gì?”
-
-“Sống. Khóc thì cứ khóc. Hận thì cứ hận. Nhưng phải sống đến ngày con đủ sức biết mình đang hận ai.”
-
-Minh Châu cúi đầu.
-
-Rất lâu sau, nàng nói:
-
-“Con không muốn hận sai người.”
-
-Câu ấy rất nhỏ.
-
-Nhỏ đến mức gần như bị tiếng gió ngoài trạm nghỉ nuốt mất.
-
-Nhưng Vân Lão vẫn nghe thấy.
-
-Ông nhìn nàng, trong lòng bỗng đau âm ỉ.
-
-Một đứa trẻ tám tuổi vốn không nên phải học cách hận cho đúng.
-
-Bên ngoài, trời sẩm tối.
-
-Một vầng trăng mỏng hiện lên sau mái trạm nghỉ đổ nát.
-
-Ánh trăng không sáng rực.
-
-Chỉ nhạt.
-
-Chỉ đủ để người ta nhìn thấy bụi trên mặt bàn, vết nứt trên tường, và chiếc hộp gỗ vừa được đặt thêm một tờ công văn lạnh lẽo.
-
-Đêm đó, Minh Châu vẫn hỏi mẹ.
-
-Trước khi ngủ, nàng hỏi:
-
-“Nếu mẹ con còn sống, bà có tìm con không?”
-
-Vân Lão đáp:
-
-“Có.”
-
-Nửa đêm tỉnh dậy, nàng lại hỏi:
-
-“Nếu mẹ con bị đưa đi, người có tìm được không?”
-
-“Ta sẽ tìm.”
-
-Gần sáng, khi lửa trong bếp chỉ còn than đỏ, nàng ôm chiếc hộp gỗ, giọng khàn đi vì khóc:
-
-“Nếu mẹ con về Lục phủ mà không thấy con thì sao?”
-
-Lần này, Vân Lão rất lâu không đáp.
-
-Cuối cùng ông nói:
-
-“Nếu nàng còn có thể về, nàng sẽ biết con còn sống.”
+Ông nhìn đứa trẻ nằm trong góc phòng.
 
 Minh Châu nhắm mắt.
 
-Nước mắt lại trượt xuống.
+Hai tay ôm chặt chiếc hộp gỗ trước ngực.
 
-Nhưng nàng không khóc thành tiếng nữa.
+Rất lâu sau, khi tưởng như nàng đã thiếp đi, hàng mi nàng bỗng run nhẹ.
 
-Nàng chỉ ôm chiếc hộp gỗ, như ôm cả cha đã chết, mẹ chưa rõ tung tích, và cái tên Lục Uyển Ninh đã bị chôn trong sổ hộ tịch.
+Một giọt nước mắt lặng lẽ trượt xuống, rơi vào bóng tối.
 
-Sáng hôm sau, nàng mở cuốn sổ lương mà Vân Lão đưa cho.
+Không có tiếng khóc.
 
-Số hộ.
+Không có tiếng gọi cha.
 
-Số người.
+Không có tiếng gọi mẹ.
 
-Số đấu gạo.
+Chỉ có một đứa trẻ nằm rất yên, như sợ nếu mình động đậy, những thứ cuối cùng còn giữ được trong lòng cũng sẽ vỡ ra.
 
-Tên thôn.
-
-Tên người nhận.
-
-Những thứ trước kia với nàng chỉ là chữ.
-
-Từ hôm ấy, mỗi chữ đều có khuôn mặt.
-
-Mỗi con số đều có thể là một bát cháo.
-
-Mỗi dòng bị sửa đều có thể là một người không còn được thế gian nhớ đúng.
-
-Vân Lão ngồi đối diện nàng.
-
-Ông nhìn đứa trẻ cúi đầu trước sổ lương, trong lòng bỗng có một cảm giác rất khó gọi tên.
+Vân Lão khẽ nhắm mắt.
 
 Ông đã cứu được nàng khỏi Lạc Thủy.
 
-Nhưng ông không cứu được nàng khỏi Lạc Thủy trong lòng nàng.
+Nhưng ông biết, đêm nay, không ai cứu được nàng khỏi Lạc Thủy trong lòng nàng.
 
-Có lẽ từ nay về sau, bất kể nàng đi đến đâu, trong mắt nàng cũng sẽ luôn có một kho lương đóng kín, một thiện đường có khói bếp, một công văn lạnh lẽo viết rằng mọi chuyện đã yên.
+Ngọn lửa trong bếp cháy thấp dần.
 
-Và cũng có lẽ chính vì vậy, một ngày nào đó, nàng mới có thể trở thành người mà ông chưa từng dám hy vọng sẽ gặp.
+Ngoài trạm nghỉ, sương núi phủ xuống từng lớp mỏng.
 
-Không phải một người không biết hận.
-
-Mà là một người từng hận đến run lên, từng khóc đòi người khác trả cha mẹ lại cho mình, rồi vẫn cố học cách không hận sai người.
-
-Một viên ngọc được giấu ra khỏi tro tàn.
-
-Một vầng trăng nhỏ vừa học cách đọc những khoảng trống dưới hai chữ thái bình.
+Đêm ấy, không ai thật sự ngủ.

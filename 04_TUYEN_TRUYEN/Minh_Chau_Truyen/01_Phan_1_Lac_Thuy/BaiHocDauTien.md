@@ -4,8 +4,8 @@ arc: Vầng trăng sinh ra từ Lạc Thủy
 chapter_id: LT-006
 sort_key: 060
 tieu_de: Bài học đầu tiên
-trang_thai: ban_nhap
-nguon: Tuyến Truyện Minh Châu.docx
+trang_thai: ban_nhap_viet_lai
+nguon: pasted-text.txt
 ---
 
 # Bài học đầu tiên
@@ -14,58 +14,349 @@ nguon: Tuyến Truyện Minh Châu.docx
 
 - Tuyến truyện: Minh Châu Truyện
 - Arc: Vầng trăng sinh ra từ Lạc Thủy
-- Phần gốc: Phần VI: Bài học đầu tiên
-- Trạng thái: Bản nháp
-
-## Nội dung chương
+- Trạng thái: Bản nháp viết lại
 
 **MINH CHÂU — VẦNG TRĂNG SINH RA TỪ LẠC THỦY**
 
-**Phần VI: Bài học đầu tiên**
+**Phần VII: Bài học đầu tiên**
 
-Sau đêm ở trạm nghỉ cũ, Vân Lão không đưa Minh Châu đi xa ngay.
+Chiều muộn hôm ấy, họ đến Thanh Khê.
 
-Ông dẫn nàng men theo đường núi, vòng qua mấy thôn nhỏ phía bắc An Dương, cuối cùng dừng lại ở một căn nhà tranh nằm dưới chân núi Thanh Khê.
+Núi Thanh Khê không cao lắm, nhưng đường lên quanh co. Một bên là vách đất phủ rêu, một bên là rừng trúc nghiêng xuống theo gió. Xe đi qua đoạn dốc cuối cùng thì mặt trời đã khuất sau lưng núi, chỉ còn một vệt sáng nhạt vắt ngang nền trời.
 
-Nơi đó rất vắng.
+Nguyễn lão kéo dây cương chậm lại.
 
-Trước nhà có một mảnh sân nhỏ, một giếng nước cũ, vài luống rau, và một cây lê đã qua mùa hoa. Sau nhà là rừng trúc. Khi gió thổi, lá trúc va vào nhau thành tiếng rất nhẹ, như tiếng mưa xa.
+“Sắp đến rồi.”
 
-Nguyễn lão nói nơi này từng là chỗ Vân Lão ở lại sau chiến tranh.
+Minh Châu vén rèm nhìn ra.
 
-Không ai trong thôn biết thân phận thật của ông. Người ta chỉ biết trên núi có một lão lang trung tính tình cổ quái, thỉnh thoảng xuống thôn chữa bệnh, lấy tiền rất ít, nhưng hay bắt người bệnh khai thật nhà còn bao nhiêu gạo, có thiếu thuế không, ai trong nhà không có tên trong hộ tịch.
+Ở lưng chừng núi, nép bên một khoảng đất bằng hiếm hoi giữa sườn dốc, có một căn nhà tranh nhỏ.
 
-Minh Châu nghe vậy, không hỏi gì.
+Trước nhà là một mảnh sân đất, một giếng nước cũ, vài luống rau vừa mới nhú, và một cây lê đã qua mùa hoa. Cành lê khẳng khiu vươn lên trong gió, trên cành chỉ còn vài chiếc lá cuối đông run nhẹ.
 
-Nàng không còn hỏi nhiều như trước.
+Sau nhà là rừng trúc.
 
-Từ sau khi đọc công văn châu phủ, nàng trở nên rất yên lặng. Khi Nguyễn lão gọi nàng ăn cơm, nàng ăn. Khi bảo nàng nghỉ, nàng nằm xuống. Khi Vân Lão đưa sách cho nàng, nàng mở ra đọc.
+Khi gió thổi qua, lá trúc va vào nhau thành tiếng rất nhẹ.
 
-Nhưng đêm nào nàng cũng tỉnh.
+Như tiếng mưa xa.
 
-Nhiều khi canh ba, Vân Lão đi ngang qua phòng nhỏ, vẫn thấy ánh trăng rơi trên mặt nàng. Nàng nằm nghiêng, mắt mở, tay ôm chiếc hộp gỗ.
+Minh Châu ôm chiếc hộp gỗ, nhìn căn nhà ấy rất lâu.
 
-Không khóc.
+Nơi này không giống Lục phủ.
 
-Chỉ không ngủ.
+Không có cổng lớn.
 
-Có những đứa trẻ sau biến cố sẽ khóc đến kiệt sức.
+Không có hành lang dài.
 
-Có những đứa trẻ sẽ gào thét, đập phá, hỏi vì sao.
+Không có mái hiên nơi phụ thân từng ngồi dạy nàng viết chữ.
 
-Minh Châu không như vậy.
+Không có sân thiện đường đầy khói bếp và tiếng người gọi cháo.
 
-Nàng lặng lẽ đến mức khiến người ta lo sợ.
+Chỉ có một căn nhà tranh cũ, một cái giếng, vài luống rau, và một ngọn núi lặng lẽ phía sau.
 
-Vân Lão biết, nước mắt không rơi ra ngoài sẽ trở thành thứ khác.
+Vân Lão chống gậy đi đến trước cửa.
 
-Có thể thành hận.
+Ông đẩy cánh cửa gỗ đã bạc màu.
 
-Có thể thành lạnh.
+Bản lề kêu lên một tiếng khô khốc.
 
-Có thể thành một vết thương mà càng lớn, càng không biết gọi tên.
+Bên trong nhà rất đơn giản.
 
-Ngày thứ bảy ở Thanh Khê, Vân Lão đặt trước mặt Minh Châu một cuốn sách.
+Một gian chính đặt bàn gỗ, ghế trúc, mấy giá sách cũ. Gian bên trái là chỗ ngủ. Gian bên phải chất thuốc, hòm gỗ, vài bó củi khô và những chiếc sọt đựng thảo dược.
+
+Nguyễn lão nói nơi này là nơi Vân Lão ẩn cư sau khi rời khỏi triều đình.
+
+Không ai trong thôn biết thân phận thật của ông.
+
+Người ta chỉ biết trên núi có một lão lang trung tính tình cổ quái, thỉnh thoảng xuống thôn chữa bệnh, lấy tiền rất ít, nhưng hay bắt người bệnh khai thật nhà còn bao nhiêu gạo, có thiếu thuế không, ai trong nhà không có tên trong hộ tịch.
+
+Minh Châu nghe vậy, không hỏi.
+
+Nàng chỉ đặt tay lên nắp hộp gỗ.
+
+Một lúc sau, nàng nói:
+
+“Chúng ta đến rồi.”
+
+Vân Lão quay đầu nhìn nàng.
+
+“Ừ.”
+
+“Vậy người dạy con đi.”
+
+Nguyễn lão đang đặt hành lý xuống bỗng dừng tay.
+
+Vân Lão không ngạc nhiên.
+
+Dường như ông đã biết câu này sẽ đến.
+
+Ông chỉ hỏi:
+
+“Dạy gì?”
+
+“Dạy con đọc sổ.”
+
+Nàng ngẩng đầu.
+
+“Dạy con đọc công văn. Dạy con tìm chỗ người ta cố tình không viết. Dạy con tìm mẹ.”
+
+Gió từ rừng trúc thổi qua cửa, làm ngọn đèn dầu trên bàn khẽ lay động.
+
+Vân Lão nhìn nàng.
+
+Đứa trẻ trước mặt ông đã đi đường cả ngày. Mặt trắng bệch. Môi khô. Mắt còn đỏ vì nhiều đêm không ngủ yên. Hai tay ôm hộp gỗ chặt đến mức đốt ngón tay tái đi.
+
+Nhưng giọng nàng rất cố chấp.
+
+Như thể chỉ cần ông nói bắt đầu, nàng có thể lập tức ngồi xuống học đến sáng.
+
+Vân Lão nói:
+
+“Trước hết, rửa mặt.”
+
+Minh Châu ngẩn ra.
+
+“Rửa mặt?”
+
+“Ừ.”
+
+“Sau đó thì sao?”
+
+“Ăn cháo.”
+
+“Sau đó?”
+
+“Ngủ.”
+
+Minh Châu mím môi.
+
+“Con không muốn ngủ.”
+
+“Ta biết.”
+
+“Con muốn học.”
+
+“Ta cũng biết.”
+
+“Vậy vì sao còn bắt con ngủ?”
+
+Vân Lão chống gậy đi vào nhà, đặt tay lên mép bàn gỗ.
+
+“Vì người chưa sống nổi qua một đêm yên ổn, không đọc nổi một tờ sổ lương cho hết.”
+
+Minh Châu đứng yên.
+
+Nàng không cãi nữa.
+
+Nhưng trong mắt nàng có một thứ gì đó hơi tối lại.
+
+Không phải giận.
+
+Mà là sợ.
+
+Sợ mình bị trì hoãn.
+
+Sợ một ngày đi qua, mẹ nàng sẽ xa thêm một ngày.
+
+Sợ phụ thân trong công văn sẽ bị đóng chặt thêm một lớp chữ.
+
+Nguyễn lão bưng một chậu nước ấm đến.
+
+Ông đặt xuống trước mặt nàng.
+
+“Nước còn ấm. Rửa mặt trước đi.”
+
+Minh Châu nhìn chậu nước.
+
+Nước trong chậu khẽ lay động.
+
+Gương mặt nàng hiện lên rất mờ.
+
+Một cô bé tám tuổi.
+
+Tóc hơi rối.
+
+Áo vải thô.
+
+Mắt đỏ.
+
+Không còn giống tiểu thư Lục gia.
+
+Cũng chưa giống người mà chính nàng muốn trở thành.
+
+Nàng cúi xuống, vốc nước lên rửa mặt.
+
+Nước ấm chạm vào da, khiến nàng chợt nhớ bàn tay mẫu thân từng lau mặt cho mình.
+
+Khi ấy, mẫu thân luôn nói:
+
+“Rửa sạch mặt rồi ăn cơm. Có chuyện gì cũng để sau bữa cơm.”
+
+Nàng từng không hiểu vì sao chuyện gì cũng phải để sau bữa cơm.
+
+Bây giờ Nguyễn lão đặt trước mặt nàng một bát cháo loãng.
+
+Vân Lão ngồi phía bên kia bàn.
+
+Không nói gì.
+
+Minh Châu cầm muỗng lên.
+
+Ăn rất chậm.
+
+Nàng ăn được nửa bát thì dừng.
+
+Nguyễn lão nhìn nàng.
+
+“Ăn thêm một chút.”
+
+“Con ăn không nổi.”
+
+“Ăn thêm một muỗng.”
+
+“Vì sao?”
+
+Nguyễn lão đáp rất thật:
+
+“Vì lát nữa đói sẽ đau bụng.”
+
+Minh Châu nhìn ông.
+
+Câu ấy không cao xa.
+
+Không giống lời Vân Lão.
+
+Nhưng nàng vẫn cầm muỗng lên, ăn thêm một muỗng.
+
+Rồi thêm một muỗng nữa.
+
+Đêm đó, Minh Châu vẫn không ngủ yên.
+
+Nhưng nàng không còn khóc dữ như đêm trước.
+
+Nàng tỉnh vài lần.
+
+Mỗi lần tỉnh, chiếc hộp gỗ vẫn nằm trong tay nàng.
+
+Mỗi lần nàng mở mắt, bên ngoài gian chính đều còn một chút ánh lửa.
+
+Có khi là Nguyễn lão ngồi cạnh bếp.
+
+Có khi là Vân Lão ngồi bên bàn, bóng ông in dài trên vách.
+
+Không ai hỏi nàng mơ thấy gì.
+
+Cũng không ai bảo nàng ngủ tiếp như ra lệnh.
+
+Chỉ có nước ấm được đặt bên cạnh.
+
+Và một ngọn lửa không tắt.
+
+Sáng hôm sau, trời Thanh Khê phủ một lớp sương mỏng.
+
+Minh Châu tỉnh dậy rất sớm.
+
+Khi nàng bước ra sân, Vân Lão đang đứng bên giếng.
+
+Một chiếc thùng gỗ đặt dưới chân ông.
+
+“Lại đây.”
+
+Minh Châu đi tới.
+
+“Tiên sinh dạy con sao?”
+
+“Ừ.”
+
+Nàng nhìn thùng gỗ.
+
+“Dạy con gánh nước?”
+
+“Ừ.”
+
+Minh Châu im lặng một chút.
+
+“Con tưởng người dạy con đọc sổ.”
+
+“Muốn đọc sổ, trước hết đi lấy nước.”
+
+“Vì sao?”
+
+Vân Lão nhìn nàng.
+
+“Vì lát nữa cần nấu cháo.”
+
+Câu trả lời quá đơn giản.
+
+Đơn giản đến mức Minh Châu không biết phải hỏi tiếp thế nào.
+
+Nguyễn lão đứng bên cạnh, muốn bước lên giúp nàng kéo thùng nước.
+
+Vân Lão nhìn ông một cái.
+
+Nguyễn lão đành dừng lại.
+
+Minh Châu cúi xuống, cầm dây kéo.
+
+Thùng gỗ rơi xuống giếng, phát ra tiếng ùm rất nhẹ.
+
+Nàng kéo lên.
+
+Dây thừng thô ráp cọ vào lòng bàn tay.
+
+Thùng nước không đầy, nhưng đối với một đứa trẻ tám tuổi vừa đi đường mấy ngày, nó vẫn rất nặng.
+
+Minh Châu kéo được nửa chừng thì tay run lên.
+
+Nước trong thùng va vào thành giếng, bắn ra vài giọt lạnh.
+
+Nàng cắn môi, tiếp tục kéo.
+
+Nguyễn lão nhìn mà lòng nóng như lửa đốt.
+
+Vân Lão đứng yên.
+
+Cuối cùng, thùng nước cũng được kéo lên.
+
+Minh Châu thở dốc.
+
+Hai tay đỏ lên.
+
+Vân Lão hỏi:
+
+“Nặng không?”
+
+Minh Châu đáp:
+
+“Nặng.”
+
+“Một thùng nước nặng bao nhiêu, con phải tự kéo mới biết.”
+
+Ông chỉ vào thùng nước.
+
+“Sổ sách viết đào kênh, dẫn thủy, mở mương, phát chẩn, vận lương, đều là mấy chữ rất nhẹ. Nhưng người phải gánh nước, gánh gạo, kéo xe, đào đất, không ai nhẹ cả.”
+
+Minh Châu cúi đầu nhìn thùng nước.
+
+“Vậy bài học đầu tiên là gánh nước sao?”
+
+“Không.”
+
+“Vậy là gì?”
+
+“Ăn xong rồi nói.”
+
+Nàng ngẩng đầu nhìn ông.
+
+Trong mắt có một chút bất mãn rất nhỏ.
+
+Nhưng nàng không cãi.
+
+Buổi sáng hôm ấy, nàng ăn hết nửa bát cháo.
+
+Sau đó Vân Lão đưa nàng vào gian chính.
+
+Trên bàn đã đặt sẵn một cuốn sổ.
 
 Không phải binh thư.
 
@@ -77,31 +368,31 @@ Cũng không phải sách thánh hiền.
 
 Bìa sổ đã sờn. Mép giấy ố vàng. Trên từng trang có tên thôn, số hộ, số miệng ăn, số lương đáng phát, số lương thực phát, số lương còn thiếu.
 
-Minh Châu nhìn cuốn sổ.
+Minh Châu đứng trước bàn, nhìn cuốn sổ rất lâu.
 
 “Đây là gì?”
 
 “Sổ phát chẩn của một huyện khác.”
 
-“Vì sao đưa cho con?”
+“Không phải Lạc Thủy?”
 
-“Con nói muốn học.”
+“Không phải.”
 
-Nàng im lặng.
+Nàng ngẩng đầu.
 
-Đêm ở trạm nghỉ, nàng đã nói câu ấy.
+“Vì sao không dạy con chuyện Lạc Thủy?”
 
-Vậy con học.
+“Vì con còn chưa đọc nổi một huyện khác.”
 
-Nhưng khi ấy nàng không biết học nghĩa là gì.
+“Nhưng con muốn biết Lạc Thủy.”
 
-Trong lòng nàng, học có lẽ là học cách khiến công văn không thể nói dối. Học cách sửa lại cái chết của cha mẹ. Học cách tìm ra những kẻ đã viết mấy dòng chữ lạnh lẽo kia.
+“Muốn biết Lạc Thủy, trước hết phải biết một huyện đói trông như thế nào trên giấy.”
 
-Nàng tưởng Vân Lão sẽ dạy nàng những thứ lớn lao.
+Minh Châu không nói nữa.
 
-Nhưng ông chỉ đưa một cuốn sổ cũ.
+Nàng ngồi xuống.
 
-Vân Lão ngồi xuống đối diện nàng.
+Vân Lão đẩy cuốn sổ về phía nàng.
 
 “Đọc đi.”
 
@@ -125,7 +416,17 @@ Lương thực phát: năm trăm chín mươi thạch.
 
 Thiếu: không.
 
-Minh Châu đọc hết một trang, rồi ngẩng đầu.
+Thôn Bắc Lâm, chín mươi sáu hộ, bốn trăm bảy mươi miệng ăn.
+
+Lương đáng phát: ba trăm bốn mươi thạch.
+
+Lương thực phát: ba trăm mười thạch.
+
+Thiếu: ba mươi thạch.
+
+Minh Châu đọc hết một trang.
+
+Rồi ngẩng đầu.
 
 “Con phải tìm gì?”
 
@@ -133,13 +434,35 @@ Minh Châu đọc hết một trang, rồi ngẩng đầu.
 
 Nàng khựng lại.
 
+Gió ngoài sân thổi qua rừng trúc, lá trúc va vào nhau xào xạc.
+
 “Trong sổ không ghi người chết.”
 
 “Vậy càng phải tìm.”
 
 Minh Châu nhìn xuống trang giấy.
 
-Nét mực ngay ngắn. Dòng nào cũng rõ ràng. Số nào cũng đẹp. Không có máu. Không có tiếng khóc. Không có đứa trẻ hỏi ngày mai còn cháo không.
+Nét mực ngay ngắn.
+
+Dòng nào cũng rõ ràng.
+
+Số nào cũng đẹp.
+
+Không có máu.
+
+Không có tiếng khóc.
+
+Không có đứa trẻ hỏi ngày mai còn cháo không.
+
+Không có mẫu thân nàng đứng bên nồi cháo, múc từng bát cho người già, trẻ nhỏ.
+
+Chỉ có số hộ.
+
+Số người.
+
+Số lương.
+
+Số thiếu.
 
 Nàng đọc lại từ đầu.
 
@@ -161,29 +484,55 @@ Nàng nhìn rất lâu, rồi nói:
 
 “Có thể.”
 
-“Vì sao là có thể?”
-
-“Vì thiếu lương không lập tức thành người chết. Còn phải xem trong thôn có kho riêng không, có họ tộc lớn cứu tế không, có đường lên núi đào củ không, có dân bỏ đi nơi khác không, có quan lại lấy bớt lương không.”
-
 Minh Châu nhíu mày.
 
+“Vì sao là có thể?”
+
+“Vì thiếu lương không lập tức thành người chết.”
+
 Vân Lão đặt một tờ giấy trắng cạnh cuốn sổ.
+
+“Còn phải xem trong thôn có kho riêng không, có họ tộc lớn cứu tế không, có đường lên núi đào củ không, có dân bỏ đi nơi khác không, có quan lại lấy bớt lương không.”
+
+Minh Châu nghe rất chậm.
+
+“Vậy chỉ nhìn sổ này chưa đủ?”
+
+“Chưa đủ.”
+
+“Nhưng tiên sinh bảo con tìm người chết trong sổ.”
+
+“Vì sổ không đủ, nên con càng phải biết nó thiếu ở đâu.”
+
+Nàng im lặng.
+
+Vân Lão đẩy bút tới trước mặt nàng.
 
 “Viết ra.”
 
 “Viết gì?”
 
-“Một người một ngày cần bao nhiêu gạo để không chết đói. Một nhà năm người cần bao nhiêu. Một thôn một nghìn người thiếu hai trăm bốn mươi thạch, có thể chống được bao lâu. Nếu phát không đều, ai chết trước.”
+“Một người một ngày cần bao nhiêu gạo để không chết đói.”
 
-Minh Châu nhìn ông.
+Minh Châu cầm bút.
+
+Tay nàng hơi khựng lại.
+
+Vân Lão nói tiếp:
+
+“Một nhà năm người cần bao nhiêu. Một thôn một nghìn người thiếu hai trăm bốn mươi thạch, có thể chống được bao lâu. Nếu phát không đều, ai chết trước. Nếu có người bớt một phần, bao nhiêu người mất đi một bữa. Nếu một bữa cháo loãng hơn một nửa, trẻ con và người già chịu được mấy ngày.”
+
+Minh Châu nhìn trang giấy trắng.
+
+Những chữ ấy rơi xuống rất nhẹ.
+
+Nhưng nàng nghe như có đá lăn qua tim.
 
 “Con không biết.”
 
 “Vậy học.”
 
 Nàng cầm bút lên.
-
-Tay hơi run.
 
 Vân Lão nói:
 
@@ -192,6 +541,10 @@ Vân Lão nói:
 Căn phòng im lặng.
 
 Ngoài cửa, lá trúc xào xạc.
+
+Nguyễn lão đứng ngoài sân chẻ củi.
+
+Tiếng rìu bổ xuống thân gỗ vang lên từng nhịp rất chậm.
 
 Minh Châu cúi đầu, bắt đầu viết.
 
@@ -205,9 +558,69 @@ Một đấu gạo.
 
 Một thạch lương.
 
-Nàng từng thấy những thứ ấy trong thiện đường. Nhưng khi chúng trở thành con số, nàng mới thấy có một thứ lạnh khác: người ta có thể tính được một người sống thêm bao nhiêu ngày. Cũng có thể tính được một người sẽ chết sau bao nhiêu ngày nếu số lương kia bị bớt đi.
+Nàng từng thấy những thứ ấy trong thiện đường.
 
-Đến khi mặt trời ngả về tây, trang giấy trước mặt nàng đã đầy số.
+Khi ấy, chúng có mùi khói bếp, có hơi nóng, có tiếng người chen nhau, có bàn tay mẫu thân đặt lên vai từng đứa trẻ để bảo chúng xếp hàng.
+
+Nhưng khi chúng trở thành con số, nàng mới thấy một thứ lạnh khác.
+
+Người ta có thể tính được một người sống thêm bao nhiêu ngày.
+
+Cũng có thể tính được một người sẽ chết sau bao nhiêu ngày nếu số lương kia bị bớt đi.
+
+Nàng viết rất chậm.
+
+Ban đầu là những con số vụng về.
+
+Sau đó là những phép tính ngắn.
+
+Rồi đến những dòng dài hơn.
+
+Một thôn có một nghìn một trăm sáu mươi hai miệng ăn.
+
+Nếu mỗi người một ngày cần một lượng gạo tối thiểu.
+
+Nếu thiếu hai trăm bốn mươi thạch.
+
+Nếu trong thôn có một phần người bỏ đi.
+
+Nếu người già và trẻ nhỏ không thể đi.
+
+Nếu lương phát đến trước bị người khỏe nhận nhiều hơn.
+
+Nếu quan lại phát chậm ba ngày.
+
+Nếu sổ ghi đã phát, nhưng kho chưa mở.
+
+Bút của Minh Châu dừng lại.
+
+Nàng nhìn câu cuối cùng rất lâu.
+
+Nếu sổ ghi đã phát, nhưng kho chưa mở.
+
+Nàng bỗng nhớ đến Lạc Thủy.
+
+Nhớ kho lương bị khóa.
+
+Nhớ phụ thân đứng trước dân.
+
+Nhớ câu nói của ông: kho là ta mở.
+
+Nàng siết chặt bút.
+
+Mực thấm đậm trên giấy.
+
+Vân Lão thấy, nhưng không nhắc.
+
+Mặt trời dần lên cao rồi ngả sang phía tây.
+
+Nguyễn lão hai lần mang nước vào.
+
+Một lần đặt bánh mềm bên cạnh nàng.
+
+Minh Châu ăn rất ít, nhưng có ăn.
+
+Đến khi ánh nắng cuối ngày chiếu qua song cửa, trang giấy trước mặt nàng đã đầy số.
 
 Nàng đặt bút xuống.
 
@@ -215,9 +628,15 @@ Vân Lão hỏi:
 
 “Nhìn ra gì?”
 
-Minh Châu đáp:
+Minh Châu nhìn cuốn sổ.
 
-“Nếu sổ này đúng, thôn Đông Hà thiếu lương đủ khiến ít nhất hơn một trăm người chết trước mùa xuân.”
+“Nếu sổ này đúng, thôn Đông Hà thiếu lương đủ khiến rất nhiều người chết trước mùa xuân.”
+
+“Rất nhiều là bao nhiêu?”
+
+Nàng cúi đầu xem lại phép tính.
+
+“Ít nhất hơn một trăm người.”
 
 “Còn nếu sổ này sai?”
 
@@ -225,7 +644,11 @@ Minh Châu đáp:
 
 “Vì sao?”
 
-“Nếu số hộ bị ghi thiếu, lương đáng phát sẽ ít hơn thật. Nếu số lương thực phát bị ghi nhiều hơn thật, người chết sẽ bị giấu.”
+“Nếu số hộ bị ghi thiếu, lương đáng phát sẽ ít hơn thật.”
+
+Nàng nhìn một dòng khác.
+
+“Nếu số lương thực phát bị ghi nhiều hơn thật, người chết sẽ bị giấu.”
 
 Vân Lão gật đầu.
 
@@ -247,7 +670,11 @@ Minh Châu cúi đầu.
 
 Nàng nhìn tay mình.
 
-Bàn tay ấy từng được mẫu thân nắm khi đi qua thiện đường. Từng được phụ thân cầm để dạy viết chữ. Bây giờ, cũng bàn tay ấy đang tính xem một thôn có thể chết bao nhiêu người vì thiếu lương.
+Bàn tay ấy từng được mẫu thân nắm khi đi qua thiện đường.
+
+Từng được phụ thân cầm để dạy viết chữ.
+
+Bây giờ, cũng bàn tay ấy đang tính xem một thôn có thể chết bao nhiêu người vì thiếu lương.
 
 Nàng hỏi:
 
@@ -257,15 +684,25 @@ Vân Lão im lặng một nhịp.
 
 “Có.”
 
-“Vậy cha biết mình mở kho sẽ chết?”
+“Vậy cha biết nếu không mở kho sẽ có người chết?”
 
 “Biết.”
 
-“Mẹ cũng biết ở lại thiện đường sẽ chết?”
+“Cha cũng biết mở kho sẽ thành tội?”
+
+“Biết.”
+
+“Mẹ cũng biết ở lại thiện đường sẽ nguy hiểm?”
 
 “Biết.”
 
 “Tiên sinh cũng biết?”
+
+Nguyễn lão đang đứng ngoài sân bỗng dừng tay.
+
+Tiếng rìu chẻ củi tắt hẳn.
+
+Vân Lão nhìn Minh Châu.
 
 “Biết.”
 
@@ -273,506 +710,304 @@ Nàng ngẩng đầu.
 
 “Vậy vì sao không cứu họ?”
 
-Nguyễn lão đang chẻ củi ngoài sân bỗng dừng tay.
+Gió trong sân lặng đi.
 
-Vân Lão không né tránh câu hỏi.
+Nàng hỏi rất bình tĩnh.
 
-“Ta đã chuẩn bị đường sống cho họ.”
+Nhưng chính sự bình tĩnh ấy khiến câu hỏi càng đau.
 
-“Nhưng họ vẫn chết.”
+Trong mắt nàng không chỉ có nước mắt.
 
-“Vì họ chọn không đi.”
-
-“Tiên sinh là đệ nhất mưu sĩ. Không phải tiên sinh có thể khiến người ta làm theo kế sao?”
-
-Vân Lão nhìn nàng.
-
-Ánh mắt đứa trẻ ấy không còn chỉ là đau.
-
-Trong đó có trách.
+Có trách.
 
 Rất rõ.
 
 Nàng trách ông.
 
-Trách ông biết mà không ngăn. Biết mà không cứu. Biết mà vẫn để cha nàng đứng trước kho, để mẹ nàng ở lại thiện đường.
+Trách ông biết mà không ngăn.
+
+Biết mà không cứu.
+
+Biết mà vẫn để cha nàng đứng trước kho, để mẹ nàng ở lại thiện đường, để nàng rời khỏi Lạc Thủy trong chiếc xe chở dược liệu.
 
 Vân Lão nhận lấy ánh mắt ấy.
 
+Không né.
+
+Không biện hộ.
+
+“Ta đã chuẩn bị đường sống cho họ.”
+
+“Nhưng họ không đi.”
+
+“Ừ.”
+
+“Vì sao tiên sinh không bắt họ đi?”
+
+“Vì có những người, con có thể cứu đường lui cho họ, nhưng không thể thay họ chọn đường lui.”
+
+“Tiên sinh là đệ nhất mưu sĩ.”
+
+Giọng nàng bỗng run lên.
+
+“Không phải tiên sinh có thể khiến người ta làm theo kế sao?”
+
+Vân Lão nhìn nàng rất lâu.
+
 “Ta có thể bày kế. Không thể thay người khác sống.”
+
+Minh Châu cắn môi.
 
 “Vậy mưu lược có ích gì?”
 
-“Có ích với người còn muốn chọn sống.”
-
-Minh Châu mím môi.
-
-“Cha mẹ con không muốn sống sao?”
-
-“Muốn.”
-
-“Vậy vì sao?”
-
-“Vì có thứ họ đặt cao hơn mạng mình.”
-
-Nàng cúi đầu.
-
-Nước mắt rơi xuống trang giấy đầy số.
-
-“Con không muốn thứ đó cao hơn mạng họ.”
-
-Vân Lão không nói gì.
-
-Câu ấy không sai.
-
-Một đứa trẻ có quyền muốn cha mẹ mình sống hơn bất kỳ đạo nghĩa nào.
-
-Một lúc lâu sau, ông nói:
-
-“Cho nên hôm nay ta không dạy con trung nghĩa. Cũng không dạy con hi sinh.”
-
-Minh Châu ngẩng lên.
-
-“Ta dạy con tính lương.”
+“Có ích khi còn đủ thời gian để người tốt không phải chọn chết.”
 
 Nàng sững lại.
 
-Vân Lão chậm rãi nói:
+Vân Lão đặt tay lên cuốn sổ lương.
 
-“Vì nếu ngày đó có người tính đúng trước khi dân chết, phụ thân con có thể không cần mở kho trong tử lộ. Nếu có người tản dân sớm hơn, mẫu thân con có thể không phải ở lại với quá nhiều người yếu. Nếu có người đủ trí để cứu dân mà không tự đốt mình, cái chết của họ có thể không cần xảy ra.”
+“Ngày cha con mở kho, đã quá muộn.”
 
-Ông đẩy cuốn sổ lại trước mặt nàng.
+“Vì sao quá muộn?”
 
-“Muốn trách ta, cứ trách. Muốn hận ta, cũng được. Nhưng nếu con muốn một ngày nào đó không có thêm Lục Thanh Trì thứ hai, không có thêm một thiện đường bị lửa nuốt, thì hãy học từ đây.”
-
-Minh Châu nhìn cuốn sổ.
-
-Trong mắt vẫn có nước.
-
-Nhưng nàng mở sổ ra lần nữa.
-
-“Con phải tính tiếp sao?”
-
-“Phải.”
-
-“Đến khi nào?”
-
-“Đến khi con nhìn một dòng thiếu lương mà nghe được tiếng người đói phía sau nó.”
+“Vì dân đã đói đến trước kho. Vì sổ đã sai quá lâu. Vì lương đáng phát không đến tay người cần nó. Vì công văn xin lệnh đi quá chậm, còn bụng đói thì không chờ ấn đỏ.”
 
 Minh Châu cúi đầu.
 
-Nàng tiếp tục tính.
+Nước mắt rơi xuống trang giấy đầy số.
 
-Những ngày sau đó, cuộc sống ở Thanh Khê lặng lẽ như nước chảy qua đá.
+“Con không muốn nghe cha con đã quá muộn.”
 
-Buổi sáng, Minh Châu gánh nước.
+“Ta biết.”
 
-Nàng còn nhỏ, gánh không được nhiều. Hai thùng nước lúc nào cũng lắc lư, làm ướt cả vạt áo. Nguyễn lão muốn giúp, nhưng Vân Lão không cho.
+“Con không muốn nghe mẹ con phải ở lại.”
 
-“Người chưa từng thấy nước nặng thế nào, sau này đừng nói đào kênh có dễ hay không.”
+“Ta cũng biết.”
 
-Sau đó nàng học sổ lương.
+“Con muốn họ sống.”
 
-Buổi trưa, học hộ tịch.
+Câu ấy rất nhỏ.
 
-Buổi chiều, học tính thuế.
+Nhỏ đến mức gần như không thành tiếng.
 
-Buổi tối, chép công văn.
+“Con chỉ muốn họ sống thôi.”
 
-Không phải công văn hay.
+Vân Lão không nói gì.
 
-Mà là công văn giả, công văn mập mờ, công văn cố tình dùng chữ để che trách nhiệm.
+Một đứa trẻ có quyền muốn cha mẹ mình sống hơn bất kỳ đạo nghĩa nào.
 
-Vân Lão bắt nàng đọc từng bản.
+Quyền ấy không ai được cướp.
 
-“Tìm chỗ nói dối.”
+Không triều đình nào.
 
-Ban đầu, Minh Châu chỉ tìm những câu rõ ràng.
+Không sử sách nào.
 
-“Dân tình ổn định.”
+Không công văn nào.
 
-“Lương đã phát đủ.”
+Cũng không có bài học nào.
 
-“Không có tử thương.”
+Rất lâu sau, Vân Lão nói:
 
-Vân Lão lắc đầu.
+“Cho nên hôm nay ta không dạy con trung nghĩa.”
 
-“Những câu này quá lộ.”
+Minh Châu ngẩng lên.
 
-Ông chỉ vào một dòng khác:
+“Cũng không dạy con hi sinh.”
 
-“Do dân tự tản, khó thống kê.”
+Nàng nhìn ông qua màn nước mắt.
 
-“Câu này có gì sai?”
+Vân Lão đẩy cuốn sổ lương lại trước mặt nàng.
 
-“Không sai. Nhưng nó cho phép người viết không ghi số người chết.”
+“Ta dạy con tính lương.”
 
-Ông chỉ dòng kế tiếp:
+Minh Châu sững lại.
 
-“Đã an trí dân còn lại.”
+“Vì nếu trước khi dân đến trước kho, đã có người biết họ còn chịu được mấy ngày, phụ thân con có thể không cần mở kho trong tử lộ.”
 
-“Câu này?”
+Ông nhìn ra sân.
 
-“Còn lại là bao nhiêu? Ai không còn lại? Vì sao không viết?”
+“Nếu trước khi thiện đường cháy, đã có người biết người già, trẻ nhỏ, người bệnh không thể tự tản đi đâu, mẫu thân con có thể không phải ở lại với quá nhiều người yếu.”
 
-Minh Châu nhìn dòng chữ.
+Ông nhìn nàng.
 
-Từ đó, nàng học được rằng lời nói dối không phải lúc nào cũng là một câu sai.
+“Nếu có người đủ sớm, đủ tỉnh, đủ hiểu sổ sách và lòng người, thì cứu dân không nhất thiết phải đổi bằng mạng người tốt.”
 
-Nhiều khi nó là một câu đúng nhưng thiếu phần quan trọng nhất.
+Minh Châu ngồi yên.
 
-Một ngày khác, Vân Lão đưa nàng một bản án.
+Những lời ấy không làm nàng bớt đau.
 
-Trong án viết một người dân bị phạt vì trốn thuế.
+Thậm chí còn đau hơn.
 
-Minh Châu đọc xong, nói:
+Vì nó nói với nàng rằng cái chết của cha mẹ nàng không chỉ bắt đầu trong đêm Lạc Thủy cháy.
 
-“Người này có tội.”
+Nó bắt đầu sớm hơn.
 
-“Vì sao?”
+Trong những ngày kho chưa mở.
 
-“Trong sổ ghi hắn không nộp thuế ba mùa.”
+Trong những dòng sổ không ai đọc kỹ.
 
-Vân Lão đặt trước mặt nàng một cuốn hộ tịch khác.
+Trong những tờ trình chậm một ngày.
 
-“Đọc lại.”
+Trong những lần người đói bị xem là tiếng ồn bên ngoài công đường.
 
-Nàng đọc.
+Nàng nhìn cuốn sổ lương.
 
-Rồi phát hiện người đó đã chết từ hai năm trước.
+“Vậy bài học đầu tiên không phải là tìm kẻ thù.”
 
-Người bị phạt là con trai hắn, mười hai tuổi, được nha môn ghi thay tên cha để giữ số thuế không giảm.
+“Không.”
 
-Minh Châu im lặng rất lâu.
+“Không phải sửa công văn.”
 
-“Vì sao họ làm vậy?”
+“Không.”
 
-“Vì nếu hộ chết, thuế phải giảm. Nếu thuế giảm, người thu thuế bị hỏi. Nếu không muốn bị hỏi, người chết phải tiếp tục sống trong sổ.”
+“Không phải tìm người đóng ấn.”
 
-“Nhưng người sống thật thì sao?”
+“Cũng chưa phải.”
 
-“Gánh thuế của người chết.”
+“Vậy là gì?”
 
-Minh Châu nắm chặt tay.
+Vân Lão đáp:
 
-“Vậy trong sổ, người chết có thể sống. Người sống có thể biến mất.”
+“Là thấy người trước khi họ chỉ còn là một dòng trong sổ.”
 
-“Đúng.”
+Căn phòng lặng đi.
+
+Minh Châu nhìn cuốn sổ lương cũ.
+
+Thôn Đông Hà.
+
+Hai trăm bốn mươi ba hộ.
+
+Một nghìn một trăm sáu mươi hai miệng ăn.
+
+Thiếu hai trăm bốn mươi thạch.
+
+Ban đầu, đó chỉ là một dòng chữ.
+
+Bây giờ, nàng thấy sau dòng chữ ấy có những căn nhà thấp, những bếp lửa tắt, những đứa trẻ bụng rỗng, những người già không còn sức lên núi đào củ, những người mẹ nhường phần cháo cuối cùng.
+
+Nàng không biết tên họ.
+
+Nhưng lần đầu tiên, nàng biết họ ở đó.
+
+Ở sau những con số.
+
+Ở trong chỗ mà sổ không ghi là “người chết”.
+
+Minh Châu đưa tay lau nước mắt.
+
+Nước mắt lau không sạch.
+
+Nhưng nàng vẫn lau.
+
+Rồi nàng mở cuốn sổ ra lần nữa.
 
 Vân Lão nhìn nàng.
 
-“Đây là triều đình khi nó không còn nhìn thấy người.”
-
-Tối hôm đó, Minh Châu không ngủ.
-
-Nàng mở hộp gỗ ra.
-
-Bên trong, mảnh công văn châu phủ nằm cạnh mảnh sổ lương phụ thân để lại.
-
-Lục Thanh Trì bạo bệnh trong ngục.
-
-Thiện đường phát hỏa do dân đói tranh lương.
-
-Dân tình đã ổn.
-
-Nàng nhìn ba dòng ấy rất lâu.
-
-Rồi lấy giấy trắng ra, viết lại một dòng khác.
-
-Cha mở kho để dân không thành loạn dân.
-
-Nàng viết xong, nhìn dòng chữ của mình.
-
-Chữ còn non.
-
-Nét chưa vững.
-
-Không có ấn đỏ.
-
-Không có công văn.
-
-Không ai trong thiên hạ biết dòng này tồn tại.
-
-Nhưng đó là lần đầu tiên Minh Châu viết xuống sự thật bằng tay mình.
-
-Nàng gấp tờ giấy, đặt vào hộp.
-
-Một tháng sau, Vân Lão hỏi nàng:
-
-“Con còn muốn biết tên những kẻ hại cha mẹ con không?”
-
-Minh Châu đang chép hộ tịch.
-
-Nghe câu ấy, bút dừng lại giữa giấy.
-
-Mực đọng thành một chấm đen.
-
-Nàng ngẩng đầu.
-
-“Tiên sinh biết?”
-
-“Biết một phần.”
-
-“Vì sao trước giờ không nói?”
-
-“Vì ta muốn xem con hỏi câu đó bằng lòng nào.”
-
-Minh Châu đặt bút xuống.
-
-“Vậy bây giờ con đang hỏi bằng lòng nào?”
-
-“Ta chưa biết.”
-
-“Con muốn biết.”
-
-“Biết rồi làm gì?”
-
-Nàng im lặng.
-
-Trong lòng có một câu trả lời bật lên rất nhanh.
-
-Giết họ.
-
-Hoặc ít nhất, nhìn họ chết.
-
-Nàng thấy mình nghĩ như vậy, rồi bỗng cảm thấy sợ chính mình.
-
-Vân Lão nhìn nàng, như đã thấy hết.
-
-“Muốn họ chết?”
-
-Minh Châu không đáp.
-
-“Không sao. Muốn kẻ hại cha mẹ mình chết không phải chuyện kỳ lạ.”
+“Còn tính tiếp không?”
 
 Nàng cúi đầu.
 
-“Vậy vì sao tiên sinh không giết họ?”
-
-Vân Lão hỏi lại:
-
-“Giết ai?”
-
-“Thủ kho. Chủ bộ. Người sửa sổ. Người phóng hỏa. Người viết công văn.”
-
-“Giết hết?”
-
-Minh Châu siết tay.
-
-“Không được sao?”
-
-“Được.”
-
-Nàng ngẩng đầu.
-
-Vân Lão nói rất bình tĩnh:
-
-“Nếu ta muốn, có thể khiến vài người trong số đó chết vì bệnh, vì cướp, vì trượt chân xuống sông, vì một vụ án khác. Nhưng sau đó thì sao?”
-
-“Sau đó…”
-
-“Kho lương nào sẽ mở? Sổ nào sẽ sửa? Dân nào sẽ được ghi lại? Người đứng sau sẽ lộ hay trốn sâu hơn? Lạc Thủy sẽ được minh oan hay bị ghi thêm rằng dư đảng Lục Thanh Trì báo thù quan lại?”
-
-Minh Châu không nói được.
-
-Vân Lão tiếp tục:
-
-“Con muốn giết một kẻ thù, hay muốn hiểu vì sao những kẻ như hắn luôn có thể sống tốt sau khi giết người?”
-
-Câu ấy làm Minh Châu sững lại.
-
-Ngoài sân, gió thổi qua cây lê trụi lá.
-
-Rất lâu sau, nàng hỏi:
-
-“Hiểu rồi có thể làm gì?”
-
-“Có thể chọn giết ai, giữ ai, nói lúc nào, im lúc nào, dùng chứng cứ nào, cứu người nào trước, và không để cái chết của người tốt bị biến thành tội trong công văn.”
-
-“Vậy sau này vẫn có thể giết họ?”
-
-“Có thể.”
-
-Vân Lão không nói đạo lý giả.
-
-Không bảo nàng phải tha thứ.
-
-Không bảo nàng phải quên.
-
-Ông chỉ nói:
-
-“Nhưng trước khi con giết một người, phải biết cái chết của hắn cứu được ai, hại ai, che ai, lộ ai. Nếu không biết, con chỉ đang dùng dao để làm mình bớt đau.”
-
-Minh Châu cúi đầu.
-
-“Con không muốn chỉ làm mình bớt đau.”
-
-“Vậy học tiếp.”
-
-Nàng cầm bút lên.
-
-“Tiên sinh.”
-
-“Ừ.”
-
-“Có phải cha con cũng biết mở kho sẽ chỉ cứu được dân lúc ấy, không cứu được cả vụ án?”
-
-“Biết.”
-
-“Nhưng cha vẫn làm.”
-
-“Ừ.”
-
-“Vì nếu không có lúc ấy, sẽ không còn ai sống tới vụ án sau này?”
-
-Vân Lão nhìn nàng.
-
-Đây là lần đầu tiên nàng tự nói ra điều đó.
-
-Không phải bằng nước mắt.
-
-Mà bằng suy nghĩ.
-
-Ông gật đầu.
-
-“Đúng.”
-
-Minh Châu nhìn xuống cuốn hộ tịch.
-
-“Vậy con phải học cách làm cho ‘lúc ấy’ và ‘sau này’ không giết lẫn nhau.”
-
-Vân Lão im lặng rất lâu.
-
-Câu ấy không giống lời của một đứa trẻ.
-
-Nó giống mầm đầu tiên của một con đường.
-
-Một con đường khác Lục Thanh Trì.
-
-Cũng khác Vân Lão.
-
-Ông chậm rãi nói:
-
-“Khó lắm.”
-
-Minh Châu đáp:
-
-“Con biết.”
-
-“Con chưa biết.”
-
-“Vậy con học đến khi biết.”
-
-Vân Lão nhìn nàng.
-
-Một cô bé tám tuổi, áo vải thô, tóc còn cắt vụng, trước mặt là sổ lương, hộ tịch, công văn giả, và chiếc hộp gỗ đựng toàn bộ phần đời đã mất.
-
-Ông từng nghĩ nàng chỉ là người cần được cứu.
-
-Nhưng càng ngày, ông càng cảm thấy: có lẽ đứa trẻ này không chỉ sống sót khỏi Lạc Thủy.
-
-Nàng đang bắt đầu đọc được Lạc Thủy.
-
-Và một ngày nào đó, nàng có thể đọc cả Đại Ninh theo cách ấy.
-
-Cuối mùa đông, tuyết mỏng rơi trên Thanh Khê.
-
-Không nhiều.
-
-Chỉ phủ một lớp trắng nhạt trên mái nhà tranh, trên luống rau, trên cành lê khô trước sân.
-
-Vân Lão đặt một bát cháo trước mặt Minh Châu.
-
-Trong bát có gạo, rau dại, và một ít muối.
-
-“Ăn đi.”
-
-Minh Châu cầm bát.
-
-Nàng ăn một muỗng, rồi dừng lại.
-
-“Gạo này đủ cho mấy người ăn một ngày?”
-
-Vân Lão nhìn nàng.
-
-Nguyễn lão ngồi bên cạnh khẽ thở dài.
-
-Từ sau những bài học sổ lương, Minh Châu gần như không nhìn thấy bát cháo như bát cháo nữa. Nàng luôn tính. Một bát là bao nhiêu gạo. Một nồi là bao nhiêu người. Một kho là bao nhiêu ngày. Một dòng thiếu là bao nhiêu mạng.
-
-Vân Lão nói:
-
-“Không phải lúc nào cũng cần tính.”
-
-“Nhưng nếu không tính, có thể thiếu.”
-
-“Đúng.”
-
-“Vậy vì sao không cần?”
-
-“Vì con cũng phải sống như người, không phải chỉ sống như một cuốn sổ biết đau.”
-
-Minh Châu im lặng.
-
-Nàng nhìn bát cháo.
-
-Hơi nóng bay lên, làm mắt nàng cay nhẹ.
-
-“Ngày trước mẹ con luôn ăn sau cùng.”
-
-“Ừ.”
-
-“Con từng nghĩ mẹ không đói.”
-
-Vân Lão không nói.
-
-“Bây giờ con biết, mẹ chỉ nhường phần.”
-
-Nàng ăn thêm một muỗng.
-
-Rất chậm.
-
-Sau đó nói:
-
-“Sau này nếu con phát cháo, con sẽ bắt người phát cháo cũng ăn.”
-
-Nguyễn lão khựng lại.
-
-Vân Lão nhìn nàng.
+“Con tính tiếp.”
 
 “Vì sao?”
 
-“Nếu người phát cháo cứ nhịn, họ sẽ ngất trước khi phát xong. Nếu họ chết, người sau cũng không có cháo.”
+Minh Châu nhìn dòng thiếu lương.
 
-Nàng dừng một chút.
+“Vì nếu không tính, con chỉ biết họ chết sau khi đã chết.”
 
-“Cứu người không phải tự để mình chết trước.”
+Nguyễn lão đứng ngoài sân, cúi đầu rất thấp.
 
-Vân Lão không đáp.
+Vân Lão im lặng.
 
-Ngoài sân, tuyết rơi rất nhẹ.
+Một lúc sau, ông nói:
 
-Ông chợt nhớ Lục Thanh Trì.
+“Đúng.”
 
-Nhớ Lục phu nhân.
+Minh Châu cầm bút lên.
 
-Một người mở kho rồi nhận tội.
+Tay vẫn còn run.
 
-Một người ở lại thiện đường đến cuối.
+Nhưng lần này, nàng không dừng lại.
 
-Cả hai đều dùng mạng mình đổi lấy một ngày mai cho người khác.
+Ngoài sân, trời đã xẩm tối.
 
-Nhưng đứa trẻ của họ, sau khi đi qua nỗi đau ấy, không chỉ học cách chết vì dân.
+Rừng trúc sau nhà Thanh Khê vang lên tiếng xào xạc như mưa xa.
 
-Nàng bắt đầu học cách sống để cứu dân lâu hơn.
+Nguyễn lão lặng lẽ nhóm bếp.
 
-Vân Lão cúi mắt.
+Khói bếp bay lên rất mỏng.
 
-Trong lòng ông, một ý nghĩ rất mỏng vừa hiện lên.
+Trong gian chính, đèn dầu được thắp lên.
 
-Có lẽ.
+Ánh đèn rơi xuống cuốn sổ cũ, xuống trang giấy đầy phép tính, xuống bàn tay nhỏ đang cầm bút của Minh Châu.
 
-Chỉ là có lẽ.
+Đêm ấy, nàng không mở công văn Lạc Thủy ra.
 
-Giấc mộng thái bình mà ông tưởng đã tàn sau ngày Lạc Thủy cháy, vẫn còn một hạt giống nhỏ.
+Cũng không hỏi thêm ai đã viết nó.
 
-Hạt giống ấy đang ngồi trước mặt ông, hai tay ôm bát cháo, vừa học cách không để lòng nhân của mình chết đói trong chính ngọn lửa của nó.
+Nàng chỉ ngồi trước cuốn sổ lương cũ, đọc đi đọc lại những dòng tưởng như chẳng liên quan gì đến cha mẹ mình.
+
+Thôn Đông Hà.
+
+Lương đáng phát.
+
+Lương thực phát.
+
+Thiếu.
+
+Trước kia, nàng nghĩ cha mẹ mình chết trong một biến cố.
+
+Một kho lương.
+
+Một thiện đường.
+
+Một tờ công văn.
+
+Bây giờ, nàng bắt đầu hiểu: có những cái chết không bắt đầu từ lửa, cũng không bắt đầu từ đao, càng không bắt đầu từ ngục tối.
+
+Nó bắt đầu từ rất sớm.
+
+Từ một dòng thiếu lương không ai chịu đọc cho hết.
+
+Từ một con số sai không ai muốn sửa.
+
+Từ một chữ “đã phát” được viết xuống trước khi dân thật sự nhận được gạo.
+
+Từ một ngày chậm trễ mà người viết công văn không bao giờ thấy đói.
+
+Minh Châu cúi đầu tính tiếp.
+
+Một người.
+
+Một ngày.
+
+Một bát cháo.
+
+Một đấu gạo.
+
+Một thạch lương.
+
+Ngoài cửa, Vân Lão đứng trong bóng tối, nhìn nàng rất lâu.
+
+Ông không biết đứa trẻ này sau này sẽ đi đến đâu.
+
+Không biết nàng có tìm được mẫu thân hay không.
+
+Không biết công đạo của Lục Thanh Trì một ngày nào đó có thể được trả lại bằng cách nào.
+
+Nhưng ít nhất từ đêm nay, nàng đã bắt đầu học điều đầu tiên.
+
+Không phải cách hận.
+
+Không phải cách báo thù.
+
+Mà là cách nhìn thấy người sống trước khi họ bị thế gian viết thành người chết.
+
+Ngọn đèn dầu khẽ lay động.
+
+Minh Châu đặt thêm một dòng số xuống giấy.
+
+Nét bút còn non.
+
+Nhưng không dừng.
