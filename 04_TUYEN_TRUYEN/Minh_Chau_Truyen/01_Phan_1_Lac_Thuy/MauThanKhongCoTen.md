@@ -1,8 +1,8 @@
 ---
 tuyen_truyen: Minh Châu Truyện
 arc: Vầng trăng sinh ra từ Lạc Thủy
-chapter_id: LT-008A
-sort_key: 085
+chapter_id: LT-008C
+sort_key: 087
 tieu_de: Mẫu thân không có tên
 trang_thai: ban_nhap
 nguon: pasted-text.txt
@@ -17,1467 +17,569 @@ nguon: pasted-text.txt
 
 **MINH CHÂU — VẦNG TRĂNG SINH RA TỪ LẠC THỦY**
 
-**Phần IX: Mẫu thân không có tên**
+**Phần XI: Mẫu thân không có tên**
 
-Sau vụ Hạ Khê, Minh Châu không còn hỏi Vân Lão mỗi ngày rằng khi nào mới tìm được mẫu thân.
+Sáng ngày thứ tư ở Nam Trạm, trời cuối cùng cũng tạnh.
 
-Nàng vẫn muốn tìm.
+Mây xám vẫn phủ rất thấp trên mái trạm, nhưng mưa đã ngừng. Nước đọng trong sân đất thành từng vũng nhỏ, phản chiếu mấy dãy nhà gỗ thấp và hàng rào ẩm mốc quanh khu an trí.
 
-Muốn đến mức nhiều đêm tỉnh dậy, tay vẫn vô thức đặt lên chiếc hộp gỗ bên cạnh gối, như thể chỉ cần mở hộp ra thêm một lần, trong đó sẽ xuất hiện một dòng chữ mới chỉ đường cho nàng.
+Khu đông không yên.
 
-Nhưng nàng đã không còn chỉ biết hỏi.
+Nhưng đã không còn loạn.
 
-Nàng bắt đầu tự tìm.
+Người sốt cao được tách sang một dãy riêng.
 
-Trong những ngày ở Thanh Khê, ngoài sổ lương, hộ tịch và công văn giả, trước mặt Minh Châu lại có thêm một loại giấy khác.
+Người ho ra máu được chuyển khỏi gian có trẻ nhỏ.
 
-Danh sách an trí.
+Người già và trẻ suy kiệt được đưa vào chỗ ít gió.
 
-Ban đầu, nàng không hiểu vì sao Vân Lão đưa cho mình những tờ giấy ấy.
+Cháo trong nồi không còn loãng đến mức soi thấy đáy.
 
-Trên đó không có chữ “mẫu thân”.
+Người chăm bệnh lần đầu tiên được ghi vào bệnh bạ.
 
-Cũng không có chữ “Lục phu nhân”.
+Tống đại phu đi sau Vân Lão, tay cầm sổ, vẻ mặt tiều tụy hơn cả ngày đầu. Nhưng bước chân của ông ta đã không còn rối như trước.
 
-Chỉ có những dòng rất lạnh.
+Vân Lão nói một câu, ông ta ghi một câu.
 
-Dân bệnh chuyển đi.
+Không cãi.
 
-Dân bị thương lưu lại.
+Không lấp liếm.
 
-Dân vô thân tạm an trí.
+Không nói “bệnh dân vốn yếu” nữa.
 
-Nữ, tuổi ngoài ba mươi, không rõ quê quán.
+Minh Châu ôm một chồng bệnh bạ nhỏ, đứng bên cạnh bếp thuốc.
 
-Trẻ nhỏ, không rõ thân nhân.
+Mắt nàng vẫn sưng.
 
-Người già, bệnh nặng, không tiện di chuyển.
+Đêm qua nàng ngủ rất ít.
 
-Có người có tên.
+Mỗi lần nhắm mắt, nàng lại nghe thấy tiếng mẫu thân ho khẽ trong căn phòng nhỏ phía sau khu đông. Mỗi lần mở mắt, điều đầu tiên nàng làm là nhìn xem bàn tay mẫu thân còn nằm trong tay mình hay không.
 
-Có người chỉ có một dấu tròn thay tên.
+Sáng nay, khi Vân Lão gọi nàng dậy, nàng gần như lập tức ngồi bật lên.
 
-Có người bên cạnh ghi một chữ: mất.
+“Mẹ con…”
 
-Minh Châu đọc rất lâu.
+“Nàng còn sống.”
 
-Rồi hỏi:
+Chỉ bốn chữ ấy, Minh Châu mới thở được.
 
-“Vì sao họ không có tên?”
+Nhưng sau khi thở được, nàng lại phải đứng dậy.
 
-Vân Lão đáp:
+Rửa mặt.
 
-“Vì có người không muốn mất công ghi.”
+Buộc tóc.
 
-“Chỉ vì vậy sao?”
+Cầm bệnh bạ.
 
-“Cũng có khi vì nếu ghi tên thật, sẽ sinh thêm việc.”
+Đi theo Vân Lão.
 
-Minh Châu cúi đầu nhìn trang giấy.
+Bởi khu đông vẫn còn người bệnh.
 
-Nàng hiểu câu ấy.
+Bởi đứa trẻ sốt cao hôm đầu vẫn cần xem lại mạch.
 
-Tên thật có thể kéo theo quê quán.
+Bởi một cụ già đêm qua ho ra máu, sáng nay chưa uống được cháo.
 
-Quê quán có thể kéo theo hộ tịch.
+Bởi có ba người chăm bệnh mới bắt đầu sốt nhẹ.
 
-Hộ tịch có thể kéo theo người thân.
+Bởi mẫu thân nàng đã nói: nếu lại có người gọi, con vẫn phải đi.
 
-Người thân có thể kéo theo câu hỏi.
+Vân Lão đứng giữa sân khu đông, chỉ vào dãy nhà bên trái.
 
-Câu hỏi có thể kéo theo sự thật.
+“Từ hôm nay, người chăm bệnh chia ca.”
 
-Cho nên có những người bị ghi thành “dân bệnh”.
+Quản sự đứng bên cạnh, sắc mặt rất khó coi.
 
-Có những người bị ghi thành “phụ nhân không rõ tên”.
+“Chia ca thì thiếu người.”
 
-Có những người còn sống, nhưng từ lúc bước vào danh sách ấy, đã bắt đầu rời khỏi thế gian.
+Vân Lão không nhìn hắn.
 
-Sau Hạ Khê, Minh Châu hiểu chuyện này nhanh hơn trước.
+“Không chia ca thì thiếu người chết.”
 
-Nàng từng nhìn thấy mười ba người bị xóa khỏi hộ tịch.
+Quản sự cứng họng.
 
-Bây giờ, nàng bắt đầu hiểu rằng sau Lạc Thủy, có lẽ có rất nhiều người cũng đã bị xóa như vậy.
+Tống đại phu cúi đầu ghi xuống:
 
-Trong đó có thể có mẫu thân nàng.
+Người chăm bệnh chia nửa ngày một lượt.
 
-Một buổi chiều cuối xuân, mưa phùn rơi từ sáng đến tối.
+Người ho, sốt, mệt lả phải thay ra.
 
-Sân đất trước nhà Thanh Khê ướt sũng.
+Minh Châu nhìn dòng chữ ấy.
 
-Cây lê trước sân đã ra lá non, nhưng lá còn rất mỏng, bị mưa phủ lên một lớp nước trong suốt.
+Tay nàng vô thức siết lại.
 
-Minh Châu ngồi bên cửa sổ, trước mặt là một chồng giấy cũ.
+Mấy tháng qua, mẫu thân nàng đã không có một dòng như vậy.
 
-Nàng đã đọc ba lần.
+Không ai thay bà ra.
 
-Lần thứ tư, bút trong tay nàng dừng lại ở một dòng rất nhỏ.
+Không ai ghi bà cũng là người bệnh.
 
-Nữ bệnh dân.
+Không ai hỏi bà còn đứng nổi không.
 
-Từ Lạc Thủy chuyển đến.
+Bà chỉ được gọi khi cần lau mồ hôi cho người khác, đút cháo cho người khác, dỗ trẻ nhỏ uống nước.
 
-Biết chăm bệnh.
+Đến lúc bà không còn sức, người ta mới phát hiện: hóa ra người chăm bệnh cũng có thể chết.
 
-Không rõ tên gốc.
+Vân Lão lại nói:
 
-Tạm gọi Lạc nương.
-
-Chuyển tới khu an trí Nam Trạm.
-
-Minh Châu nhìn dòng ấy rất lâu.
-
-Lạc nương.
-
-Hai chữ ấy không có nghĩa gì chắc chắn.
-
-Lạc Thủy có quá nhiều người.
-
-Phụ nữ biết chăm bệnh cũng không chỉ có mẫu thân nàng.
-
-Nhưng tay nàng vẫn run lên.
-
-Nàng ngẩng đầu.
-
-Vân Lão đang ngồi bên bàn thuốc, dùng dao nhỏ cắt một đoạn rễ khô.
-
-Dường như ông đã biết nàng sẽ hỏi.
-
-“Tiên sinh.”
-
-“Ừ.”
-
-“Lạc nương là ai?”
-
-Dao trong tay Vân Lão dừng lại một nhịp.
-
-Rồi tiếp tục cắt xuống.
-
-“Chưa biết.”
-
-“Có thể là mẹ con không?”
-
-“Có thể.”
-
-Minh Châu đứng bật dậy.
-
-Chiếc ghế phía sau bị đẩy lệch, phát ra một tiếng khô khốc trên nền đất.
-
-Nguyễn lão đang nhóm bếp ngoài hiên lập tức quay đầu.
-
-Vân Lão không ngẩng lên.
-
-“Ngồi xuống.”
-
-“Con muốn đi Nam Trạm.”
-
-“Ta biết.”
-
-“Bây giờ.”
-
-“Không.”
-
-“Vì sao?”
-
-Vân Lão đặt dao xuống.
-
-“Vì khu an trí không phải chợ. Muốn vào là vào.”
-
-Minh Châu siết chặt tờ giấy trong tay.
-
-“Vậy làm sao vào?”
-
-“Đi từ cửa chính.”
-
-Nàng sững lại.
-
-“Cửa chính?”
-
-“Ừ.”
-
-“Bọn họ sẽ cho chúng ta vào sao?”
-
-“Không.”
-
-“Vậy…”
-
-Vân Lão nhìn nàng.
-
-“Cho nên phải khiến người có quyền mở cửa tự thấy rằng hắn cần mở cửa.”
-
-Minh Châu im lặng.
-
-Nếu là mấy tháng trước, nàng sẽ chỉ nghe được nửa đầu.
-
-Bây giờ nàng hiểu thêm một chút.
-
-Cửa không chỉ có then gỗ.
-
-Cửa còn có người giữ.
-
-Người giữ cửa không nhất thiết mở vì thương người.
-
-Có khi mở vì sợ.
-
-Có khi mở vì lợi.
-
-Có khi mở vì nếu không mở, người bị phạt trước tiên sẽ là hắn.
-
-Vân Lão đứng dậy, lấy áo tơi trên vách xuống.
-
-“Thay áo.”
-
-Minh Châu ngẩng đầu.
-
-“Đi đâu ạ?”
-
-“Nam Trạm.”
-
-Mưa ngoài hiên vẫn rơi.
-
-Rất nhỏ.
-
-Nhưng trong khoảnh khắc ấy, Minh Châu cảm thấy tiếng mưa như đập thẳng vào tim mình.
-
-Nam Trạm cách Thanh Khê hơn một ngày đường.
-
-Đó không phải huyện thành lớn.
-
-Chỉ là một trạm an trí dựng tạm sau nhiều đợt thiên tai và loạn dân. Sau vụ Lạc Thủy, một phần dân bệnh, dân bị thương và người không rõ thân nhân được đưa về đó.
-
-Trên giấy, Nam Trạm là nơi cứu người.
-
-Có kho thuốc.
-
-Có cháo phát.
-
-Có chỗ che mưa.
-
-Có đại phu.
-
-Có lính canh.
-
-Nhưng càng gần Nam Trạm, Minh Châu càng cảm thấy nơi ấy không giống một chỗ cứu người.
-
-Đường vào trạm có lính đứng.
-
-Xe chở lương phải dừng lại kiểm.
-
-Xe chở thuốc cũng phải mở hòm.
-
-Dân trong trạm không được tùy tiện ra.
-
-Người ngoài không được tùy tiện vào.
-
-Bên ngoài cổng có một tấm bảng gỗ.
-
-Chữ trên đó đã nhòe vì mưa.
-
-Dân bệnh an trí.
-
-Không phận sự cấm vào.
-
-Minh Châu nhìn tấm bảng ấy từ xa.
-
-Trong lòng nàng như có một bàn tay lạnh nắm lại.
-
-Nàng hỏi rất khẽ:
-
-“Mẹ con ở trong đó sao?”
-
-Vân Lão không đáp ngay.
-
-Rất lâu sau, ông nói:
-
-“Ta không biết.”
-
-“Nhưng người nghi.”
-
-“Ừ.”
-
-“Vậy vì sao không nói với con sớm hơn?”
-
-“Vì một dòng ‘Lạc nương’ không đủ để con đánh đổi mạng mình.”
-
-Minh Châu cắn môi.
-
-Nàng muốn nói mình không sợ.
-
-Nhưng nghĩ đến Hạ Khê, nghĩ đến lần mình suýt hại người phụ nữ kia vì nói đúng quá sớm, nàng nuốt câu ấy xuống.
-
-Vân Lão chống gậy đi qua con đường lầy.
-
-Nhưng ông không đi về phía cổng trạm.
-
-Ông rẽ sang một con hẻm nhỏ bên trái.
-
-Ở cuối hẻm có một căn nhà thấp, mái tranh dột, trước cửa treo một tấm vải cũ có vẽ hình hồ lô thuốc.
-
-Một đại phu trung niên đang ngồi trong nhà, cúi đầu sao thuốc.
-
-Ông ta khoảng hơn bốn mươi tuổi.
-
-Gương mặt gầy.
-
-Mắt thâm.
-
-Áo vải đã sờn ở khuỷu tay.
-
-Trên bàn đặt mấy cuốn bệnh bạ cũ, giấy kê phương, và một bát cháo nguội đã ăn dở.
-
-Nghe tiếng bước chân, ông ta ngẩng đầu.
-
-Vừa nhìn thấy Vân Lão, sắc mặt lập tức thay đổi.
-
-“Vân tiên sinh?”
-
-Ông ta đứng dậy rất nhanh, suýt làm đổ khay thuốc.
-
-Minh Châu nhìn ông ta.
-
-Người này biết Vân Lão.
-
-Không phải kiểu biết một lão lang trung bình thường.
-
-Mà là kính nể.
-
-Có cả sợ.
-
-Vân Lão cởi áo tơi, đặt bên cửa.
-
-“Tống đại phu.”
-
-Tống đại phu vội vàng bước ra nghênh.
-
-“Tiên sinh tới Nam Trạm, sao không báo trước? Nơi này mưa gió, đường lại khó đi…”
-
-“Đi ngang qua.”
-
-Vân Lão nói rất bình thản.
-
-“Nghe nói bệnh ở khu an trí chưa lui.”
-
-Tống đại phu khựng lại.
-
-Chỉ một câu ấy, sắc mặt ông ta đã trở nên khó coi.
-
-Ông ta miễn cưỡng cười.
-
-“Bệnh dân sau tai họa vốn yếu, lại thêm mưa xuân, ho sốt kéo dài cũng là chuyện thường.”
-
-Vân Lão đi vào nhà.
-
-Không đợi mời, ông đã ngồi xuống cạnh bàn.
-
-Minh Châu cúi đầu theo sau, đứng bên cạnh như một dược đồng nhỏ.
-
-Tống đại phu nhìn nàng một cái.
-
-“Đây là…”
-
-“Dược đồng của ta.”
-
-“À…”
-
-Tống đại phu gật đầu, không hỏi thêm.
-
-Vân Lão cầm một tờ phương thuốc trên bàn lên.
-
-“Dùng ma hoàng?”
-
-Tống đại phu vội đáp:
-
-“Có mấy người hàn sốt, mồ hôi không ra…”
-
-“Người bệnh khí hư sau đói rét, dùng mạnh như vậy, chết mấy người rồi?”
-
-Tống đại phu lập tức im bặt.
-
-Minh Châu ngẩng đầu nhìn ông ta.
-
-Vân Lão đặt phương thuốc xuống, lại cầm một tờ bệnh bạ khác.
-
-“Ho ra máu vẫn dùng phương tán hàn?”
-
-Tống đại phu cúi đầu.
-
-“Trong trạm thiếu thuốc. Người lại nhiều. Bệnh trạng lẫn lộn. Ta…”
-
-“Ta không hỏi ngươi khó hay dễ.”
-
-Vân Lão ngắt lời.
-
-“Ta hỏi chết mấy người rồi.”
-
-Căn phòng bỗng yên lặng.
-
-Mưa ngoài hiên rơi tí tách.
-
-Rất lâu sau, Tống đại phu thấp giọng:
-
-“Tháng này… mười bảy.”
-
-Minh Châu siết chặt tay áo.
-
-Mười bảy.
-
-Không phải một con số lớn trong công văn.
-
-Nhưng sau “Bài học đầu tiên”, nàng đã không còn nghe một con số như một con số nữa.
-
-Mười bảy người.
-
-Mười bảy cái tên.
-
-Hoặc mười bảy người không có tên.
-
-Vân Lão hỏi:
-
-“Người chăm bệnh có ghi bệnh bạ không?”
-
-Tống đại phu ngẩng đầu.
-
-“Người chăm bệnh?”
-
-“Ừ.”
-
-“Bọn họ không tính là bệnh dân chính.”
-
-“Không tính là bệnh dân chính, nên chết thì không ghi?”
-
-Tống đại phu biến sắc.
-
-“Tiên sinh…”
-
-“Trong trạm có một phụ nhân từ Lạc Thủy chuyển tới, biết chăm bệnh. Bọn họ gọi là Lạc nương.”
-
-Lần này, Tống đại phu không chỉ biến sắc.
-
-Tay ông ta còn run lên.
-
-Minh Châu nhìn thấy.
-
-Tim nàng gần như ngừng lại.
-
-Vân Lão vẫn bình tĩnh.
-
-“Nàng còn sống không?”
-
-Tống đại phu mấp máy môi.
-
-“Còn.”
-
-Minh Châu suýt bước lên.
-
-Nhưng Vân Lão chỉ khẽ nâng tay, không nhìn nàng.
-
-Nàng lập tức dừng lại.
-
-Tống đại phu nhìn động tác ấy, rồi nhìn Minh Châu.
-
-Trong mắt ông ta thoáng hiện một chút nghi ngờ.
-
-Nhưng rất nhanh, ông ta cúi đầu xuống.
-
-“Nàng còn sống. Nhưng không tốt.”
-
-“Không tốt đến mức nào?”
-
-“Ho lâu. Sốt về đêm. Vết thương cũ không lành hẳn. Mấy tháng qua vẫn chăm bệnh dân khu đông. Ta đã khuyên nghỉ, nhưng trong trạm thiếu người. Quản sự cũng…”
-
-Ông ta không nói tiếp.
-
-Vân Lão nhìn ông ta.
-
-“Ngươi đã khuyên ai?”
-
-Tống đại phu im lặng.
-
-“Khuyên nàng, hay khuyên quản sự?”
-
-Không khí trong phòng như bị đè xuống.
-
-Tống đại phu cúi đầu rất thấp.
-
-“Ta có nói với quản sự.”
-
-“Quản sự không nghe?”
-
-“Không nghe.”
-
-“Sau đó?”
-
-“Sau đó…”
-
-Tống đại phu cười khổ.
-
-“Sau đó ta cũng không nói nữa.”
-
-Minh Châu nhìn người trước mặt.
-
-Ông ta không giống kẻ ác.
-
-Không giống nha lại cầm sổ lạnh lùng ở Hạ Khê.
-
-Cũng không giống những kẻ nàng từng tưởng tượng là đã hại cha mẹ mình.
-
-Ông ta chỉ là một đại phu mệt mỏi, yếu đuối, biết mình không đủ bản lĩnh, biết có người sắp chết, nhưng không đủ sức cãi lại người quản trạm.
-
-Vân Lão đặt bệnh bạ xuống.
-
-“Ngươi biết ta vì sao đến đây.”
-
-Tống đại phu im lặng.
-
-“Không phải đi ngang qua sao?”
-
-“Ngươi tin sao?”
-
-Tống đại phu nhìn ông.
-
-Trong mắt có kính nể, cũng có sợ hãi.
-
-Năm xưa khi còn ở Lạc Thủy, ông ta từng nghe danh Vân Lão.
-
-Không phải danh đệ nhất mưu sĩ.
-
-Danh ấy đã chìm dưới quá nhiều lớp thân phận.
-
-Thứ người hành y quanh vùng biết là: trên núi Thanh Khê có một lão lang trung cực khó mời, y thuật cao đến mức từng kéo người sắp chết từ quỷ môn quan về, nhưng tính tình cổ quái. Chữa bệnh cho người, lại hỏi chuyện gạo thóc. Bắt mạch xong, không chỉ kê thuốc, còn mắng cả nhà bệnh nhân ăn uống sai mùa, thuế nặng không dám khai, bệnh kéo dài vì nghèo chứ không phải vì trời.
-
-Tống đại phu từng gặp ông một lần trong dịch bệnh năm đó.
-
-Khi ấy, một đứa trẻ co giật vì sốt cao.
-
-Tất cả đại phu đều bó tay.
-
-Vân Lão chỉ nhìn phương thuốc họ dùng, mắng một câu “cứu người hay giết người”, rồi sửa phương, châm cứu, giữ được mạng đứa trẻ ấy.
-
-Từ đó, Tống đại phu vừa nể vừa sợ ông.
-
-Nể y thuật.
-
-Sợ ánh mắt.
-
-Ánh mắt như chỉ cần nhìn qua là biết người trước mặt đang giấu cái gì.
-
-Tống đại phu ngồi xuống.
-
-Giọng ông ta khàn đi.
-
-“Tiên sinh muốn vào khu an trí?”
-
-“Ừ.”
-
-“Khó lắm.”
-
-“Ta biết.”
-
-“Bên trong là dân Lạc Thủy. Trên có lệnh, không được để người ngoài tùy tiện tiếp xúc. Người vào phải ghi tên, xét hòm, xét thuốc, xét giấy. Ra cũng phải xét lại.”
-
-“Ta không định tùy tiện vào.”
+“Bệnh bạ từ nay không chỉ ghi người nằm.”
 
 Tống đại phu ngẩng đầu.
 
 Vân Lão nhìn ông ta.
 
-“Ngươi đang trị không nổi.”
-
-Câu này rất thẳng.
-
-Tống đại phu tái mặt.
-
-“Tiên sinh…”
-
-“Nếu tháng sau chết thêm hai mươi người, sổ tử vong là ai ký?”
-
-Tống đại phu không đáp.
-
-“Quản sự?”
-
-Ông ta vẫn im.
-
-“Hay ngươi?”
-
-Tống đại phu cúi đầu.
-
-Đầu ngón tay đặt trên mép bàn trắng bệch.
-
-Vân Lão nói tiếp:
-
-“Ngươi không cần làm chuyện trái lệnh.”
-
-“…”
-
-“Ngươi chỉ cần làm đúng việc một đại phu nên làm.”
-
-Tống đại phu ngẩng lên.
-
-Vân Lão từng chữ rất chậm:
-
-“Bệnh trị không nổi, thì mời người trị nổi.”
-
-Bên ngoài, tiếng mưa bỗng nặng hơn.
-
-Tống đại phu nhìn ông rất lâu.
-
-“Tiên sinh vào rồi, nếu hỏi chuyện không nên hỏi…”
-
-“Ta hỏi bệnh.”
-
-“Nếu nhìn thấy chuyện không nên thấy…”
-
-“Ta nhìn bệnh.”
-
-“Nếu người khác nghi ngờ…”
-
-“Ngươi mời ta hội chẩn. Có gì sai?”
-
-Tống đại phu cười khổ.
-
-“Tiên sinh nói nhẹ quá.”
-
-Vân Lão đáp:
-
-“Vì chuyện vốn không nặng nếu ngươi làm từ mười ngày trước.”
-
-Câu ấy khiến Tống đại phu im bặt.
-
-Ông ta biết.
-
-Nếu mười ngày trước, khi Lạc nương bắt đầu ho ra máu, ông ta kiên quyết yêu cầu cho nàng nghỉ, có lẽ nàng chưa đến mức này.
-
-Nếu mười ngày trước, khi khu đông bắt đầu sốt lan, ông ta chịu nhận mình trị không nổi, có lẽ đã ít chết vài người.
-
-Nhưng ông ta sợ.
-
-Sợ bị quản sự mắng là vô dụng.
-
-Sợ bị quy tội dùng thuốc sai.
-
-Sợ người ta hỏi vì sao không báo sớm.
-
-Sợ mình bị kéo vào chuyện Lạc Thủy mà ai cũng biết không nên hỏi sâu.
-
-Cho nên ông ta im.
-
-Im đến hôm nay.
-
-Tống đại phu quay đầu nhìn màn mưa ngoài cửa.
-
-Rất lâu sau, ông ta đứng dậy, kéo một tờ giấy trắng tới trước mặt.
-
-“Ta viết giấy bảo chứng.”
-
-Minh Châu ngẩng đầu.
-
-Tống đại phu cầm bút.
-
-Tay vẫn hơi run.
-
-Nhưng lần này, ông ta viết rất nhanh.
-
-Bệnh khu Nam Trạm sốt kéo dài, người bệnh suy nhược, tử vong tăng.
-
-Y sĩ hiện quản không đủ sức xử trí.
-
-Xin mời Vân lang trung Thanh Khê vào hội chẩn.
-
-Đi cùng một dược đồng chép phương, phụ sắc thuốc.
-
-Người vào phải xét hòm thuốc, ghi tên, không được tự tiện ra vào ngoài khu bệnh.
-
-Tống đại phu viết xong, ký tên.
-
-Đóng ấn nhỏ của mình.
-
-Rồi nhìn Vân Lão.
-
-“Tiên sinh, ta chỉ mở được cửa.”
-
-Vân Lão cầm tờ giấy lên.
-
-“Đủ rồi.”
-
-Tống đại phu nhìn Minh Châu.
-
-“Dược đồng này…”
-
-Vân Lão bình thản:
-
-“Mắt ta kém. Tay nó nhanh. Chữ cũng sạch.”
+“Ghi cả người đang đứng.”
 
 Tống đại phu im lặng một lúc.
 
-Rồi gật đầu.
-
-“Vậy vào trong, đừng ngẩng đầu quá nhiều.”
-
-Lời ấy là nói với Minh Châu.
-
-Nàng cúi đầu.
+Rồi đáp:
 
 “Vâng.”
 
-Cổng khu an trí Nam Trạm mở ra vào giờ Mùi.
+Minh Châu cúi đầu, tự tay kẻ thêm một cột nhỏ ở cuối trang.
 
-Nhưng chỉ mở một nửa.
+Người chăm bệnh.
 
-Hai lính canh đứng hai bên cửa, áo giáp phủ áo tơi, tay đặt trên chuôi đao.
+Tình trạng.
 
-Tống đại phu đưa giấy bảo chứng ra.
+Cần nghỉ.
 
-Lính canh đọc rất lâu.
+Nét mực đi xuống rất chậm.
 
-Rồi nhìn Vân Lão.
+Nàng không biết vì sao, chỉ là mấy đường kẻ thôi mà lòng bàn tay lại đau như bị dây thừng cứa qua.
 
-“Vân lang trung Thanh Khê?”
+Đến gần trưa, khu đông không có thêm người chết.
 
-Vân Lão đáp:
+Tống đại phu nhìn sổ tử vong.
 
-“Ừ.”
+Từ sáng đến giờ, trang ấy vẫn trống.
 
-“Có giấy quan huyện không?”
+Ông ta nhìn khoảng trống đó rất lâu.
 
-Tống đại phu vội nói:
+Có lẽ trước đây, ông ta từng mong một ngày trôi qua nhanh, không bị quản sự trách, không bị người nhà bệnh dân níu áo, không bị hỏi vì sao người này chết, người kia chưa khỏi.
 
-“Đây là hội chẩn bệnh khu, ta chịu trách nhiệm.”
+Nhưng đây là lần đầu tiên ông ta nhìn một khoảng trống trong sổ mà thấy mình gần như không dám thở mạnh.
 
-Lính canh nhìn ông ta.
+Một ngày không chết thêm người.
 
-“Ngươi chịu?”
+Thì ra đáng quý đến vậy.
 
-Tống đại phu siết tay áo.
+Minh Châu cũng nhìn khoảng trống đó.
 
-“Ta chịu.”
+Nàng nhớ đêm qua mình đã viết bên mép bệnh bạ:
 
-Lính canh lại nhìn Minh Châu.
+Không thêm người mất.
 
-“Đứa nhỏ này là ai?”
+Mẹ nghe xong, nói tốt.
 
-“Dược đồng.”
+Nghĩ đến mẫu thân, nàng lập tức quay đầu nhìn về căn phòng nhỏ phía sau.
 
-“Dược đồng cũng phải xét.”
+Cửa phòng khép hờ.
 
-Vân Lão không đổi sắc.
+Bên trong rất yên.
 
-“Xét.”
+Quá yên.
 
-Hòm thuốc bị mở ra.
+Nàng siết bệnh bạ trong tay.
 
-Từng ngăn bị lật.
+Vân Lão đang bắt mạch cho một người già, không quay đầu, nhưng dường như vẫn biết nàng đang nghĩ gì.
 
-Kim châm được lấy ra đếm.
+“Đi đi.”
 
-Bình rượu thuốc bị mở nút ngửi.
+Minh Châu ngẩng phắt lên.
 
-Gói thuốc bột bị chọc vào bằng que bạc.
+“Con…”
 
-Giấy trắng bị giũ từng tờ.
+“Đem chén thuốc trong hòm thứ ba qua.”
 
-Bút mực cũng bị xem.
-
-Một lính canh bước đến trước mặt Minh Châu.
-
-“Giơ tay.”
-
-Minh Châu giơ tay.
-
-Tay nàng rất lạnh.
-
-Lính canh lục túi áo nàng.
-
-Không có gì.
-
-Không có hộp gỗ.
-
-Không có quân cờ trắng.
-
-Không có miếng ngọc.
-
-Trước khi đi, Vân Lão đã bắt nàng để tất cả ở Thanh Khê.
-
-Ông nói:
-
-“Hôm nay con không phải tiểu thư Lục gia.”
-
-“Cũng không phải đứa trẻ đi tìm mẹ.”
-
-“Con là dược đồng.”
-
-“Dược đồng chỉ mang thứ dược đồng nên mang.”
-
-Khi ấy Minh Châu đã đứng rất lâu trước chiếc hộp gỗ.
-
-Cuối cùng, nàng buông tay.
-
-Bây giờ, lính canh không tìm được gì ngoài một chiếc khăn vải, vài tờ giấy chép phương, và một mảnh than nhỏ dùng để đánh dấu.
-
-Hắn lùi lại.
-
-“Vào thì vào.”
-
-“Không được hỏi chuyện không liên quan.”
-
-“Không được đưa thư.”
-
-“Không được nhận đồ.”
-
-“Không được tự ý rời khu đông.”
-
-“Ra cổng phải xét lại.”
-
-Vân Lão đáp:
-
-“Biết.”
-
-Cánh cổng mở thêm một chút.
-
-Mùi thuốc, mùi ẩm mốc, mùi mồ hôi và mùi bệnh từ bên trong ùa ra.
-
-Minh Châu bước vào sau Vân Lão.
-
-Chỉ một bước.
-
-Nàng đã cảm thấy như mình đi vào một nơi bị thế gian gấp lại, cất vào góc khuất.
-
-Khu an trí rất rộng.
-
-Nhưng đông.
-
-Quá đông.
-
-Hai dãy nhà gỗ thấp nằm song song, giữa là lối đất lầy. Dưới mái hiên, người bệnh ngồi tựa vào tường. Có người ho không dứt. Có người quấn chăn rách, mắt mờ đục. Có trẻ con nằm trong lòng mẹ, mặt đỏ vì sốt.
-
-Một người chết được khiêng qua phía xa.
-
-Không ai khóc lớn.
-
-Chỉ có một phụ nữ ngồi bệt xuống đất, hai tay che miệng, vai run lên.
-
-Một người ghi sổ đứng bên cạnh, hỏi:
-
-“Tên?”
-
-Không ai đáp.
-
-Người ghi sổ nhíu mày.
-
-“Không rõ tên?”
-
-Một lát sau, hắn viết xuống.
-
-Nam bệnh dân.
-
-Mất.
-
-Minh Châu nhìn dòng chữ ấy từ xa.
-
-Nàng bỗng nhớ đến “Bài học đầu tiên”.
-
-Nhớ đến thôn Đông Hà.
-
-Nhớ đến một dòng thiếu lương.
-
-Nhưng ở đây, người chết không nằm trong phép tính nữa.
-
-Người chết vừa được khiêng qua trước mắt nàng.
-
-Mà người ghi sổ chỉ cần vài nét bút.
-
-Tống đại phu dẫn họ vào khu đông.
-
-“Bệnh nặng phần lớn ở đây.”
-
-Vân Lão không nhìn xung quanh quá lâu.
-
-Ông nói:
-
-“Bệnh bạ.”
-
-Tống đại phu lập tức đưa sổ.
-
-Vân Lão mở ra, lật từng trang.
-
-Minh Châu đứng bên cạnh, cúi đầu ghi.
-
-Người thứ nhất.
-
-Nam, bốn mươi, sốt sáu ngày, ho đờm vàng, mạch phù sác.
-
-Vân Lão bắt mạch, sửa phương.
-
-Người thứ hai.
-
-Nữ, hai mươi, sau sinh suy yếu, sốt về chiều, không đủ sữa.
-
-Vân Lão bắt mạch, bảo đổi cháo loãng thành cháo gạo đặc hơn, thêm muối, giảm thuốc tán hàn.
-
-Người thứ ba.
-
-Trẻ nhỏ, co giật nhẹ vì sốt.
-
-Vân Lão châm cứu.
-
-Minh Châu cúi đầu ghi từng chữ.
-
-Nàng muốn nhìn.
-
-Muốn tìm.
-
-Muốn hỏi Tống đại phu: Lạc nương ở đâu?
-
-Nhưng nàng không dám.
-
-Nàng nhớ lời Vân Lão.
-
-Dược đồng chỉ ghi.
-
-Dược đồng không tìm mẹ.
-
-Dược đồng không khóc.
-
-Đi qua nửa khu đông, họ đến một gian phòng thấp.
-
-Cửa mở.
-
-Bên trong có năm sáu người bệnh nằm chen nhau.
-
-Một đứa trẻ đang sốt cao, môi khô nứt. Bên cạnh nó, một phụ nhân mặc áo vải cũ đang cúi người, dùng khăn ướt lau mồ hôi trên trán nó.
-
-Bàn tay phụ nhân ấy rất gầy.
-
-Gầy đến mức thấy rõ xương.
-
-Nhưng động tác rất nhẹ.
-
-Nàng vắt khăn, gấp lại, đặt lên trán đứa trẻ.
-
-Sau đó đưa tay chỉnh lại cổ áo cho nó, để gió không lùa vào ngực.
-
-Minh Châu đứng sững.
-
-Trong tai nàng, mọi tiếng ho, tiếng mưa, tiếng người đi lại bỗng xa dần.
-
-Nàng đã thấy động tác ấy rất nhiều lần.
-
-Khi nàng còn nhỏ, mỗi lần sốt, mẫu thân cũng vắt khăn như vậy.
-
-Cũng gấp lại hai lần.
-
-Cũng đặt lên trán nàng từ bên trái trước.
-
-Cũng chỉnh cổ áo cho nàng, rồi khẽ chạm vào má nàng xem còn nóng không.
-
-Phụ nhân kia ngẩng đầu.
-
-Mặt bà rất gầy.
-
-Sắc mặt tái nhợt.
-
-Khóe mắt có nếp mệt mỏi rất sâu.
-
-So với ký ức của Minh Châu, bà như bị năm tháng kéo đi rất xa.
-
-Nhưng chỉ một cái ngẩng đầu ấy.
-
-Minh Châu đã không thở được.
-
-Mẫu thân.
-
-Hai chữ ấy dâng lên đến cổ họng.
-
-Nhưng không thể thoát ra.
-
-Nàng cúi đầu xuống rất nhanh.
-
-Bút trong tay gần như đâm thủng giấy.
-
-Vân Lão đứng bên cạnh nàng.
-
-Không nhìn nàng.
-
-Ông chỉ nói với Tống đại phu:
-
-“Người chăm bệnh cũng bắt mạch.”
-
-Tống đại phu cúi đầu.
+Nàng lập tức đáp:
 
 “Vâng.”
 
-Phụ nhân kia đặt khăn xuống.
+Nàng chạy đến bếp thuốc, bưng chén thuốc đã sắc xong, rồi bước rất nhanh về căn phòng nhỏ.
 
-Nàng nhìn Vân Lão.
+Đến trước cửa, nàng lại chậm xuống.
 
-Trong khoảnh khắc rất ngắn, ánh mắt nàng khẽ động.
+Mỗi lần đứng trước cánh cửa này, nàng đều sợ.
 
-Có lẽ nàng nhận ra ông.
+Sợ đẩy cửa ra sẽ thấy mẫu thân đang ngủ.
 
-Nhưng nàng không nói.
+Càng sợ đẩy cửa ra sẽ thấy mẫu thân không còn thở.
 
-Chỉ đưa tay ra.
+Nàng đứng yên một nhịp.
 
-Vân Lão đặt ngón tay lên cổ tay nàng.
+Rồi nhẹ nhàng đẩy cửa.
 
-Rất lâu.
+Lục phu nhân đang ngồi dựa vào vách.
 
-Quá lâu.
+Mắt mở.
 
-Minh Châu đứng bên cạnh, nghe tiếng tim mình đập từng tiếng.
+Nghe tiếng cửa, bà quay đầu.
 
-Nàng nhìn bàn tay Vân Lão.
+Thấy Minh Châu, khóe môi bà khẽ cong lên.
 
-Nhìn sắc mặt ông.
+“Dược đồng lại trốn việc sao?”
 
-Nhìn đôi mắt mẫu thân.
+Câu ấy rất nhẹ.
 
-Phụ nhân kia rất yên tĩnh.
+Rất yếu.
 
-Yên tĩnh đến mức giống như người bị bắt mạch không phải mình.
+Nhưng Minh Châu bỗng thấy mắt mình nóng lên.
 
-Một lúc sau, Vân Lão buông tay.
+“Không phải trốn.”
 
-Ông kéo tay áo nàng xuống, che lại cổ tay quá gầy.
+Nàng bước tới, đặt chén thuốc xuống.
 
-“Người này không được chăm bệnh nữa.”
+“Tiên sinh bảo con đem thuốc cho mẹ.”
 
-Tống đại phu cúi đầu.
+“Vậy là việc chính đáng.”
 
 “Vâng.”
 
-Một quản sự đứng ngoài cửa nhíu mày.
+Nàng ngồi xuống cạnh giường.
 
-“Không được. Khu đông thiếu người. Nàng ta biết chăm bệnh, để nàng nghỉ thì ai làm?”
+Chén thuốc còn nóng.
 
-Vân Lão quay đầu nhìn hắn.
-
-“Nàng chết trong đêm nay, ngươi làm?”
-
-Quản sự khựng lại.
-
-“Chết?”
-
-“Ừ.”
-
-“Sao có thể? Nàng ta ban sáng còn…”
-
-“Người sắp chết không phải lúc nào cũng nằm yên để ngươi dễ nhìn.”
-
-Quản sự biến sắc.
-
-Tống đại phu vội bước lên.
-
-“Quản sự, người này mấy hôm nay ho ra máu. Nếu chết ở khu đông, hôm nay sổ tử vong lại thêm một dòng. Hơn nữa nàng chăm nhiều người bệnh, nếu là bệnh truyền…”
-
-Chưa nói hết, quản sự đã lùi lại nửa bước.
-
-Hắn sợ chết người.
-
-Càng sợ bệnh truyền.
-
-Vân Lão nói:
-
-“Dọn một gian yên tĩnh.”
-
-“Làm gì?”
-
-“Châm cứu giữ khí.”
-
-Quản sự do dự.
-
-Vân Lão lạnh giọng:
-
-“Muốn nàng sống thêm mấy canh giờ, hay muốn khiêng ra ngay bây giờ?”
-
-Quản sự nhìn Tống đại phu.
-
-Tống đại phu cúi đầu:
-
-“Nghe Vân tiên sinh đi.”
-
-Một căn phòng nhỏ phía sau khu đông được dọn ra.
-
-Nói là phòng, thật ra chỉ là một gian chứa chiếu cũ và mấy thùng thuốc rỗng.
-
-Cửa sổ nhỏ.
-
-Ánh sáng mờ.
-
-Mưa gõ lên mái gỗ từng tiếng trầm.
-
-Phụ nhân kia được dìu vào.
-
-Vân Lão đặt hòm thuốc xuống.
-
-“Người không liên quan ra ngoài.”
-
-Quản sự muốn nói gì đó.
-
-Tống đại phu kéo hắn lại.
-
-“Châm cứu kỵ ồn. Ta đứng ngoài là được.”
-
-Lính canh giữ cửa.
-
-Tống đại phu đứng cạnh lính.
-
-Cửa khép lại.
-
-Trong phòng chỉ còn Vân Lão, Minh Châu và phụ nhân kia.
-
-Không ai nói gì.
-
-Minh Châu đứng ở góc phòng.
-
-Hai tay nắm chặt giấy chép phương.
-
-Nàng không dám ngẩng đầu.
-
-Sợ ngẩng đầu là khóc.
-
-Sợ khóc là gọi.
-
-Sợ gọi ra rồi, tất cả những gì Vân Lão sắp xếp sẽ đổ vỡ.
-
-Phụ nhân ngồi trên giường tre thấp.
-
-Bà nhìn Vân Lão trước.
-
-Ánh mắt rất mệt.
-
-Nhưng vẫn tỉnh.
-
-“Vân tiên sinh.”
-
-Giọng bà khàn đến gần như không còn hơi.
-
-Minh Châu run lên.
-
-Vân Lão gật đầu.
-
-“Lục phu nhân.”
-
-Hai chữ ấy rơi xuống rất nhẹ.
-
-Nhưng với Minh Châu, nó như đánh vỡ toàn bộ căn phòng.
-
-Lục phu nhân.
-
-Không phải Lạc nương.
-
-Không phải nữ bệnh dân.
-
-Không phải người không rõ tên gốc.
-
-Là mẫu thân nàng.
-
-Là người đã từng lau mặt cho nàng, giữ điểm tâm cho nàng, nắm tay nàng đi qua thiện đường, nói với nàng rằng người đói trước hết cần một bát cháo nóng.
-
-Minh Châu ngẩng đầu.
-
-Phụ nhân nhìn nàng.
-
-Rất lâu.
-
-Ánh mắt bà dừng trên gương mặt gầy đi của đứa trẻ.
-
-Dừng trên đôi mắt đỏ.
-
-Dừng trên bàn tay nhỏ đang nắm chặt giấy.
-
-Nàng đã lớn hơn một chút.
-
-Gầy hơn.
-
-Tóc không còn chải như ở Lục phủ.
-
-Áo cũng đổi thành áo vải dược đồng.
-
-Nhưng người mẹ vẫn nhận ra.
-
-Môi bà run lên.
-
-“Ninh nhi?”
-
-Minh Châu đứng yên.
-
-Một bước cũng không đi nổi.
-
-Nước mắt rơi xuống trước cả khi nàng kịp nói.
-
-“Mẹ…”
-
-Tiếng gọi ấy rất nhỏ.
-
-Nhỏ hơn cả tiếng mưa.
-
-Nhưng Lục phu nhân nhắm mắt lại.
-
-Như thể chỉ cần nghe được một tiếng ấy, bà đã chờ xong rất nhiều tháng dài.
-
-Minh Châu lao tới.
-
-Nàng quỳ xuống trước giường, ôm lấy tay mẫu thân.
-
-Tay ấy lạnh.
-
-Lạnh đến mức nàng hoảng sợ.
-
-“Mẹ.”
-
-“Mẹ, con đây.”
-
-“Con tìm được mẹ rồi.”
-
-“Con tìm được rồi…”
-
-Nàng nói lặp đi lặp lại.
-
-Như sợ nếu nói chậm một chút, người trước mặt sẽ lại biến thành một dòng “Lạc nương” trong bệnh bạ.
-
-Lục phu nhân đưa tay lên.
-
-Động tác rất chậm.
-
-Bà muốn chạm vào mặt nàng, nhưng tay không đủ sức nâng cao.
-
-Minh Châu lập tức cúi xuống, áp mặt vào lòng bàn tay bà.
-
-Bàn tay ấy gầy.
-
-Nhưng vẫn là bàn tay trong ký ức của nàng.
+Nàng dùng muỗng khuấy rất chậm, thổi nguội từng chút.
 
 Lục phu nhân nhìn nàng.
 
-“Con còn sống.”
+“Ninh nhi biết sắc thuốc rồi.”
 
-Minh Châu khóc không thành tiếng.
+“Con chỉ canh lửa.”
 
-“Con còn sống.”
+“Canh lửa cũng là việc khó.”
 
-“Vân tiên sinh cứu con.”
+Minh Châu khựng lại.
 
-“Nguyễn bá bá cũng ở đây.”
+Nàng nhớ Nguyễn lão.
 
-“Con… con vẫn luôn tìm mẹ.”
+Nhớ đêm trong miếu hoang.
 
-Lục phu nhân nhìn sang Vân Lão.
+Nhớ câu “ta canh lửa”.
 
-Ánh mắt bà rất nhẹ.
+Nàng cúi đầu, thổi chén thuốc.
 
-“Đa tạ tiên sinh.”
+“Mẹ uống một chút.”
 
-Vân Lão không nhận lời cảm ơn.
+Lục phu nhân uống rất chậm.
 
-Ông mở hòm thuốc, lấy kim châm ra.
+Mỗi ngụm nuốt xuống đều như phải dùng hết sức.
 
-“Ta chỉ giữ được một lúc.”
+Minh Châu đỡ chén, tay không dám run.
 
-Minh Châu lập tức quay đầu.
+Uống được nửa chén, bà lắc đầu.
 
-“Tiên sinh?”
+“Đủ rồi.”
 
-Vân Lão không nhìn nàng.
-
-“Ta nói thật.”
-
-Nàng lắc đầu.
-
-“Không.”
-
-“Minh Châu.”
-
-“Không.”
-
-Nàng siết tay mẫu thân.
-
-“Người cứu mẹ đi.”
-
-“Con học rồi.”
-
-“Con nghe lời rồi.”
-
-“Con không khóc ở ngoài.”
-
-“Con không gọi mẹ trước mặt lính canh.”
-
-“Con đã làm đúng.”
-
-“Người cứu mẹ đi.”
-
-Vân Lão cầm kim, bàn tay già nua không run.
-
-Nhưng mắt ông rất trầm.
-
-“Ta đang cứu.”
-
-“Cứu gì?”
-
-“Cứu thời gian còn lại của nàng khỏi bị người khác lấy nốt.”
-
-Minh Châu ngơ ngác nhìn ông.
-
-Lời ấy quá tàn nhẫn.
-
-Nhưng cũng quá thật.
-
-Vân Lão châm kim xuống huyệt.
-
-Lục phu nhân khẽ nhíu mày, nhưng không kêu đau.
-
-Minh Châu ôm tay bà, nước mắt rơi không ngừng.
-
-“Không phải mẹ được an trí sao?”
-
-“Vì sao mẹ thành như vậy?”
-
-“Vì sao mẹ không gửi thư?”
-
-“Vì sao mẹ không nói mình là ai?”
-
-“Vì sao…”
-
-Nàng có quá nhiều câu hỏi.
-
-Hỏi đến cuối cùng, chỉ còn một câu:
-
-“Vì sao mẹ không về?”
+“Thêm một ngụm nữa.”
 
 Lục phu nhân nhìn nàng.
 
-Ánh mắt đau đến mức gần như không còn sức đau nữa.
+Minh Châu nói rất nhỏ:
 
-“Mẹ không về được.”
+“Nguyễn bá bá lúc trước cũng hay bảo con ăn thêm một miếng.”
 
-“Mẹ bị nhốt sao?”
+Bà im lặng một lúc.
 
-“Không hẳn.”
+Rồi cúi xuống uống thêm một ngụm.
 
-“Vậy vì sao?”
+Minh Châu đặt chén thuốc xuống.
 
-Bà thở rất nhẹ.
+Ánh mắt nàng rơi trên gương mặt mẫu thân.
 
-“Người ta không khóa chân mẹ.”
+Sắc mặt bà hôm nay trắng hơn hôm qua.
 
-“Nhưng khóa tên mẹ.”
+Không phải trắng vì lạnh.
 
-Minh Châu im lặng.
+Mà là thứ trắng rất mỏng, như một tờ giấy đã bị nước ngâm lâu ngày.
 
-Lục phu nhân nói từng chữ rất chậm:
+Nàng muốn hỏi.
 
-“Không có tên thật.”
+Nhưng không dám.
 
-“Không có hộ tịch.”
+Lục phu nhân nhìn ra ngoài cửa.
 
-“Không có người bảo chứng.”
+“Khu đông hôm nay thế nào?”
 
-“Không được ra trạm.”
+“Không có người chết thêm.”
 
-“Không được gửi thư.”
+“Thật sao?”
 
-“Nếu nói mình là Lục phu nhân, những người chăm bệnh cùng mẹ sẽ bị hỏi.”
+“Vâng.”
 
-“Những người từng giúp mẹ giấu hơi thở sẽ bị hỏi.”
+Bà nhắm mắt lại.
 
-“Những đứa trẻ ở khu đông cũng sẽ bị chuyển đi.”
+Rất lâu không nói.
 
-Minh Châu lắc đầu.
+Minh Châu lập tức gọi:
 
-“Nhưng mẹ là mẹ của con.”
-
-Lục phu nhân mỉm cười.
-
-Rất nhẹ.
-
-“Ừ.”
-
-“Mẹ là mẹ của con.”
-
-Nàng khóc càng dữ hơn.
-
-Lục phu nhân dùng ngón tay cái lau nước mắt cho nàng.
-
-Động tác yếu đến mức gần như không lau được gì.
-
-“Cha con…”
-
-Minh Châu nghẹn lại.
-
-Rất lâu sau, nàng đáp:
-
-“Phụ thân không qua khỏi.”
-
-Lục phu nhân nhắm mắt.
-
-Không khóc.
-
-Có lẽ bà đã biết.
-
-Có lẽ đã nghe từ lời đồn.
-
-Có lẽ trong lòng đã chết cùng ông từ ngày Lạc Thủy cháy.
-
-Nhưng khi nghe chính con gái nói ra, hơi thở của bà vẫn đứt đi một nhịp.
-
-“Ông ấy…”
-
-Bà dừng lại rất lâu.
-
-“Ông ấy có đau không?”
-
-Minh Châu không biết đáp thế nào.
-
-Nàng nhớ công văn.
-
-Nhớ câu “bạo bệnh trong ngục”.
-
-Nhớ những điều Vân Lão không nói hết.
-
-Nàng không muốn lừa mẹ.
-
-Nhưng cũng không thể đem tất cả đau đớn đặt lên người bà lúc này.
-
-Vân Lão đứng bên cạnh, thay nàng đáp:
-
-“Lục Thanh Trì đến cuối vẫn không nhận mình làm sai.”
+“Mẹ?”
 
 Lục phu nhân mở mắt.
 
-Trong mắt bà có nước.
+“Không sao.”
 
-Nhưng khóe môi lại hơi cong lên.
+“Vậy vì sao mẹ nhắm mắt?”
 
-“Vậy là ông ấy.”
+“Vì muốn nghe kỹ hơn.”
 
-Chỉ một câu.
+“Nghe gì?”
 
-Vậy là ông ấy.
+Bà lắng nghe tiếng bên ngoài.
 
-Không trách.
+Có tiếng người đun nước.
 
-Không than.
+Có tiếng Tống đại phu thấp giọng dặn thuốc.
 
-Không hỏi vì sao không cúi đầu để sống.
+Có tiếng trẻ nhỏ ho khan.
 
-Bởi bà hiểu người ấy.
+Có tiếng người mẹ nào đó dỗ con uống cháo.
 
-Cũng như ông hiểu bà.
+Không có tiếng khóc lớn.
 
-Minh Châu nhìn mẫu thân.
+Không có tiếng khiêng người.
 
-Nàng bỗng cảm thấy mình còn rất nhỏ.
+Không có tiếng người ghi sổ hỏi “tên?”.
 
-Nhỏ đến mức không hiểu nổi vì sao cha mẹ có thể bình tĩnh trước cái chết như vậy.
+Lục phu nhân khẽ cười.
 
-Nàng không bình tĩnh được.
+“Hôm nay Nam Trạm yên hơn.”
 
-Nàng chỉ muốn họ sống.
+“Vâng.”
 
-Chỉ muốn nhà mình trở lại.
+“Vậy tốt.”
 
-Chỉ muốn mẫu thân đứng dậy, rời khỏi nơi này, cùng nàng về Thanh Khê.
+Minh Châu nhìn bà.
 
-Nàng nói:
+“Mẹ lúc nào cũng hỏi người khác.”
+
+“Vậy hỏi con.”
+
+“Con không sao.”
+
+Lục phu nhân nhìn nàng, ánh mắt dịu xuống.
+
+“Con nói dối.”
+
+Minh Châu im lặng.
+
+Bà khẽ nâng tay.
+
+Minh Châu lập tức cúi xuống để bà chạm được vào mặt mình.
+
+Đầu ngón tay bà rất lạnh.
+
+“Con sợ.”
+
+Nước mắt Minh Châu lập tức dâng lên.
+
+Nàng mím môi, không đáp.
+
+“Con sợ mẹ ngủ rồi không tỉnh.”
+
+Nàng cúi đầu rất thấp.
+
+“Vâng.”
+
+“Con sợ phải đi ra ngoài khi mẹ còn ở đây.”
+
+“Vâng.”
+
+“Con sợ cứu được người khác, nhưng không cứu được mẹ.”
+
+Câu ấy làm Minh Châu run lên.
+
+Nàng siết chặt tay trên mép giường.
+
+Rất lâu sau mới nói:
+
+“Con không muốn nghĩ như vậy.”
+
+“Nhưng con đã nghĩ.”
+
+“Vâng.”
+
+Lục phu nhân không trách.
+
+Chỉ nhẹ nhàng đặt tay lên tóc nàng.
+
+“Ninh nhi.”
+
+“Vâng.”
+
+“Người làm mẹ cũng ích kỷ.”
+
+Minh Châu ngẩng lên.
+
+Bà nhìn nàng, khóe mắt hơi đỏ.
+
+“Nếu có thể, mẹ cũng muốn giữ con ở đây.”
+
+“Muốn con ngồi cạnh mẹ.”
+
+“Muốn nghe con gọi mẹ thêm nhiều lần.”
+
+“Muốn nhìn con ngủ.”
+
+“Muốn xem con viết chữ.”
+
+“Muốn chải lại tóc cho con.”
+
+Minh Châu bật khóc.
+
+Không thành tiếng.
+
+Chỉ nước mắt rơi rất nhanh.
+
+Lục phu nhân nhìn nàng.
+
+“Nhưng mẹ đã thấy con ở khu đông.”
+
+“Thấy con tay run mà vẫn ghi.”
+
+“Thấy con nghe người khác gọi, vẫn đi.”
+
+“Thấy con nhớ từng bệnh nhân Vân tiên sinh dặn phải xem lại.”
+
+Bà dừng lại một lúc để thở.
+
+Giọng càng lúc càng nhẹ.
+
+“Mẹ đau lòng.”
+
+“Nhưng cũng yên lòng.”
+
+“Vì sao?”
+
+“Vì con không chỉ tìm thấy mẹ.”
+
+Bà nhìn thẳng vào mắt nàng.
+
+“Con đã bắt đầu nhìn thấy người khác.”
+
+Minh Châu lắc đầu.
+
+“Con vẫn muốn mẹ hơn.”
+
+“Mẹ biết.”
+
+“Con không cao thượng.”
+
+“Mẹ không cần con cao thượng.”
+
+“Con vẫn hận.”
+
+“Mẹ biết.”
+
+“Con vẫn muốn hỏi ai hại cha, ai sửa sổ, ai viết công văn, ai khiến mẹ thành Lạc nương.”
+
+“Mẹ biết.”
+
+Lục phu nhân khẽ thở.
+
+“Không cần giả vờ mình không hận.”
+
+Minh Châu nhìn bà qua màn nước mắt.
+
+“Nhưng đừng để hận lấy hết chỗ của người còn sống.”
+
+Căn phòng nhỏ lặng đi.
+
+Bên ngoài, có người đi ngang qua rất nhẹ, rồi xa dần.
+
+Minh Châu cúi đầu.
+
+“Con không biết làm sao.”
+
+“Vậy học.”
+
+“Mẹ cũng nói giống Vân tiên sinh.”
+
+Lục phu nhân khẽ cười.
+
+“Vì ông ấy nói đúng.”
+
+Minh Châu nắm tay bà.
+
+“Nhưng con học lâu như vậy vẫn không cứu được mẹ.”
+
+“Không phải chuyện gì học xong cũng cứu được.”
+
+“Vậy học để làm gì?”
+
+Câu ấy vừa thốt ra, Minh Châu đã khựng lại.
+
+Nàng từng hỏi câu này ở trạm nghỉ cũ.
+
+Khi ấy, câu trả lời là: để tìm mẹ con, nếu nàng còn sống.
+
+Bây giờ mẫu thân đang ở trước mặt nàng.
+
+Còn sống.
+
+Nhưng cũng sắp không còn.
+
+Lục phu nhân nhìn nàng rất lâu.
+
+Dường như bà cũng hiểu câu hỏi ấy từ đâu đến.
+
+“Học để lần sau con đến sớm hơn.”
+
+Minh Châu ngẩng đầu.
+
+“Học để khi thấy một người bị ghi sai tên, con biết phải tìm ở đâu.”
+
+“Học để khi thấy một đứa trẻ sốt cao, con biết phải gọi ai, ghi gì, chờ gì.”
+
+“Học để khi thấy người tốt bị đẩy vào tử lộ, con biết trước đó đã có bao nhiêu con đường bị đóng lại.”
+
+Bà dừng một lúc.
+
+Hơi thở rất mỏng.
+
+“Học không phải để cứu được tất cả.”
+
+“Mà để bớt đi một người phải chết oan.”
+
+Minh Châu khóc đến không nói được.
+
+Lục phu nhân đưa tay lau nước mắt cho nàng.
+
+Nhưng tay bà yếu quá, chỉ chạm được một chút.
+
+“Đừng khóc đến đau họng.”
+
+Câu ấy quá quen.
+
+Ngày nhỏ, mỗi lần Minh Châu khóc vì ngã đau, mẫu thân cũng nói như vậy.
+
+Đừng khóc đến đau họng.
+
+Khi ấy nàng luôn cảm thấy mẫu thân nói rất bình thường.
+
+Bây giờ, một câu bình thường ấy lại đau hơn tất cả đạo lý.
+
+Nàng nắm tay bà.
+
+“Con không muốn mẹ chết.”
+
+Lục phu nhân nhắm mắt.
+
+Một giọt nước mắt lặng lẽ chảy xuống thái dương.
+
+“Mẹ cũng không muốn.”
+
+Đó là lần đầu tiên bà nói thẳng.
+
+Không bình tĩnh.
+
+Không hi sinh.
+
+Không dịu dàng che đi hết đau đớn.
+
+Chỉ là một người mẹ không muốn chết trước mặt con mình.
+
+Minh Châu cúi xuống, ôm lấy bà.
 
 “Mẹ theo con về.”
 
@@ -1487,201 +589,353 @@ Nàng nói:
 
 “Con sẽ sắc thuốc.”
 
-“Con biết chép phương rồi.”
+“Con không để mẹ chăm bệnh nữa.”
 
-“Con biết tính lương.”
+“Con sẽ ăn đúng bữa.”
 
-“Con còn biết đọc hộ tịch…”
+“Con sẽ ngủ.”
 
-Lục phu nhân nhìn nàng.
-
-“Ninh nhi.”
-
-Minh Châu dừng lại.
-
-“Con tìm được mẹ rồi.”
-
-“Vâng.”
-
-“Vậy đủ rồi.”
-
-“Không đủ.”
-
-Nàng lắc đầu rất mạnh.
-
-“Không đủ.”
-
-“Con chưa cứu được mẹ.”
-
-Lục phu nhân nhìn nàng rất lâu.
-
-Sau đó bà nói:
-
-“Con còn sống.”
-
-Minh Châu nghẹn lại.
-
-“Vậy là mẹ đã được cứu rồi.”
-
-Nàng không hiểu.
-
-Hoặc có lẽ hiểu, nhưng không muốn hiểu.
-
-Lục phu nhân khẽ nắm tay nàng.
-
-“Ngày ở thiện đường, mẹ ở lại không phải vì không muốn sống.”
-
-“Mẹ muốn sống.”
-
-“Muốn về gặp con.”
-
-“Muốn nhìn con lớn lên.”
-
-“Muốn nghe con gọi mẹ thêm rất nhiều lần.”
-
-Bà thở ra, mắt nhìn lên mái phòng tối.
-
-“Nhưng khi ấy, trước mặt mẹ có quá nhiều người không đi nổi.”
-
-“Người già.”
-
-“Trẻ nhỏ.”
-
-“Người bị thương.”
-
-“Người sốt đến không biết mình tên gì.”
-
-“Có người hỏi mẹ: phu nhân, ngày mai còn cháo không?”
-
-Minh Châu khóc đến vai run lên.
-
-Lục phu nhân nhìn nàng.
-
-“Mẹ không phải người vĩ đại.”
-
-“Mẹ cũng sợ.”
-
-“Mẹ cũng muốn chạy.”
-
-“Nhưng mẹ nghĩ, nếu Ninh nhi của mẹ ở đó, mẹ sẽ muốn có một người ở lại với con.”
-
-Câu ấy đánh thẳng vào lòng Minh Châu.
-
-Nàng nhớ những đứa trẻ ở khu bệnh.
-
-Nhớ đứa bé ban nãy được mẫu thân lau mồ hôi.
-
-Nhớ người phụ nữ Hạ Khê quỳ trong mưa.
-
-Nhớ mười ba cái tên được viết lại.
-
-Nhớ tất cả những người không có ai tìm.
-
-Lục phu nhân nói rất khẽ:
-
-“Sau này, con đừng chỉ tìm người đã mất.”
-
-Minh Châu ngẩng lên.
-
-“Hãy tìm người còn có thể sống.”
-
-Mưa ngoài cửa vẫn rơi.
-
-Trong phòng nhỏ, tiếng mưa bỗng trở nên rất xa.
-
-Lục phu nhân siết tay nàng thêm một chút.
-
-Rất yếu.
-
-“Con đã tìm được mẹ.”
-
-“Nhưng ngoài kia còn nhiều người chưa ai tìm.”
-
-“Có người chết rồi cũng không ai biết tên.”
-
-“Có đứa trẻ tỉnh lại vẫn hỏi mẹ nó đâu.”
-
-“Có người còn sống, nhưng trong sổ đã mất rồi.”
-
-“Ninh nhi.”
-
-Nàng nhìn con gái.
-
-“Đừng để mình chỉ sống trong ngày Lạc Thủy cháy.”
-
-Minh Châu khóc không thành tiếng.
-
-“Nhưng con hận.”
-
-“Mẹ biết.”
-
-“Con muốn họ trả giá.”
-
-“Mẹ biết.”
-
-“Con không muốn tha thứ.”
-
-“Không cần tha thứ.”
-
-Lục phu nhân thở rất nhẹ.
-
-“Nhưng đừng để hận lấy hết chỗ của người còn sống.”
-
-Minh Châu nhìn bà.
-
-Lục phu nhân nói tiếp:
-
-“Cha con mở kho để dân sống.”
-
-“Mẹ ở lại thiện đường cũng để người khác sống.”
-
-“Nếu sau này con nhớ chúng ta…”
-
-Bà dừng lại rất lâu.
-
-Như phải gom hết chút hơi cuối cùng.
-
-“Đừng chỉ nhớ chúng ta chết thế nào.”
-
-“Hãy nhớ chúng ta muốn người khác sống thế nào.”
-
-Vân Lão đứng bên cạnh, mắt hơi khép lại.
-
-Nguyễn lão không có trong phòng.
-
-Nhưng nếu ông ở đó, hẳn đã quay mặt đi.
-
-Minh Châu cúi xuống, ôm lấy mẫu thân.
-
-“Con nhớ.”
-
-“Con nhớ mà.”
-
-“Nhưng mẹ đừng ngủ.”
-
-“Con còn rất nhiều chuyện muốn nói.”
-
-“Con đã học được rất nhiều.”
-
-“Con biết đọc chỗ công văn không viết.”
-
-“Con biết tìm người bị xóa tên.”
-
-“Con sẽ tìm được người hại cha.”
+“Con sẽ nghe lời.”
 
 “Con sẽ…”
 
-Lục phu nhân dùng chút sức cuối cùng đặt tay lên tóc nàng.
+Nàng nói rất nhanh.
 
-“Tóc con…”
+Như một đứa trẻ đang đem tất cả lời hứa của mình ra đổi lấy một mạng người.
+
+Lục phu nhân để nàng nói.
+
+Để nàng khóc.
+
+Để nàng ôm.
+
+Rất lâu sau, bà mới khẽ nói:
+
+“Ninh nhi.”
+
+Minh Châu nghẹn lại.
+
+“Có những cánh cửa không phải cứ tìm được là đi qua được.”
+
+Nàng sững người.
+
+“Mẹ…”
+
+“Con đã tìm được mẹ.”
+
+“Vâng.”
+
+“Như vậy mẹ đã rất vui rồi.”
+
+“Nhưng không đủ.”
+
+“Mẹ biết.”
+
+“Không đủ.”
+
+“Mẹ cũng thấy không đủ.”
+
+Minh Châu khóc nức lên.
+
+Lục phu nhân vuốt tóc nàng.
+
+“Nhưng đời người có nhiều chuyện không đủ.”
+
+“Không đủ thời gian.”
+
+“Không đủ thuốc.”
+
+“Không đủ lời muốn nói.”
+
+“Không đủ một bữa cơm đoàn viên.”
+
+“Không đủ một lời từ biệt.”
+
+Bà nhìn nàng.
+
+“Chúng ta không thể vì không đủ mà xem phần đã có là vô nghĩa.”
+
+Minh Châu không đáp được.
+
+Nàng chỉ ôm tay bà, nước mắt ướt cả chăn mỏng.
+
+Ngoài cửa, Vân Lão đứng yên rất lâu.
+
+Ông không bước vào.
+
+Cũng không rời đi.
+
+Tống đại phu đứng cách đó mấy bước, cúi đầu, tay nắm chặt bệnh bạ.
+
+Ông nghe không rõ trong phòng nói gì.
+
+Nhưng ông nhìn thấy lưng Vân Lão.
+
+Cái lưng ấy vẫn thẳng, vẫn bình tĩnh.
+
+Nhưng trong khoảnh khắc ấy, Tống đại phu bỗng hiểu: có những người không phải không đau.
+
+Chỉ là họ đã quen đứng yên khi đau.
+
+Đến chiều, Lục phu nhân yếu đi rất nhanh.
+
+Không còn ho nhiều.
+
+Nhưng chính việc không ho nữa lại khiến Minh Châu sợ hơn.
+
+Vân Lão bắt mạch hai lần.
+
+Lần thứ nhất, ông không nói gì.
+
+Lần thứ hai, ông bảo Tống đại phu đưa thêm nước ấm, đóng cửa lại, không cho người khác ra vào.
+
+Quản sự nghe nói muốn vào nhìn.
+
+Vân Lão chỉ nói một câu:
+
+“Muốn bệnh khu đêm nay chết thêm người thì cứ vào kinh động nàng.”
+
+Quản sự lập tức không nói nữa.
+
+Tống đại phu đứng ngoài cửa, không vào.
+
+Ông biết đây không còn là lúc ông có thể xen vào.
+
+Trong phòng, đèn dầu được thắp sớm hơn mọi ngày.
+
+Ánh sáng rất nhỏ.
+
+Minh Châu ngồi cạnh giường, hai tay ôm lấy tay mẫu thân.
+
+Vân Lão đứng bên bàn, chuẩn bị kim.
+
+Lục phu nhân nhìn ông.
+
+“Tiên sinh.”
+
+“Ừ.”
+
+“Đừng phí thuốc tốt nữa.”
+
+Minh Châu lập tức ngẩng đầu.
+
+“Mẹ!”
+
+Vân Lão vẫn bình tĩnh.
+
+“Không phí.”
+
+“Trong khu còn nhiều người cần.”
+
+“Ta biết phân cho ai.”
+
+“Vậy thì tốt.”
+
+Lục phu nhân khẽ cười.
+
+“Tiên sinh xưa nay tính rất rõ.”
+
+Vân Lão nhìn bà.
+
+“Lục Thanh Trì cũng từng nói vậy.”
+
+Nghe tên phụ thân, Minh Châu cứng người.
+
+Lục phu nhân im lặng rất lâu.
+
+Rồi hỏi:
+
+“Ông ấy… đến cuối cùng có hối hận không?”
+
+Vân Lão đáp:
+
+“Không.”
+
+Bà nhắm mắt.
+
+Khóe môi hơi cong lên.
+
+“Vậy là ông ấy.”
+
+Chỉ bốn chữ.
+
+Vậy là ông ấy.
+
+Không oán.
+
+Không trách.
+
+Không hỏi vì sao không cúi đầu để sống.
+
+Bởi bà hiểu người ấy.
+
+Cũng như người ấy hiểu bà.
+
+Minh Châu cúi đầu.
+
+Nàng không hiểu hết.
+
+Nàng chỉ thấy đau.
+
+Đau vì phụ thân không hối hận.
+
+Đau vì mẫu thân không trách.
+
+Đau vì mình vẫn chỉ muốn họ sống.
+
+Lục phu nhân như biết nàng đang nghĩ gì.
+
+“Ninh nhi.”
+
+“Vâng.”
+
+“Con có quyền trách chúng ta.”
+
+Minh Châu ngẩng đầu.
+
+Bà nhìn nàng.
+
+“Trách cha con vì đã mở kho.”
+
+“Trách mẹ vì đã ở lại thiện đường.”
+
+“Trách chúng ta vì đã không cùng con sống tiếp.”
+
+Nàng lắc đầu rất mạnh.
+
+“Con không trách.”
+
+“Có lúc sẽ trách.”
+
+“Không…”
+
+“Có cũng không sao.”
+
+Lục phu nhân nói rất nhẹ:
+
+“Cha mẹ không phải thần thánh.”
+
+“Chúng ta chỉ là người.”
+
+“Người thì có lúc chọn đúng mà vẫn làm con mình đau.”
+
+Minh Châu nhìn bà.
+
+Nước mắt lại rơi.
+
+Lục phu nhân nói tiếp:
+
+“Con đừng biến cha mẹ thành tượng thờ.”
+
+“Cũng đừng biến chúng ta thành vết thương duy nhất trong đời con.”
+
+“Nhớ chúng ta.”
+
+“Nhưng cũng phải sống phần của con.”
+
+Minh Châu nghẹn ngào:
+
+“Con không biết sống phần của con là gì.”
+
+“Vậy cứ từng việc một.”
+
+Câu ấy làm nàng nhớ đến Nguyễn lão.
+
+Ngủ được thì ngủ.
+
+Tỉnh thì uống nước.
+
+Khóc thì lau mặt.
+
+Đường còn dài, cứ từng việc một mà làm.
+
+Lục phu nhân nói:
+
+“Hôm nay có người gọi, con đi.”
+
+“Ngày mai có người bị xóa tên, con tìm.”
+
+“Sau này có người chưa kịp chết nhưng đã bị công văn bỏ lại, con nhìn thấy họ.”
+
+“Đó cũng là sống.”
+
+Minh Châu cúi đầu.
+
+“Nhưng con vẫn muốn báo thù.”
+
+Lục phu nhân nhìn nàng.
+
+“Vậy thì báo.”
 
 Minh Châu sững lại.
 
-Bà khẽ cười.
+Bà nói rất chậm:
 
-“Mẹ chưa kịp chải lại cho con.”
+“Nhưng đừng báo thù bằng cách biến mình thành thứ đã hại chúng ta.”
 
-Nước mắt Minh Châu rơi xuống vạt áo bà.
+“Đừng vì hận người viết công văn mà dùng công văn chôn người khác.”
+
+“Đừng vì hận kẻ sửa sổ mà sửa sổ theo ý mình.”
+
+“Đừng vì hận thế gian lạnh bạc mà xem mạng người chỉ là quân cờ.”
+
+Vân Lão đứng bên cạnh, ánh mắt khẽ động.
+
+Minh Châu nghe từng chữ.
+
+Từng chữ như được đặt vào chiếc hộp gỗ trong lòng nàng.
+
+Lục phu nhân nắm tay nàng.
+
+“Con là Minh Châu.”
+
+“Không phải vì con chưa từng dính bùn.”
+
+“Mà vì đi qua bùn đất rồi, con vẫn phải nhớ mình có thể sáng.”
+
+Nàng khóc đến vai run.
+
+“Mẹ đừng nói nữa.”
+
+“Mẹ còn phải nói.”
+
+“Để sau này con nhớ.”
+
+“Con không muốn nhớ bằng cách này.”
+
+Lục phu nhân nhìn nàng.
+
+“Mẹ cũng không muốn dạy con bằng cách này.”
+
+Cả căn phòng lặng đi.
+
+Không ai muốn.
+
+Nhưng mọi chuyện vẫn đã đến đây.
+
+Vân Lão châm kim.
+
+Giữ cho hơi thở của bà đều hơn một chút.
+
+Ngoài cửa, có người bệnh gọi nước.
+
+Có tiếng Tống đại phu thấp giọng bảo người ta đừng làm ồn.
+
+Nam Trạm đêm ấy yên lặng lạ thường.
+
+Như cả khu đông đều biết trong căn phòng nhỏ phía sau có một ngọn đèn sắp tắt.
+
+Lục phu nhân nhìn Minh Châu rất lâu.
+
+Ánh mắt càng lúc càng mờ.
+
+Nhưng vẫn cố nhìn.
+
+Như muốn ghi lại gương mặt con gái trước khi rời khỏi thế gian.
+
+“Mẹ chưa kịp chải tóc cho con.”
+
+Minh Châu bật khóc.
 
 “Sau này con tự chải.”
 
@@ -1693,85 +947,143 @@ Nước mắt Minh Châu rơi xuống vạt áo bà.
 
 “Vâng.”
 
-“Đêm tỉnh dậy… đừng sợ.”
+“Đêm tỉnh dậy đừng sợ.”
 
-Minh Châu không đáp được nữa.
+Nàng không đáp được ngay.
 
-Lục phu nhân nhìn nàng.
+Lục phu nhân hỏi rất khẽ:
 
-“Mẹ không còn ở đó.”
+“Người canh lửa còn đó chứ?”
 
-“Nhưng lửa còn đó.”
+Minh Châu nghĩ đến Nguyễn lão.
 
-Minh Châu nhớ đến Nguyễn lão.
+Nàng gật đầu.
 
-Nhớ đến đêm trong miếu hoang.
+“Còn.”
 
-Nhớ câu “ta canh lửa”.
+“Vậy tốt.”
 
-Nàng gật đầu trong nước mắt.
+Bà mỉm cười rất nhẹ.
 
-“Vâng.”
+“Nguyễn bá bá rất vụng.”
 
-Bàn tay trên tóc nàng dần yếu xuống.
-
-Minh Châu lập tức nắm lấy.
-
-“Mẹ?”
-
-Lục phu nhân nhìn nàng.
-
-Ánh mắt bà vẫn còn rất dịu.
-
-Như nhiều năm trước, khi nàng ngồi bên bàn, viết sai một chữ, ngẩng đầu sợ bị mắng, mẫu thân chỉ cười rồi nói viết lại là được.
-
-“Ninh nhi.”
-
-“Con nghe.”
-
-“Con không phải công văn.”
-
-Minh Châu ngẩn ra.
-
-Bà nói từng chữ, rất chậm:
-
-“Đừng để người khác viết con thành hận.”
-
-Nàng siết tay bà.
+Minh Châu vừa khóc vừa gật đầu.
 
 “Vâng.”
 
-“Mẹ…”
+“Nhưng ông ấy thương con.”
+
+“Con biết.”
+
+“Vân tiên sinh nói khó nghe.”
+
+Minh Châu nhìn Vân Lão một cái qua nước mắt.
+
+“Vâng.”
+
+Lục phu nhân khẽ cười.
+
+“Nhưng phải nghe.”
+
+“Vâng.”
+
+Bà im một lúc.
+
+Rồi nói:
+
+“Sau này nếu còn có thể tìm…”
+
+Minh Châu lập tức cúi gần hơn.
 
 “Con nghe.”
 
-“Con là Minh Châu.”
+“Đừng chỉ tìm người đã mất.”
 
-Giọng bà càng lúc càng nhỏ.
+Bà thở rất nhẹ.
 
-“Là viên ngọc sáng.”
+“Hãy tìm người còn có thể sống.”
 
-“Không phải vì không có vết.”
+Nước mắt Minh Châu rơi xuống tay bà.
 
-“Mà vì còn có thể sáng… sau khi đi qua bùn đất.”
+“Con nhớ.”
 
-Hơi thở của bà mỏng dần.
+“Không phải chỉ nhớ.”
 
-Minh Châu áp mặt vào tay bà.
+“Vâng.”
 
-“Mẹ.”
+“Làm.”
 
-“Mẹ nhìn con đi.”
+Minh Châu nghẹn lại.
 
-“Mẹ đừng ngủ.”
+Rồi gật đầu.
 
-“Mẹ…”
+“Con làm.”
 
-Lục phu nhân nhìn nàng lần cuối.
+Lục phu nhân nhìn nàng.
 
-Trong mắt bà phản chiếu gương mặt đẫm nước mắt của đứa trẻ.
+Dường như rất muốn nói thêm.
 
-Có đau.
+Nhưng hơi thở đã mỏng đến mức từng chữ đều phải lấy từ nơi rất xa.
+
+“Ngày ở thiện đường…”
+
+“Vâng.”
+
+“Mẹ không ở lại vì muốn chết.”
+
+“Con biết.”
+
+“Mẹ muốn sống.”
+
+“Con biết.”
+
+“Muốn về gặp con.”
+
+“Con biết mà…”
+
+“Nhưng trước mặt mẹ có nhiều người không đi nổi.”
+
+Bà nhắm mắt một lúc.
+
+Rồi mở ra.
+
+“Nếu Ninh nhi của mẹ ở đó, mẹ cũng mong có một người ở lại với con.”
+
+Minh Châu cúi đầu, ôm lấy tay bà.
+
+“Con hiểu.”
+
+Có lẽ nàng chưa thật sự hiểu hết.
+
+Nhưng nàng đã bắt đầu hiểu.
+
+Hiểu rằng mẫu thân không phải sinh ra để hi sinh.
+
+Bà cũng sợ.
+
+Cũng muốn sống.
+
+Cũng muốn về nhà.
+
+Nhưng bà đã chọn ở lại với những người không còn đường đi.
+
+Không phải vì bà không có con gái.
+
+Mà vì bà biết những người kia cũng là con, là mẹ, là cha của ai đó.
+
+Lục phu nhân khẽ nói:
+
+“Con tìm được mẹ rồi.”
+
+“Vâng.”
+
+“Mẹ cũng tìm được con rồi.”
+
+Minh Châu ngẩng lên.
+
+Bà nhìn nàng.
+
+Trong mắt có đau.
 
 Có tiếc.
 
@@ -1779,19 +1091,117 @@ Có không nỡ.
 
 Nhưng cũng có một chút an tâm rất nhỏ.
 
-Bà khẽ nói:
+“Như vậy… tốt rồi.”
 
-“Mẹ tìm thấy con rồi.”
+“Không tốt.”
 
-Sau đó, bàn tay trong tay Minh Châu lặng xuống.
+Minh Châu lắc đầu.
+
+“Không tốt chút nào.”
+
+Lục phu nhân vẫn nhìn nàng.
+
+“Vậy thì sau này, con làm cho nó tốt hơn một chút.”
+
+Nàng run lên.
+
+Lục phu nhân nói:
+
+“Một chút cũng được.”
+
+“Ít hơn một người bị xóa tên.”
+
+“Ít hơn một đứa trẻ không ai cứu.”
+
+“Ít hơn một người mẹ phải chết mà không được gọi bằng tên thật.”
+
+Minh Châu nắm chặt tay bà.
+
+“Con hứa.”
+
+Lục phu nhân nhìn nàng.
+
+“Đừng hứa quá lớn.”
+
+Nàng khựng lại.
+
+“Mẹ?”
+
+“Hứa từng việc một.”
+
+Minh Châu cúi đầu.
+
+Rất lâu sau, nàng nói:
+
+“Vậy con hứa… con sẽ ghi tên mẹ.”
+
+Lục phu nhân im lặng.
+
+Một giọt nước mắt rất nhỏ rơi khỏi khóe mắt bà.
+
+“Được.”
+
+“Con sẽ không để mẹ chỉ là Lạc nương.”
+
+“Được.”
+
+“Con sẽ tìm người còn có thể sống.”
+
+“Được.”
+
+“Con sẽ ăn cơm.”
+
+Lục phu nhân khẽ cười.
+
+“Được.”
+
+“Con sẽ ngủ.”
+
+“Được.”
+
+“Con sẽ… sống.”
+
+Bà nhìn nàng.
+
+Lần này, bà không đáp ngay.
+
+Rất lâu sau, mới nói:
+
+“Vậy mẹ yên tâm.”
+
+Hơi thở của bà yếu dần.
+
+Minh Châu lập tức hoảng.
+
+“Mẹ?”
+
+Lục phu nhân nhìn nàng.
+
+Ánh mắt vẫn dịu như trước.
+
+“Ninh nhi.”
+
+“Con đây.”
+
+“Gọi mẹ thêm một lần.”
+
+“Mẹ…”
+
+“Ừ.”
+
+“Mẹ.”
+
+“Ừ.”
+
+“Mẹ.”
+
+Bàn tay trong tay nàng nhẹ dần.
 
 Không rơi mạnh.
 
 Không lạnh đi ngay.
 
-Chỉ nhẹ nhàng mất đi chút sức cuối cùng.
-
-Như một ngọn đèn dầu cạn bấc.
+Chỉ như một ngọn đèn dầu đã cháy đến giọt cuối cùng.
 
 Ánh sáng không tắt phụt.
 
@@ -1801,23 +1211,21 @@ Nhỏ dần.
 
 Rồi im.
 
-Minh Châu ngồi yên.
+Minh Châu vẫn nắm tay bà.
 
 Rất lâu không động.
 
-Vân Lão rút kim.
+Vân Lão đứng bên cạnh, rút kim ra.
 
 Động tác chậm hơn bình thường.
 
-Ngoài cửa, Tống đại phu khẽ hỏi:
+Bên ngoài, Tống đại phu khẽ gọi:
 
 “Tiên sinh?”
 
-Vân Lão không đáp ngay.
+Không ai đáp.
 
-Ông nhìn Minh Châu.
-
-Đứa trẻ quỳ bên giường, hai tay vẫn ôm lấy tay mẫu thân, mặt không còn biểu cảm gì.
+Trong phòng, Minh Châu quỳ bên giường, hai tay ôm lấy tay mẫu thân, gương mặt không còn biểu cảm gì.
 
 Không khóc lớn.
 
@@ -1825,65 +1233,159 @@ Không gào.
 
 Không gọi.
 
-Chỉ ngồi đó.
+Như thể nếu nàng không thừa nhận, chuyện này sẽ chưa xảy ra.
 
-Như thể nếu nàng không động, thời gian cũng không được phép động.
+Rất lâu sau, nàng cúi xuống, áp mặt vào tay mẫu thân.
 
-Một lúc rất lâu sau, Vân Lão mở cửa.
+“Mẹ.”
 
-Tống đại phu nhìn vào.
+Không ai đáp.
 
-Rồi cúi đầu.
+Nàng gọi lại:
 
-Quản sự đứng phía sau hỏi:
+“Mẹ.”
+
+Vẫn không ai đáp.
+
+Lần thứ ba, tiếng gọi của nàng vỡ ra.
+
+Nhưng vẫn rất nhỏ.
+
+Nhỏ đến mức gần như bị tiếng gió ngoài cửa nuốt mất.
+
+Vân Lão nhắm mắt.
+
+Một lúc sau, ông mở cửa.
+
+Tống đại phu đứng ngoài, vừa nhìn thấy sắc mặt ông thì hiểu.
+
+Ông ta cúi đầu.
+
+Quản sự phía sau hỏi rất khẽ:
 
 “Chết rồi?”
 
 Vân Lão nhìn hắn.
 
-Ánh mắt lạnh đến mức quản sự vô thức im lại.
+Ánh mắt lạnh đến mức quản sự lập tức lui nửa bước.
 
 Tống đại phu vội nói:
 
-“Ta sẽ ghi bệnh bạ.”
+“Ta ghi bệnh bạ.”
 
-Quản sự cau mày.
+Quản sự thấp giọng:
 
-“Ghi thế nào?”
-
-Tống đại phu im lặng.
-
-Trên sổ, người này là Lạc nương.
-
-Nữ bệnh dân từ Lạc Thủy.
-
-Không rõ tên gốc.
-
-Nếu ghi đúng như sổ, bà vẫn là một người không tên.
-
-Nếu ghi tên thật, cả khu an trí có thể bị tra.
-
-Vân Lão nói:
-
-“Ghi: nữ bệnh dân Lạc Thủy, người chăm bệnh khu đông, mất vì bệnh cũ kéo dài.”
-
-Quản sự thở ra.
-
-“Được.”
-
-Hắn quay đi.
+“Ghi như cũ. Nữ bệnh dân Lạc Thủy. Mất vì bệnh cũ.”
 
 Tống đại phu cầm bút.
 
-Nhưng tay không viết xuống ngay.
+Tay ông ta dừng lại rất lâu trên trang giấy.
 
-Vân Lão nhìn ông ta.
+Vân Lão nói:
 
-“Đau lòng?”
+“Ghi thêm người chăm bệnh khu đông.”
 
-Tống đại phu cúi đầu.
+Quản sự nhíu mày.
+
+“Không cần ghi nhiều.”
+
+Tống đại phu không ngẩng đầu.
+
+Nhưng lần này, ông ta không chờ quản sự cho phép.
+
+Ông viết:
+
+Nữ bệnh dân Lạc Thủy.
+
+Tạm gọi Lạc nương.
+
+Người chăm bệnh khu đông.
+
+Bệnh cũ kéo dài, khí huyết suy kiệt.
+
+Mất.
+
+Bút dừng ở chữ mất.
+
+Minh Châu đứng sau lưng ông ta từ lúc nào.
+
+Mắt nàng đỏ.
+
+Mặt trắng bệch.
+
+Nhưng giọng rất bình tĩnh.
+
+“Có thể thêm một dòng không?”
+
+Tống đại phu quay đầu.
+
+Quản sự cau mày.
+
+“Còn thêm gì?”
+
+Minh Châu nhìn trang bệnh bạ.
+
+Nàng không nói “đó là mẹ ta”.
+
+Không nói “bà là Lục phu nhân”.
+
+Không nói “các người đã giấu bà ở đây”.
+
+Không nói “công văn của các người nói dối”.
+
+Nàng chỉ nói:
+
+“Nếu không có nàng, khu đông sẽ chết nhiều người hơn.”
+
+Tống đại phu cứng người.
+
+Vân Lão không nói gì.
+
+Quản sự nhìn Vân Lão, rồi nhìn Tống đại phu.
+
+Có lẽ hắn thấy dòng này không đủ gây họa.
+
+Có lẽ hắn không muốn tranh cãi trước mặt Vân Lão.
+
+Có lẽ hắn chỉ muốn chuyện này nhanh chóng qua đi.
+
+Cuối cùng hắn phất tay:
+
+“Tùy ngươi.”
+
+Tống đại phu cúi đầu, viết thêm mấy chữ nhỏ.
+
+Có công chăm bệnh.
+
+Mực vừa chạm xuống giấy, Minh Châu bỗng thấy tim mình đau nhói.
+
+Không đủ.
+
+Mấy chữ ấy quá ít.
+
+Không có tên thật.
+
+Không có Lục phu nhân.
+
+Không có thiện đường.
+
+Không có câu chuyện mẫu thân từng ở lại giữa lửa để chăm những người không đi nổi.
+
+Không có việc bà từng là người vợ của Lục Thanh Trì.
+
+Không có việc bà là mẹ của nàng.
+
+Nhưng ít nhất, trên bệnh bạ Nam Trạm, bà không chỉ là một dòng “mất”.
+
+Bà từng chăm người sống.
+
+Tống đại phu đặt bút xuống.
+
+Giọng khàn đi:
 
 “Ta nên mời tiên sinh sớm hơn.”
+
+Vân Lão nhìn ông ta.
 
 “Đúng.”
 
@@ -1897,239 +1399,275 @@ Tống đại phu nhắm mắt.
 
 Vân Lão nói.
 
-“Lần sau, trước khi một người phải chết vì ngươi sợ, hãy nhớ cảm giác này.”
+“Lần sau, trước khi một người chết vì ngươi sợ, hãy nhớ cảm giác này.”
 
-Tống đại phu không đáp.
+Tống đại phu cúi đầu thật thấp.
 
-Ông ta cúi đầu, viết xuống dòng bệnh bạ.
+“Vâng.”
 
-Nữ bệnh dân Lạc Thủy.
+Lục phu nhân được an táng ở sườn đất phía sau Nam Trạm vào sáng hôm sau.
+
+Không có tang lễ lớn.
+
+Không có áo quan tốt.
+
+Không có người thân đứng thành hàng.
+
+Chỉ có một tấm vải sạch, một nén hương Vân Lão xin từ miếu nhỏ bên đường, và một tấm thẻ gỗ rất mỏng.
+
+Trên thẻ ghi:
+
+Lạc nương.
 
 Người chăm bệnh khu đông.
 
-Mất.
-
-Bút dừng lại ở chữ cuối.
-
-Minh Châu đứng sau lưng ông ta.
-
-Nàng nhìn dòng ấy.
+Minh Châu nhìn tấm thẻ ấy.
 
 Rất lâu.
 
-Sau đó nàng hỏi:
+Nguyễn lão đã tới Nam Trạm từ đêm qua, nhưng ông không được vào khu bệnh. Đến khi người được đưa ra an táng, ông mới nhìn thấy Minh Châu đứng bên hố đất nhỏ.
 
-“Có thể thêm một chữ không?”
+Ông muốn bước tới.
 
-Tống đại phu khựng lại.
+Nhưng rồi dừng lại.
 
-Vân Lão nhìn nàng.
+Vì Minh Châu không khóc.
 
-Minh Châu nói:
+Nàng chỉ đứng đó, hai tay buông bên người, nhìn tấm thẻ gỗ như nhìn một tờ công văn bị viết sai mà hiện tại nàng chưa đủ sức sửa.
 
-“Thêm chữ ‘có công chăm bệnh’.”
+Tống đại phu đứng phía sau, không dám ngẩng đầu.
 
-Quản sự chưa đi xa lập tức quay đầu.
+Quản sự không tới.
 
-“Không cần ghi nhiều.”
+Lính canh đứng xa xa, chỉ để chắc không ai làm gì ngoài quy củ.
 
-Minh Châu cúi đầu.
+Vân Lão đặt nén hương xuống.
 
-Không tranh cãi.
+“Hiện tại chỉ có thể ghi như vậy.”
 
-Không nói nàng là ai.
+Minh Châu đáp rất khẽ:
 
-Không nói người chết là mẫu thân mình.
+“Con biết.”
 
-Chỉ rất khẽ nói:
+“Không phải không trả tên cho nàng.”
 
-“Nếu không có nàng, khu đông sẽ chết nhiều hơn.”
+“Con biết.”
 
-Tống đại phu nhìn dòng sổ.
+“Là chưa thể.”
 
-Rồi nhìn Vân Lão.
+“Con biết.”
 
-Vân Lão không nói gì.
+Ba chữ “con biết” ấy rất bình tĩnh.
 
-Một lúc sau, Tống đại phu cắn răng, viết thêm mấy chữ nhỏ.
+Nhưng Nguyễn lão nghe mà mắt đỏ lên.
 
-Có công chăm bệnh.
+Minh Châu bước tới.
 
-Quản sự nhíu mày, nhưng không ngăn.
+Nàng quỳ xuống trước mộ.
 
-Vài chữ ấy không đủ lật án.
+Không gọi lớn.
 
-Không đủ trả lại tên.
+Không khóc thành tiếng.
 
-Không đủ nói với thế gian rằng người phụ nữ vừa chết là Lục phu nhân, người từng ở lại thiện đường Lạc Thủy đến cuối cùng.
+Chỉ đưa tay chạm nhẹ vào tấm thẻ gỗ.
 
-Nhưng ít nhất, trên bệnh bạ Nam Trạm, bà không chỉ là một người chết.
+Lạc nương.
 
-Bà từng chăm người sống.
+Không phải tên mẹ.
 
-Khi ra khỏi khu an trí, trời đã tối.
+Nhưng đó là dấu để nàng quay lại.
 
-Lính canh xét lại hòm thuốc.
+Nàng cúi đầu, rất lâu.
 
-Kim châm được đếm.
+Sau đó nói:
 
-Giấy chép phương được lật.
+“Mẹ chờ con.”
 
-Minh Châu đứng yên để người ta kiểm.
+Không ai đáp.
 
-Trong tay áo nàng không có thư.
+Gió sớm thổi qua sườn đất sau trạm, mang theo mùi thuốc, mùi đất ẩm và mùi khói bếp rất nhạt từ khu đông.
 
-Không có đồ vật của mẫu thân.
+Minh Châu đứng dậy.
 
-Không có gì cả.
-
-Chỉ có mùi thuốc và một vết máu rất nhỏ trên đầu ngón tay, do lúc nắm tay mẫu thân quá chặt, móng tay bấm vào da.
-
-Lính canh không thấy.
-
-Hoặc thấy cũng không để ý.
-
-Cổng khu an trí khép lại phía sau.
-
-Bên ngoài, mưa đã ngừng.
-
-Đất ướt phản chiếu ánh đèn mờ từ trạm gác.
-
-Nguyễn lão chờ ở ngoài xe.
-
-Vừa nhìn thấy Minh Châu, ông bước lên một bước.
-
-Rồi dừng lại.
-
-Ông không hỏi.
-
-Có những chuyện nhìn mặt là biết.
-
-Minh Châu đi đến trước mặt ông.
-
-Rất chậm.
-
-Nguyễn lão cúi xuống.
-
-“Tiểu thư…”
-
-Minh Châu ngẩng đầu.
-
-Nàng muốn nói: mẹ con mất rồi.
-
-Nhưng câu ấy mắc trong cổ họng.
-
-Không ra được.
-
-Nguyễn lão đưa tay.
-
-Lần này nàng không né.
-
-Ông ôm lấy nàng.
-
-Rất nhẹ.
-
-Nhưng vừa chạm vào áo ông, Minh Châu bỗng bật khóc.
-
-Không phải tiếng khóc cố nén trong miếu hoang.
-
-Không phải tiếng nức nở sợ làm phiền người khác.
-
-Lần này nàng khóc như một đứa trẻ.
-
-Như đêm Lạc Thủy cuối cùng cũng đuổi kịp nàng lần thứ hai.
-
-Nguyễn lão ôm nàng, mắt đỏ lên.
-
-Ông không nói đừng khóc.
-
-Không nói mọi chuyện rồi sẽ qua.
-
-Chỉ lặp lại rất khẽ:
-
-“Ta ở đây.”
-
-“Ta ở đây.”
-
-Vân Lão đứng dưới mái trạm, nhìn màn đêm phía trước.
-
-Tống đại phu từ trong cổng đi ra.
-
-Ông ta đứng cách Vân Lão vài bước.
-
-Rất lâu sau, cúi đầu thật sâu.
-
-“Tiên sinh.”
-
-Vân Lão không nhìn ông ta.
-
-“Lần sau gặp người sắp chết vì ngươi sợ, mời người đến sớm hơn.”
-
-Tống đại phu cúi đầu càng thấp.
-
-“Vâng.”
-
-Ông ta do dự một chút, rồi nói:
-
-“Đứa trẻ kia…”
-
-“Không phải chuyện ngươi nên hỏi.”
-
-Tống đại phu im.
-
-Một lúc sau, ông ta đáp:
-
-“Vâng.”
-
-Xe rời Nam Trạm trong đêm.
-
-Minh Châu khóc đến kiệt sức, rồi ngủ thiếp đi trong lòng Nguyễn lão.
-
-Nhưng ngủ không sâu.
-
-Thỉnh thoảng nàng lại run lên.
-
-Mỗi lần như vậy, Nguyễn lão lại kéo áo choàng phủ kín vai nàng hơn một chút.
-
-Vân Lão ngồi bên ngoài xe.
-
-Tay chống gậy.
-
-Mắt nhìn con đường tối.
-
-Không ai biết ông đang nghĩ gì.
-
-Gần sáng, họ dừng lại ở một miếu nhỏ ven đường.
-
-Nguyễn lão nhóm lửa.
-
-Minh Châu tỉnh dậy.
-
-Mắt nàng sưng đỏ.
-
-Giọng khàn đi.
-
-“Tiên sinh.”
-
-Vân Lão nhìn nàng.
+Nàng quay sang Vân Lão.
 
 “Con muốn ghi lại.”
 
-Ông im lặng một nhịp.
+Vân Lão nhìn nàng.
 
-“Ghi gì?”
+“Ở đây?”
 
-“Mẹ con.”
+“Không.”
 
-Nguyễn lão khựng lại.
+Nàng nhìn về phía xe ngựa chờ bên ngoài.
 
-Minh Châu lấy giấy ra.
+“Về Thanh Khê.”
 
-Tay nàng còn run.
+Vân Lão gật đầu.
 
-Nhưng lần này, nàng không để tay mình dừng quá lâu.
+Trước khi rời Nam Trạm, Tống đại phu đưa cho Vân Lão bản sao mấy trang bệnh bạ đã sửa.
 
-Nàng viết:
+Ông ta không dám nhìn Minh Châu.
+
+Chỉ cúi đầu nói:
+
+“Sau này khu đông sẽ ghi người chăm bệnh.”
+
+Vân Lão cầm lấy.
+
+“Nhớ làm.”
+
+“Vâng.”
+
+“Đừng chỉ ghi mấy ngày ta ở đây.”
+
+Tống đại phu khựng lại.
+
+Rồi cúi đầu sâu hơn.
+
+“Ta nhớ.”
+
+Minh Châu bước lên xe.
+
+Lần này, nàng không mang gì của mẫu thân theo.
+
+Không có áo.
+
+Không có khăn.
+
+Không có trâm.
+
+Không có một vật nào để giấu trong tay áo.
+
+Nam Trạm xét người ra vào rất kỹ.
+
+Người chết ở đây cũng bị giữ lại bằng quy củ rất kỹ.
+
+Nhưng có một thứ lính canh không xét được.
+
+Đó là lời mẫu thân đặt vào lòng nàng.
+
+Xe rời Nam Trạm lúc mặt trời vừa lên khỏi mái trạm.
+
+Khu an trí phía sau dần khuất trong sương sáng.
+
+Minh Châu ngồi trong xe, không vén rèm.
+
+Nguyễn lão ngồi bên cạnh, tay đặt trên đầu gối.
+
+Ông muốn nói gì đó.
+
+Nhưng cuối cùng chỉ lấy túi nước ấm đưa cho nàng.
+
+Minh Châu nhìn túi nước.
+
+Một lúc sau, nhận lấy.
+
+“Con không khát.”
+
+Nguyễn lão nói:
+
+“Ta biết.”
+
+Nàng im lặng.
+
+Rồi uống một ngụm nhỏ.
+
+Nước ấm đi qua cổ họng khô rát.
+
+Đến lúc ấy, nàng mới nhận ra mình đã khóc nhiều đến mức cổ họng đau âm ỉ.
+
+Nguyễn lão nhìn nàng.
+
+“Mệt thì ngủ một chút.”
+
+Minh Châu lắc đầu.
+
+“Con sợ ngủ.”
+
+Nguyễn lão im lặng.
+
+Một lúc sau, ông nói:
+
+“Vậy không ngủ.”
+
+Nàng nhìn ông.
+
+“Nhưng nhắm mắt một chút cũng được.”
+
+Câu ấy rất vụng.
+
+Vụng đến mức nếu là ngày thường, có lẽ Minh Châu sẽ nhận ra ông không biết dỗ người.
+
+Nhưng bây giờ nàng chỉ cúi đầu.
+
+Rất lâu sau, nàng khẽ tựa vào áo choàng của ông.
+
+Nguyễn lão cứng người.
+
+Rồi chậm rãi kéo áo choàng phủ lên vai nàng.
+
+“Ta ở đây.”
+
+Minh Châu nhắm mắt.
+
+Nước mắt lại rơi.
+
+Nhưng lần này, nàng không cố giấu.
+
+Xe đi qua con đường ẩm sau mưa.
+
+Bánh xe lăn qua bùn đất tạo ra tiếng lộc cộc nặng nề.
+
+Vân Lão ngồi phía trước xe.
+
+Tay chống gậy.
+
+Không nói gì.
+
+Đến gần chiều, họ dừng lại ở một miếu nhỏ ven đường.
+
+Nguyễn lão nhóm lửa.
+
+Vân Lão ngồi cạnh cửa miếu, mở mấy trang bệnh bạ Tống đại phu đưa.
+
+Minh Châu ngồi bên ánh lửa.
+
+Trước mặt nàng là một tờ giấy trắng.
+
+Nàng cầm bút rất lâu.
+
+Nhưng không viết.
+
+Nguyễn lão đặt bên cạnh nàng một bát cháo nhỏ.
+
+“Ăn trước đi.”
+
+Nàng lắc đầu.
+
+“Con muốn ghi trước.”
+
+“Ghi xong cháo nguội.”
+
+Nàng nhìn bát cháo.
+
+Rồi nhớ mẫu thân dặn ăn cơm đúng bữa.
+
+Rất lâu sau, nàng cầm bát lên, ăn hai muỗng.
+
+Cháo rất nhạt.
+
+Nhưng ấm.
+
+Ăn xong, nàng đặt bát xuống.
+
+Rồi cầm bút.
+
+Nét đầu tiên run rất mạnh.
+
+Nàng hít một hơi.
+
+Viết lại.
 
 Lục phu nhân.
 
@@ -2139,7 +1677,7 @@ Vợ Lục Thanh Trì.
 
 Mẫu thân của Lục Uyển Ninh.
 
-Sau vụ thiện đường, bị ghi thành nữ bệnh dân Lạc Thủy, tạm gọi Lạc nương, an trí tại Nam Trạm.
+Sau vụ hỏa hoạn ở thiện đường, bị ghi thành nữ bệnh dân Lạc Thủy, tạm gọi Lạc nương, an trí tại Nam Trạm.
 
 Trong thời gian bệnh yếu, vẫn chăm bệnh dân khu đông.
 
@@ -2151,17 +1689,15 @@ Trước khi mất, dặn con:
 
 Hãy tìm người còn có thể sống.
 
-Nàng viết đến đây thì nước mắt lại rơi.
+Nàng viết đến đây thì dừng.
 
-Một giọt rơi xuống chữ “sống”.
+Một giọt nước mắt rơi xuống chữ “sống”.
 
 Mực nhòe đi một chút.
 
 Minh Châu nhìn vết nhòe ấy.
 
-Rất lâu.
-
-Rồi không lau.
+Không lau.
 
 Vân Lão ngồi đối diện nàng.
 
@@ -2173,7 +1709,7 @@ Minh Châu đáp:
 
 “Ừ.”
 
-“Vì công văn cũng sẽ không ghi.”
+“Vì thẻ mộ cũng không ghi.”
 
 “Ừ.”
 
@@ -2191,15 +1727,15 @@ Minh Châu cúi đầu nhìn tờ giấy.
 
 Nàng im lặng rất lâu.
 
-Ngoài miếu, trời dần sáng.
+Ngoài miếu, trời dần tối.
 
-Sương mỏng phủ trên cỏ.
+Sương mỏng phủ trên cỏ hoang.
 
-Một tiếng chim nhỏ vang lên từ rừng xa.
+Một tiếng chim nhỏ vang lên từ rừng xa, rồi im bặt.
 
 Minh Châu nói:
 
-“Để sau này, khi con tìm thấy một người không có tên, con nhớ rằng người đó cũng có thể là mẹ của ai đó.”
+“Để sau này, khi con thấy một người không có tên, con nhớ rằng người đó cũng có thể là mẹ của ai đó.”
 
 Nguyễn lão quay mặt đi.
 
@@ -2237,7 +1773,7 @@ Trên đời này, có lẽ sẽ không có công văn nào thừa nhận Lục 
 
 Không có quan phủ nào ghi lại rằng bà từng chăm bệnh dân đến hơi thở cuối cùng.
 
-Không có bia đá.
+Không có bia đá thật.
 
 Không có cáo văn.
 

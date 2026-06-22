@@ -161,7 +161,7 @@ Nàng ngẩng đầu.
 
 Vân Lão nhìn nàng, từng chữ rất chậm:
 
-“Người còn chưa đi nổi đến Thanh Khê, đừng nói chuyện đọc hết Lạc Thủy.”
+“Con còn chưa đi nổi đến Thanh Khê, đừng nói chuyện đọc hết Lạc Thủy.”
 
 Minh Châu không đáp.
 
@@ -187,11 +187,11 @@ Một lúc sau, ông chỉ nói:
 
 “Ừ. Tự đi.”
 
-Nhưng khi nàng bước lên thùng xe, ông vẫn đứng cạnh, im lặng canh đến khi nàng ngồi vững mới buông rèm xuống.
+Nhưng khi nàng bước lên thùng xe, ông vẫn đứng cạnh, đến khi nàng ngồi vững mới buông rèm xuống.
 
 Xe bắt đầu rời trạm nghỉ.
 
-Con đường từ An Dương vòng lên Thanh Khê không rộng. Một bên là vách đá thấp, một bên là triền cỏ dốc xuống thung lũng. Sương sớm chưa tan hết, bánh xe lăn qua đất ẩm tạo ra tiếng lộc cộc nặng nề.
+Con đường từ Tây Lăng Thành vòng lên Thanh Khê không rộng. Một bên là vách đá thấp, một bên là triền cỏ dốc xuống thung lũng. Sương sớm chưa tan hết, bánh xe lăn qua đất ẩm tạo ra tiếng lộc cộc nặng nề.
 
 Minh Châu ngồi trong thùng xe.
 
@@ -253,9 +253,7 @@ Cuối cùng, tấm rèm hé ra một chút.
 
 Một bàn tay nhỏ đưa ra.
 
-Ông đặt túi nước vào tay nàng.
-
-Không nói thêm gì.
+Ông đặt túi nước vào tay nàng. Không nói thêm gì.
 
 Xe tiếp tục đi.
 
